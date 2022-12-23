@@ -3,7 +3,7 @@
 [Date "2022-12-05"]
 [Round "-"]
 [White "Struan Robertson"]
-[Black "D.W.Robson"]
+[Black "David Robson"]
 [Result "0-1"]
 
 1. e4 c5 2. d4 cxd4 3. c3 Nf6 4. e5 Nd5 5. Bc4 Nb6 6. Bb3 Nc6 7. cxd4 d5 8.
@@ -17,7 +17,7 @@ Rf8 26. Rxf8+ Bxf8 27. b4 Kd7 28. Kg1 Ke6 29. Kf2 Kd5 30. Ke3 Bh6+
 [Site "Cowley"]
 [Date "2022.11.28"]
 [Round "-"]
-[White "D.W.Robson"]
+[White "David Robson"]
 [Black "Shambavi Harihavan"]
 [Result "1-0"]
 
@@ -41,7 +41,7 @@ Kxb4 Kf4 60. a5 Kg4 61. a6 Kxh4 62. a7
 [Site "Cumnor"]
 [Date "2022.11.24"]
 [Round "-"]
-[White "D.W.Robson"]
+[White "David Robson"]
 [Black "Simon Terrington"]
 [Result "*"]
 
@@ -58,6 +58,25 @@ Score confused/lost at this stage because both players very short of time
 }
 
 1/2-1/2
+
+[Event "Didcot 1 v Cowley 2"]
+[Site "Didcot"]
+[Date "2022.11.21"]
+[Round "-"]
+[White "Bernard Cooper"]
+[Black "David Robson"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. Nc3 d5 5. cxd5 Nxd5 6. e4 Nxc3 7. bxc3 c5
+8. Bc4 Nc6 9. O-O O-O 10. Bb2 Bg4 11. h3 Bxf3 12. Qxf3 cxd4 13. cxd4 Nxd4
+14. Bxd4 Qxd4 15. Rac1 Qe5 16. Rfd1 e6 17. Rd7 b5 18. Bb3 Rfc8 19. Rxc8+
+Rxc8 20. Qxf7+ Kh8 21. Qf3 Rc1+ 22. Bd1 Qf6 23. Qd3 Rc8 24. Rxa7 Rf8 25.
+Bf3 Qa1+ 26. Kh2 Qe5+ 27. g3 Qc5 28. Qa3 Qxf2+ 29. Bg2 Qe1
+{
+Score confused at this point
+}
+
+1-0
 
 [Event "Cowley 2 v Didcot 2"]
 [Site "Cowley"]
@@ -85,7 +104,7 @@ Black lost on time in a lost position
 [Date "2022.10.17"]
 [Round "-"]
 [White "Jonathan Hodson"]
-[Black "D.W.Robson"]
+[Black "David Robson"]
 [Result "1/2-1/2"]
 
 1. c4 Nf6 2. Nc3 d5 3. cxd5 Nxd5 4. Nf3 c5 5. e3 g6 6. h4 h5 7. Ng5 Nc6 8.
