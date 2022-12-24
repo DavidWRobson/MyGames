@@ -123,5 +123,33 @@ Bb5 Nf6 9. Qf3 Bd7 10. Nce4 Ne5 11. Nxf6+ exf6 12. Bxd7+ Nxd7 13. Ne4 Qb6
 [Result "1-0"]
 [Board "2"]
 
-1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. fxe5 Nxe4 5. d3 Qh4+ 6. g3 Nxg3 7. Nf3 Qh5 8. Nxd5 Na6 9. Nf4 Qh6 10. Ne2 Qc6 11. Nxg3 Bg4 12. Bg2 Bb4+ 13. c3 Bxc3+ 14. bxc3 Qxc3+ 15. Bd2 Qxd3 16. Qa4+ Bd7 17. Qe4 Nc5 18. Qxd3 Nxd3+ 19. Ke2 Bb5 20. Ke3 Nc5 21. Bb4 Ne6 22. Rhd1 c5 23. Bc3 Bc6 24. Ne4 Ke7 25. Rd2 Rhd8 26. Rad1 h6 27. Rd6 Rdc8 28. Bh3 b6 29. Bxe6 fxe6 30. Nh4 Bd5 31. Ng6+ Kf7 32. Nf4 Bxa2 33. Rd7+ Kg8 34. Rg1 g5 35. Nf6+ Kf8 36. Ng6# 1-0
+1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. fxe5 Nxe4 5. d3 Qh4+ 6. g3 Nxg3 7. Nf3 Qh5
+8. Nxd5 Na6 9. Nf4 Qh6 10. Ne2 Qc6 11. Nxg3 Bg4 12. Bg2 Bb4+ 13. c3 Bxc3+
+14. bxc3 Qxc3+ 15. Bd2 Qxd3 16. Qa4+ Bd7 17. Qe4 Nc5 18. Qxd3 Nxd3+
+19. Ke2 Bb5 20. Ke3 Nc5 21. Bb4 Ne6 22. Rhd1 c5 23. Bc3 Bc6 24. Ne4 Ke7
+25. Rd2 Rhd8 26. Rad1 h6 27. Rd6 Rdc8 28. Bh3 b6 29. Bxe6 fxe6
+30. Nh4 Bd5 31. Ng6+ Kf7 32. Nf4 Bxa2 33. Rd7+ Kg8 34. Rg1 g5 35. Nf6+ Kf8
+36. Ng6# 1-0
 
+[Event "Oxfordshire v Buckinghamshire"]
+[Site "Cumnor"]
+[Date "2022-09-24"]
+[Round "-"]
+[White "Roger de Coverley"]
+[Black "David Robson"]
+[Result "1-0"]
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 c5 7. Bc4 Bg7 8. Ne2 Nc6
+9. Be3 O-O 10. O-O Bd7 11. Rb1 Qc7 12. Qd2 Na5 13. Bd3 c4 14. Bc2 b5 15. Bh6 Rad8
+16. h4 e5 17. Bxg7 Kxg7 18. f4 f6 19. fxe5 fxe5 20. Qg5 Rde8 21. h5 Qd6 22. h6+ Kg8
+23. dxe5 Qxe5 24. Rxf8+ Kxf8 25. Qe3 Nc6 26. Nf4 a6 27. Rf1 Kg8 28. Rd1 Be6 29. a4 b4
+30. Nxe6 Qxe6 31. cxb4 Nxb4 32. Qd4 Qe5 33. Qxc4+ 1-0
+[Event "Cowley 2 v City 2"]
+[Site "Cowley"]
+[Date "2022-05-02"]
+[Round "-"]
+[White "David Robson"]
+[Black "Tim King"]
+[Result "0-1"]
+1. e4 b6 2. d4 Bb7 3. Bd3 e6 4. Nf3 c5 5. c3 Nc6 6. d5 exd5 7. O-O Na5 8. exd5 Bxd5 9. Re1+ Be6 10. Ng5 Qc7 11. Nxf7 Nf6
+12. Nxh8 O-O-O 13. Na3 c4 14. Bf1 Bxa3 15. bxa3 Rxh8 16. g3 h5 17. Bg2 h4 18. Bf4 Qc5 19. Re5 Qxa3 20. Qf3 Bd5
+21. Rxd5 Nxd5 22. Qxd5 Nc6 23. Rd1 Qe7 24. Bh3 hxg3 25. Bxd7+
