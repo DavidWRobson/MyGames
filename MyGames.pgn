@@ -1,3 +1,21 @@
+[Event "Witney 2 v Cowley 2"]
+[Site "Duckington Village Hall"]
+[Date "2022.01.09"]
+[Round "-"]
+[White "David Robson"]
+[Black "Howard Searle"]
+[Result "1/2-1/2"]
+
+1. e4 d6 2. d4 g6 3. Nc3 Bg7 4. Be3 a6 5. Be2 b5 6. h4 h5 7. Nh3 Nd7 8. Qd2
+Bb7 9. Bd3 c5 10. d5 b4 11. Nd1 Ngf6 12. Ng5 Ne5 13. O-O O-O 14. Bf4 Nh7
+15. Be2 Nxg5 16. Bxg5 Qd7 17. Bh6 a5 18. Bxg7 Kxg7 19. Ne3 Ba6 20. Bxa6
+Rxa6
+{
+Black offers a draw
+}
+
+1/2-1/2
+
 [Event "Witney 1 v Cowley 1"]
 [Site "Witney"]
 [Date "2022.12.05"]
@@ -273,7 +291,7 @@ Bb5 Nf6 9. Qf3 Bd7 10. Nce4 Ne5 11. Nxf6+ exf6 12. Bxd7+ Nxd7 13. Ne4 Qb6
 [Site "Lady Margaret Hall"]
 [Date "2021.10.21"]
 [Round "?"]
-[White "D.W.Robson"]
+[White "David Robson"]
 [Black "Shree Nahta"]
 [Result "1/2-1/2"]
 [WhiteElo "1788"]
@@ -293,4 +311,65 @@ e6 48. dxe6 fxe6 49. Ra8 d5 50. exd5 exd5 51. Rf8+ Kg6 52. Rg8+ Kf6 53. Rf8+ Kg7
 d2 61. Kg4 Rb4+ 62. Kg3 Kf5 63. Rgf1 Ke5 64. Rf2 Rxf2 65. Kxf2 Rb2 66. Ke3 Rc2
 67. Rxd2 Rxd2 68. Kxd2 Kf4 69. Ke2 Kg3 70. Kf1 g4 71. fxg4 Kxg4 72. Kf2 Kf4 73.
 g3+ Kg5 1/2-1/2
+
+[Event "Cowley 2 v Witney 2"]
+[Site "https://lichess.org/Pnc6EhqS"]
+[Date "2020.11.16"]
+[White "David Robson"]
+[Black "Guy Waller"]
+[Result "1-0"]
+[UTCDate "2020.11.16"]
+[UTCTime "19:29:49"]
+[WhiteElo "2011"]
+[BlackElo "1500"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-60"]
+[Variant "Standard"]
+[TimeControl "5400+15"]
+[ECO "B03"]
+[Opening "Alekhine Defense"]
+[Termination "Normal"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. exd6 exd6 5. c4 Nb6 6. Nc3 Nc6 7. Be3 Be7 8. Bd3 Bf6 9. Nge2 Bg4 10. f3 Bd7 11. O-O O-O 12. Re1 Re8 13. Qd2 Nc8 14. Nd5 Nb6 15. Nxf6+ gxf6 16. Bf2 Ne7 17. Ng3 Ng6 18. Qh6 Rxe1+ 19. Rxe1 Qf8 20. Qh5 Re8 21. Ne4 Rxe4 22. Bxe4 Nxc4 23. b3 Na5 24. Qxa5 1-0
+
+[Event "Cowley 1 v Oxford City 1"]
+[Site "https://lichess.org/Hu1DWLPi"]
+[Date "2020.11.09"]
+[White "Luke Wildgoose"]
+[Black "David Robson"]
+[Result "0-1"]
+[UTCDate "2020.11.09"]
+[UTCTime "19:30:53"]
+[WhiteElo "1500"]
+[BlackElo "1999"]
+[WhiteRatingDiff "-63"]
+[BlackRatingDiff "+12"]
+[Variant "Standard"]
+[TimeControl "2700+15"]
+[ECO "D85"]
+[Opening "Grünfeld Defense: Exchange Variation"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. Nxd5 Qxd5 6. e3 Bg7 7. h3 c5 8. Nf3 Nc6 9. Bb5 O-O 10. dxc5 Qxc5 11. Qb3 Be6 12. Qa4 a6 13. Bxc6 bxc6 14. O-O Rfb8 15. Nd4 Bc4 16. Rd1 Bb5 17. Nxb5 cxb5 18. Qb3 Rd8 19. Bd2 Rac8 20. Rac1 Qh5 21. Bb4 Bf6 22. Rxd8+ Rxd8 23. Qc2 Qd5 24. Ba5 Rd7 25. Qc6 Bxb2 26. Qxd5 Rxd5 27. Rc6 Rd6 28. Rc7 Kf8 29. Bb4 Rd1+ 0-1
+
+[Event "Cowley 2 v Oxford University 3"]
+[Site "https://lichess.org/iETVDpeM"]
+[Date "2020.10.26"]
+[White "David Robson"]
+[Black "Alexander Hughes"]
+[Result "1-0"]
+[UTCDate "2020.10.26"]
+[UTCTime "19:28:30"]
+[WhiteElo "1987"]
+[BlackElo "1500"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-66"]
+[Variant "Standard"]
+[TimeControl "2700+15"]
+[ECO "B22"]
+[Opening "Sicilian Defense: Alapin Variation"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. Bc4 Nb6 5. Bb3 d6 6. Bc2 Nc6 7. Nf3 Qc7 8. Qe2 g6 9. O-O Bg7 10. Re1 O-O 11. Na3  Na5 12. d4 d5 13. h3 Nd7 14. Bf4 e6 15. Qe3 b6 16. Nb5 Qc6 17. Nd6 f6 18. exf6 Nxf6 19. Nxc8 Raxc8 20. Qxe6+ Qxe6 21. Rxe6 Rfe8 22. Rae1 Rxe6 23. Rxe6 Kf7 24. Ng5+ Kg8 25. Ba4 h6 26. Nf3 Kf7 27. Re2 Ne4 28. Ne5 Bxe5 29. Bxe5 Nc6 30. Bh2 Ne7 31. f3 Nf6 32. Kf2 g5 33. Bc2 b5 34. Bd6 Re8 35. Re5 a6 36. g4 Nc8 37. Rxe8  Kxe8 38. Bg6+ Kd7 39. Bf8 Ne7 40. Bf7 Neg8 41. Ke3 Kc6 42. f4 Kd7 43. Kf3 Kc6 44. Be6 Kc7 45. Bxh6 Nxh6 46. fxg5 Nhxg4 47. Bxg4 Nh7 48. g6 Nf6 49. h4 Kd6 50. h5 Ke7 51. h6 Kf8 52. Be6 Ke7 53. h7 Kxe6 54. h8=Q 1-0
 
