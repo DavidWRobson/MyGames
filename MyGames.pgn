@@ -61,7 +61,7 @@ Kxb4 Kf4 60. a5 Kg4 61. a6 Kxh4 62. a7
 [Round "-"]
 [White "David Robson"]
 [Black "Simon Terrington"]
-[Result "*"]
+[Result "0.5-0.5"]
 
 1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. Nf3 Nc6 6. Bc4 Nb6 7. Bb3 d5 8.
 exd6 Qxd6 9. O-O Bf5 10. Na3 a6 11. Qe2 e6 12. Rd1 d3 13. Qe3 Qc5 14. Nh4
@@ -372,4 +372,27 @@ g3+ Kg5 1/2-1/2
 [Annotator "lichess.org"]
 
 1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. Bc4 Nb6 5. Bb3 d6 6. Bc2 Nc6 7. Nf3 Qc7 8. Qe2 g6 9. O-O Bg7 10. Re1 O-O 11. Na3  Na5 12. d4 d5 13. h3 Nd7 14. Bf4 e6 15. Qe3 b6 16. Nb5 Qc6 17. Nd6 f6 18. exf6 Nxf6 19. Nxc8 Raxc8 20. Qxe6+ Qxe6 21. Rxe6 Rfe8 22. Rae1 Rxe6 23. Rxe6 Kf7 24. Ng5+ Kg8 25. Ba4 h6 26. Nf3 Kf7 27. Re2 Ne4 28. Ne5 Bxe5 29. Bxe5 Nc6 30. Bh2 Ne7 31. f3 Nf6 32. Kf2 g5 33. Bc2 b5 34. Bd6 Re8 35. Re5 a6 36. g4 Nc8 37. Rxe8  Kxe8 38. Bg6+ Kd7 39. Bf8 Ne7 40. Bf7 Neg8 41. Ke3 Kc6 42. f4 Kd7 43. Kf3 Kc6 44. Be6 Kc7 45. Bxh6 Nxh6 46. fxg5 Nhxg4 47. Bxg4 Nh7 48. g6 Nf6 49. h4 Kd6 50. h5 Ke7 51. h6 Kf8 52. Be6 Ke7 53. h7 Kxe6 54. h8=Q 1-0
+
+[Event "Cowley 1 v Cumnor 1"]
+[Site "https://lichess.org/rL1jJLIk"]
+[Date "2020.04.19"]
+[Round "-"]
+[White "David Robson"]
+[Black "Ian Bush"]
+[Result "0-1"]
+[UTCDate "2020.04.19"]
+[UTCTime "14:44:48"]
+[WhiteElo "2055"]
+[BlackElo "1500"]
+[WhiteRatingDiff "-68"]
+[BlackRatingDiff "+431"]
+[Variant "Standard"]
+[TimeControl "2700+15"]
+[ECO "B07"]
+[Opening "Pirc Defense: 150 Attack"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Be3 c6 5. Qd2 Nbd7 6. f3 b5 7. O-O-O b4 8. Nce2 a5 9. Kb1 Nb6 10. Nc1 Qc7 11. g4 Rb8 12. h4 h5 13. g5 Nfd7 14. f4 c5 15. e5 e6 16. Bg2 Nc4 17. Qe2 Nxe3 18. Qxe3 d5 19. Nf3 c4 20. Ne1 Nb6 21. Bf3 Na4 22 Rg1 Be7 23. f5 Nc3+ 24. bxc3 bxc3+ 25. Nb3 cxb3 26. cxb3 a4 27. Rc1 axb3 28. Rxc3 bxa2+ 29. Ka1 Qb6 30. Nd3 Qb1+ 31. Rxb1 axb1=Q# 0-1
+
 
