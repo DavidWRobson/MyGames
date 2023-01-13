@@ -136,8 +136,8 @@ Bb5 Nf6 9. Qf3 Bd7 10. Nce4 Ne5 11. Nxf6+ exf6 12. Bxd7+ Nxd7 13. Ne4 Qb6
 [Site "Cowley"]
 [Date "2022.10.10"]
 [Round "-"]
-[Black "Miroslawa Litwiniec"]
 [White "David Robson"]
+[Black "Miroslawa Litwiniec"]
 [Result "1-0"]
 [Board "2"]
 
@@ -435,4 +435,62 @@ Nxf6 15. Qe2 d5 16. Bg5 Re8 17. Rac1 Qd7 {??} 18. Bb1 {?? Ne5+} Rf8 19. Rc3
 Qe8 20. Ne5 Bd7 {?} 21. Rh3 Nxe5 22. Bxf6 Rxf6 23. Bxh7+ Kf7 24. dxe5 Rf4 25. 
 Rdd3 {??  Bg6+!} Bxa3 26. Rxa3 Ke7 27. Qd2 {Score here confused.  Both 
 players very short of time} 1/2-1/2
+
+[Event "Cumnor 1 v Cowley 1"]
+[Site "?"]
+[Date "2019.12.12"]
+[Round "?"]
+[White "Liam Glenn"]
+[Black "David Robson"]
+[Result "1/2-1/2"]
+[WhiteElo "151"]
+[BlackElo "145"]
+[ECO "B23"]
+[TimeControl "0"]
+
+1. e4 c5 2. Nc3 Nc6 3. f4 g6 4. Nf3 Bg7 5. Bb5 Nd4 6. O-O e6 {Nxb5 is better} 
+7. e5 a6 8. Be2 d5 9. Nxd4 cxd4 10. Nb1 Ne7 11. b3 O-O 12. Ba3 f6 13. Bd6 Rf7 
+14. Bd3 Bd7 15. c3 dxc3 16. dxc3 Nc8 17. exf6 Nxd6 18. fxg7 Kxg7 19. Nd2 Qb6+ 
+20. Kh1 Raf8 21. g3 {? Qe2!?} Qc6 22. Rc1 d4+ 23. Qf3 dxc3 24. Ne4 Rc8 {?} 
+25. Rxc3 Qb6 26. Rxc8 Nxc8 27. Qf2 Qb4 28. Qb2+ Kf8 29. Qc3 {?? Ng5 was 
+winning} Qxc3 30. Nxc3 1/2-1/2
+
+[Event "Witney 1 v Cowley 1"]
+[Site "Witney"]
+[Date "2019.12.02"]
+[Round "?"]
+[White "David Robson"]
+[Black "Mike Rabbitt"]
+[Result "0-1"]
+[WhiteElo "151"]
+[BlackElo "173"]
+[ECO "C29"]
+[TimeControl "5400"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. fxe5 Nxe4 5. d3 Nxc3 6. bxc3 Be7 7. Nf3 O-O 
+8. Be2 f6 9. d4 fxe5 10. Nxe5 Nd7 11. Nxd7 Bxd7 12. Bf3 c6 13. O-O Bd6 14. 
+Qe1 Bf5 15. Qe2 Qc7 16. g3 Rae8 17. Qd2 Qd7 18. a4 Bh3 19. Bg2 Bg4 20. Bb2 
+Re2 21. Rxf8+ Bxf8 22. Qd3 Qe6 23. Rf1 g6 24. Bf3 Bxf3 25. Qxf3 Bh6 26. Bc1 
+Bg7 27. Rf2 Rxf2 28. Kxf2 Bf8 29. Kg2 Be7 30. Bf4 g5 31. Be5 g4 32. Qf4 Qg6 
+33. Qf2 Qe4+ 34. Kg1 Bg5 35. Kf1 Be7 36. Bb8 a6 37. Be5 h5 38. Bc7 h4 39. Ba5 
+Kg7 40. Bb4 Bg5 41. Qg2 Qxg2+ 42. Kxg2 Kf6 43. Kf2 Kf5 {Score is confused 
+from here on in, or maybe even earlier. White resigned on move 48} *
+0-1
+[Event "Cowley 1 v Didcot 1"]
+[Site "Cowley"]
+[Date "2019.10.14"]
+[Round "?"]
+[White "David  Robson"]
+[Black "Guanqun, Gai"]
+[Result "0-1"]
+[WhiteElo "151"]
+[BlackElo "140"]
+[ECO "B22"]
+[TimeControl "0"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. Nf3 Nc6 6. cxd4 d6 7. Bc4 Nb6 8. 
+Bb5 e6 9. O-O Be7 10. Nc3 a6 11. Bd3 dxe5 12. dxe5 Nb4 13. Be4 Qxd1 14. Rxd1 
+O-O 15. Bg5 N4d5 16. Nxd5 Nxd5 17. Bxd5 Bxg5 18. Nxg5 exd5 19. Rxd5 h6 20. 
+Ne4 Be6 21. Rd2 Rac8 22. a3 b5 23. Kf1 Rc4 24. f3 Rfc8 25. Rad1 Rc1 26. Nc3 
+Rxd1+ 27. Rxd1 Rc5 28. f4 g5 {Score confused after this} 0-1
 
