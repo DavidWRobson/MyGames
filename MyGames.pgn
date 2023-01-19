@@ -593,3 +593,160 @@ cxb5 axb5 21. Rac1 Ra7 {?? Better Ra8} 22. Bb6 Ra6 23. Rxc8 Nxc8 24. Bxd4 Rc6
 31. Kf3 e5 32. Ne2 Be6 {Na4!} 33. Bxe6 Kxe6 34. Nc3 {Draw offered by white 
 but it was very generous!!  I am lost.} 1/2-1/2
 
+[Event "Cowley CounterGambits v Wanatge Alfredians"]
+[Site "Cowley"]
+[Date "2019.04.08"]
+[Round "?"]
+[White "George Spaldings"]
+[Black "David Robson"]
+[Result "0-1"]
+[WhiteElo "108"]
+[BlackElo "152"]
+[ECO "A05"]
+[TimeControl "5400+90"]
+
+1. Nf3 Nf6 2. b3 d5 3. Bb2 e6 4. e3 Bd6 5. Be2 Nbd7 6. c4 c6 7. Nc3 O-O 8. 
+cxd5 cxd5 9. O-O e5 10. Nb5 Bb8 11. Ba3 Re8 12. Nd6 Bxd6 13. Bxd6 Qa5 14. Qc2 
+Ne4 15. Bc7 Qa3 16. Rfc1 b6 {??} 17. Qc6 Bb7 18. Qxd7 Rac8 19. Rc2 Re7 20. 
+Qb5 {?? Bd6 wins!!} Rexc7 21. Rxc7 Rxc7 22. Qe8+ Qf8 23. Qxf8+ {? Qxe5 is 
+better} Kxf8 24. Bd3 {?} f6 25. Kf1 g6 26. Ke2 Ke7 {Nc5 is better} 27. Ne1 
+Kd6 28. Nc2 Nc5 {Threatening 26  .. Ncd3 27 Kxd3 Ba6 mate} 29. Na3 a6 30. Rc1 
+Rc6 31. b4 Nxd3 32. Rxc6+ Kxc6 33. Kxd3 h5 34. g3 Bc8 35. f4 Be6 36. e4 {??} 
+d4 {de Kxe4 ef followed by Bxa2 was much better} 37. Nc4 {?? fe first is a 
+draw.} Kb5 38. Nd6+ Kxb4 39. fxe5 fxe5 {White resigns} 0-1
+
+[Event "Cowley 1 v Didcot 1"]
+[Site "Cowley"]
+[Date "2019.03.18"]
+[Round "?"]
+[White "David Robson"]
+[Black "Bernard Cooper"]
+[Result "0-1"]
+[WhiteElo "150"]
+[BlackElo "152"]
+[ECO "B22"]
+[TimeControl "0"]
+
+1. e4 c5 2. c3 e6 3. d4 d5 4. exd5 exd5 5. Nf3 Nf6 6. Bg5 Be7 7. Nbd2 c4 8. 
+Ne5 O-O 9. g3 Nc6 10. Ndf3 Ne4 11. Nxc6 bxc6 12. Bf4 Re8 13. Bg2 Bg4 {13. ... 
+Ba3!} 14. O-O Ng5 15. Bxg5 Bxg5 16. Qa4 Bxf3 17. Bxf3 Qd7 18. Rfe1 h6 19. h4 
+Bf6 20. Qd1 Rxe1+ 21. Qxe1 Re8 22. Qd2 Qf5 23. Kg2 Qe6 24. Qf4 Qe7 25. Rf1 a5 
+26. Bd1 Qe4+ 27. Qxe4 Rxe4 28. f4 Kf8 29. Ba4 Re6 30. f5 Rd6 31. Re1 Be7 32. 
+Kf3 g5 33. h5 Rf6 34. g4 Rd6 35. Rb1 Rf6 36. b3 c5 37. dxc5 Bxc5 38. bxc4 
+dxc4 39. Rb5 Bb6 40. Rd5 Kg7 41. Ke4 Kf8 42. Ke5 Kg7 43. Rd7 Bf2 44. Rc7 {?? 
+45 Bb5 +2.0} 0-1
+
+[Event "Cowley 1 v Oxford City 1"]
+[Site "Cowley"]
+[Date "2019.03.11"]
+[Round "?"]
+[White "David Robson"]
+[Black "Jason McKenna"]
+[Result "0-1"]
+[WhiteElo "190"]
+[BlackElo "152"]
+[ECO "B06"]
+[TimeControl "0"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Be3 Nf6 5. f3 c6 6. Qd2 b5 7. Bh6 Bxh6 8. 
+Qxh6 Qa5 9. Qd2 Nbd7 10. Bd3 b4 11. Nd1 c5 12. c3 {?    Ne2 is better} bxc3 
+13. bxc3 Ba6 14. Bxa6 Qxa6 15. Ne2 Rb8 16. O-O O-O 17. Ne3 Rb6 18. Rfb1 Rfb8 
+19. Rxb6 Rxb6 20. Nf4 e6 21. Nd3 cxd4 22. cxd4 Qa4 23. Nc1 Rb4 24. d5 {? Ne2 
+is better} Rd4 25. Qc2 {?? Qc3 =} Qxc2 26. Nxc2 Rd1+ 0-1
+
+[Event "University Unicorns v Cowley CounterGambits"]
+[Site "Worcester College, Oxford"]
+[Date "2019.02.28"]
+[Round "?"]
+[White "William Thomas"]
+[Black "David Robson"]
+[Result "0-1"]
+[WhiteElo "152"]
+[BlackElo "122"]
+[ECO "A48"]
+[TimeControl "5400+90"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 d5 4. Nc3 Bg7 5. e3 O-O 6. h3 c5 7. cxd5 Nxd5 8. 
+Bc4 Nb6 9. Bb3 cxd4 10. exd4 Nc6 11. Be3 Na5 12. O-O Nxb3 13. Qxb3 Be6 14. 
+Qb4 a5 15. Qc5 Nd5 16. Ne4 Rc8 17. Qb5 Qb6 {?  17 ... Nxe3 followd by Bc5} 
+18. Qe2 Nxe3 19. fxe3 {??  Qxe3 is better} Bc4 20. Qf2 Bxf1 21. Rxf1 Qc6 22. 
+Nfg5 {??} h6 (22. ... f6 {22 h6 Nxf7 23 Qxe4 maybe better} 23. Qh4 fxg5 24. 
+Rxf8+ Rxf8 25. Nxg5 h6 26. Nf3 Qc1+ 27. Kf2 Qd2+ 28. Kf1 Qxe3 29. Qg4 Kh7 30. 
+h4 Bxd4 31. Qg3 Rf6 32. b3 Qd3+ {Black resigned} ) 23. Nxf7 0-1
+
+[Event "Didcot 1 v Cowley 1"]
+[Site "Didcot"]
+[Date "2018.10.24"]
+[Round "?"]
+[White "David Robson"]
+[Black "Andy Robbins"]
+[Result "0-1"]
+[WhiteElo "155"]
+[BlackElo "143"]
+[ECO "C26"]
+[TimeControl "5400+90"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 d6 4. Nf3 Bg4 5. h3 Bxf3 6. Qxf3 Nbd7 7. Bc4 Be7 8. 
+d3 exf4 9. Bxf4 Ne5 10. Bxe5 dxe5 11. Qg3 Nxe4 {12. Qxg7 Bh4+ 13. Kd1 Nxc3+ 
+14. bxc3 Qf6 15. Bxf7+ Ke7 16. Qxf6+ Bxf6 17. Bd5 c6 18. Be4} 12. Qxe5 Nxc3 
+13. bxc3 O-O 14. O-O Bf6 15. Qa5 {15 Qf5 is better} c6 16. Qb4 {?? 16 Qc4} b5 
+{resigns} 0-1
+
+[Event "Cowley 1 v Banbury 1"]
+[Site "?"]
+[Date "2019.02.25"]
+[Round "?"]
+[White "Arran Gundry"]
+[Black "David Robson"]
+[Result "1/2-1/2"]
+[WhiteElo "163"]
+[BlackElo "152"]
+[ECO "B23"]
+[TimeControl "0"]
+
+1. e4 c5 2. Nc3 Nc6 3. f4 g6 4. Nf3 Bg7 5. Bb5 Nd4 6. O-O e6 {Better is 6 .. 
+NxB5 7 Nxb5 d5 8 exd5 a6 9 Nxc3 Nf6} 7. e5 a6 8. Bd3 d5 9. Nxd4 cxd4 10. Ne2 
+Qb6 11. b3 Ne7 12. Bb2 Nc6 13. Qe1 Bf8 14. a3 a5 15. Rb1 Bd7 16. Kh1 Be7 17. 
+Qf2 Bc5 18. Qh4 Be7 19. Qg3 Bc5 20. Rf3 Qd8 21. Nc1 Qe7 22. Ra1 O-O 23. Be2 
+f6 24. exf6 Rxf6 25. Nd3 Bd6 26. Qf2 Raf8 27. a4 Nb4 28. Nxb4 Bxb4 29. Qxd4 
+Bc5 30. Qc3 Bb4 {30 .. d4    Draw offered by White and accepted} 1/2-1/2
+
+[Event "Cowley 2 v Cowley 1"]
+[Site "Cowley"]
+[Date "2019.01.10"]
+[Round "?"]
+[White "Bruno Currie"]
+[Black "David Robson"]
+[Result "1-0"]
+[WhiteElo "170"]
+[BlackElo "152"]
+[ECO "B23"]
+[TimeControl "0"]
+
+1. e4 c5 2. Nc3 Nc6 3. f4 g6 4. Nf3 Bg7 5. Bb5 Nd4 6. O-O e6 7. e5 a6 8. Bd3 
+d5 9. Nxd4 cxd4 10. Ne2 Qb6 11. b3 Ne7 12. Qe1 O-O 13. Ba3 Re8 14. Bxe7 Rxe7 
+15. Qf2 f6 16. Nxd4 Bd7 17. Rae1 Rf8 18. Nf3 Qc7 19. Qh4 Ref7 20. Re3 Qb6 21. 
+Kh1 Bb5 22. Rfe1 Bxd3 23. Rxd3 fxe5 24. fxe5 Rc7 25. c3 Rcf7 26. Rde3 Qc7 27. 
+d4 Rf4 28. Qh3 Qf7 29. Rg1 h6 30. Ree1 g5 31. Nd2 g4 32. Qd3 Qh5 33. Ref1 
+Rxf1 34. Rxf1 Rxf1+ 35. Nxf1 Qg5 36. Ne3 h5 37. g3 Bh6 1-0
+
+[Event "Cowley 1 v Witney 1"]
+[Site "Cowley"]
+[Date "2019.02.18"]
+[Round "?"]
+[White "David Robson"]
+[Black "Csaba Kostza"]
+[Result "1/2-1/2"]
+[WhiteElo "151"]
+[BlackElo "179"]
+[ECO "C29"]
+[TimeControl "0"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. fxe5 Nxe4 5. d3 Nxc3 6. bxc3 d4 7. Nf3 c5 8. 
+Be2 Be7 9. O-O O-O 10. Qe1 Nc6 11. Qg3 Kh8 12. Kh1 dxc3 13. Bf4 Be6 14. Ng5 
+Bxg5 15. Bxg5 Qc7 16. Bf4 Nb4 17. Bd1 Nxa2 18. Bf3 Nb4 19. Be4 Qd7 20. Bg5 
+Nd5 21. Qh4 f5 22. exf6 Nxf6 23. Rxf6 gxf6 24. Bxf6+ Rxf6 25. Qxf6+ Kg8 26. 
+Rf1 Bf7 27. Rf5 Re8 28. h4 Re6 29. Rg5+ Kf8 30. Qxc3 Qd4 31. Qa3 Re5 32. Rxe5 
+Qxe5 33. Qxa7 b5 34. Qb7 b4 35. Qc8+ Ke7 36. Bxh7 Qe1+ 37. Kh2 Qxh4+ 38. Kg1 
+Qe1+ 39. Kh2 Qe5+ 40. Kg1 Qe1+ 1/2-1/2
+
