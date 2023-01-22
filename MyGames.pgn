@@ -1,3 +1,24 @@
+[Event "Oxfordshire v Buckinghamshire"]
+[Site "Cumnor"]
+[Date "2021.01.21"]
+[Round "-"]
+[White "David Rollinson"]
+[Black "David Robson"]
+[Result "1/2-1/2"]
+[Board "11"]
+
+1. d4 Nf6 2. Nf3 d5 3. Bg5 g6 4. Nbd2 Bg7 5. e3 c5 6. c3 b6 7. Bb5+ Bd7 8.
+Bxd7+ Nbxd7 9. O-O O-O 10. Re1 h6 11. Bxf6 Nxf6 12. Ne5 Rc8 13. Rc1 Qd6 14.
+Qe2 Rc7 15. g3 Rfc8 16. Ng4 Nd7 17. dxc5 Nxc5 18. f3 Ne6 19. Red1 Qc5 20.
+Nb3 Qc6 21. Nd4 Nxd4 22. exd4 b5 23. Ne5 Qb6 24. Nd3 e6 25. Kf1 Bf8 26. a3
+a5 27. Qd2 Kh7 28. Rb1 b4 29. axb4 axb4 30. Nxb4 Bxb4 31. cxb4 Rc4 32. Qf4
+R8c7 33. h4 Rxb4 34. Kg2 Rxb2+ 35. Rxb2 Qxb2+ 36. Rd2 Qb7 37. g4 Rc4 38.
+Qf6 Qc7 39. Kh3 Kg8 40. h5 g5 41. Ra2 Qb8 42. Qxh6 Qd8 43. Rd2
+{
+White offers draw
+}
+1/2-1/2
+
 [Event "Witney 2 v Cowley 2"]
 [Site "Duckington Village Hall"]
 [Date "2023.01.09"]
@@ -748,5 +769,5 @@ Bxg5 15. Bxg5 Qc7 16. Bf4 Nb4 17. Bd1 Nxa2 18. Bf3 Nb4 19. Be4 Qd7 20. Bg5
 Nd5 21. Qh4 f5 22. exf6 Nxf6 23. Rxf6 gxf6 24. Bxf6+ Rxf6 25. Qxf6+ Kg8 26. 
 Rf1 Bf7 27. Rf5 Re8 28. h4 Re6 29. Rg5+ Kf8 30. Qxc3 Qd4 31. Qa3 Re5 32. Rxe5 
 Qxe5 33. Qxa7 b5 34. Qb7 b4 35. Qc8+ Ke7 36. Bxh7 Qe1+ 37. Kh2 Qxh4+ 38. Kg1 
-Qe1+ 39. Kh2 Qe5+ 40. Kg1 Qe1+ 1/2-1/2
+Qe1+ 39. Kh2 Qe5+ 40. Kg1 Qe1+ {White offered a draw} 1/2-1/2
 
