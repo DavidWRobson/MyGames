@@ -896,6 +896,64 @@ Rhe1 Qf7 21. Bc4 Nd5 22. Be3 Nxe3 23. Rxd7 Kxd7 24. Rxe3 Qf4 25. Qxe6+ Kd8
 c4 Rfd8 15. Nxf6+ gxf6 16. b3 Rd7 17. Qe4 c6 18. Rfe1 Rad8 19. h3 Nc8 20. Qf4 
 Kg7 1/2-1/2
 
+[Event "Didcot 1 v Cowley 1"]
+[Site "Didcot"]
+[Date "2918.93.14"]
+[Round "?"]
+[White "David Robson"]
+[Black "Andrejs Olehnovics"]
+[Result "1/2-1/2"]
+[WhiteElo "171"]
+[BlackElo "161"]
+[ECO "C05"]
+[TimeControl "0"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ngf3 Be7 8. 
+O-O O-O 9. Re1 f6 10. Nf1 f5 11. Ng3 h6 12. Bd2 Qe8 13. h4 cxd4 14. cxd4 Kh7 
+15. Rc1 g6 16. Rc3 Rg8 17. Qc1 Qf8 18. a3 Nb6 19. b4 Bd7 20. b5 Na5 21. Rc7 
+Nb3 22. Qc3 Nxd2 23. Nxd2 Bxa3 24. Ra1 Bb4 25. Qc2 Qb8 26. Nb3 Rc8 27. Rc1 
+Rxc7 28. Qxc7 Qxc7 29. Rxc7 Rc8 30. Rxb7 Rc3 31. Nc5 Bxc5 32. dxc5 Rxc5 33. 
+Rxa7 Kg8 34. Rb7 Bxb5 35. Rxb6 Bxd3 36. Rxe6 Rc1+ 37. Kh2 Kf7 38. Rf6+ Kg7 
+39. h5 f4 40. Nh1 g5 41. f3 Rc2 42. Kg1 Rc1+ 43. Kh2 Rf1 44. Rd6 Bc4 45. Rg6+ 
+Kh7 46. Rd6 Re1 47. e6 Re2 (47. ... Kg7 48. Nf2 Kf6 49. Ng4+ Ke7 50. Rc6 Rxe6 
+51. Rxe6+ Kxe6 52. Kg1 d4 53. Kf2 d3 54. Ke1 d2+ 55. Kxd2 Bf1 56. Nxh6 Bxg2 
+57. Ke2 Bh3 58. Ng4 Bxg4 59. fxg4 Ke5 ) 1/2-1/2
+
+[Event "Cowley Forks v Cumnor Six Horsemen of the Apocalypse"]
+[Site "Cumnor"]
+[Date "2018.03.18"]
+[Round "?"]
+[White "David Robson"]
+[Black "Graham Cluley"]
+[Result "1-0"]
+[WhiteElo "161"]
+[BlackElo "112"]
+[ECO "C25"]
+[TimeControl "0"]
+
+1. e4 e5 2. Nc3 Nc6 3. f4 exf4 4. Nf3 g5 5. d4 g4 6. Bc4 gxf3 7. O-O d6 8. 
+Qxf3 Nxd4 9. Bxf7+ Kxf7 10. Qh5+ Ke7 11. Bxf4 Ne6 12. Bg5+ Nxg5 13. Qxg5+ Kd7 
+14. Qf5+ Kc6 15. Qb5# 1-0
+
+[Event "Kidlington Congress 2018"]
+[Site "Kidlington"]
+[Date "2018.02.03"]
+[Round "1"]
+[White "Michael J Fleming"]
+[Black "David Robson"]
+[Result "1-0"]
+[WhiteElo "164"]
+[BlackElo "145"]
+[ECO "A00"]
+[TimeControl "0"]
+
+1. d3 d5 2. g3 Nf6 3. Nf3 g6 4. Bg2 Bg7 5. Nbd2 O-O 6. O-O Re8 7. c3 e5 8. e4 
+Nc6 9. Qc2 a5 10. a4 d4 11. Nc4 h6 12. h3 Nh7 13. Qe2 Be6 14. Na3 Qd7 15. Kh2 
+Rad8 16. Rd1 Bb3 17. Nc2 Qe6 18. Nh4 Rd7 19. Rf1 dxc3 20. bxc3 Red8 21. Ne1 
+Nf8 22. Ra3 Nh7 23. Qb2 Bd1 24. Qd2 Bb3 25. Bf3 Bf8 26. Bg4 f5 27. exf5 gxf5 
+28. Bxf5 Qf7 29. Ra1 Rd6 30. Qe2 Be6 31. Qg4+ Kh8 32. Ng6+ Kg8 33. Nxe5+ Qg7 
+34. Bxe6+ 1-0
+
 [Event "Cowley 3 v Wantage 2"]
 [Site "Cowley"]
 [Date "2015.11.30"]
