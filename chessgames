@@ -2,6 +2,6 @@
 
 # Lists my chess results from the PGN file of my games
 
-awk '/\[White |\[Black |\[Date /{printf "%-25s", $2" "$3" "$4}/\[Result/' ~/Documents/chess/MyGames/MyGames.pgn |\
+awk '/\[White |\[Black |\[Date /{printf "%-27s", $2" "$3" "$4}/\[Result/' ~/Documents/chess/MyGames/MyGames.pgn |\
      sed 's/\[//g;s/\]//g;s/"//g;s/ Result //g'
 

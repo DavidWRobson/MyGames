@@ -597,7 +597,7 @@ Qxd7 Qxa5 38. Qd6+ Kg8 {??} 39. Qe7 1-0
 [Site "Cowley"]
 [Date "2019.04.08"]
 [Round "?"]
-[White "George Spaldings"]
+[White "George Spaldings]
 [Black "David Robson"]
 [Result "0-1"]
 [WhiteElo "108"]
@@ -860,6 +860,41 @@ Nh5 15. Be3 O-O 16. Bf3 Rc8 17. Qxa7 e5 18. Rfd1 Rc7 19. Qa4 Qc8 20. Qb5 Re8
 27. Bc1 Nhf6 28. g3 Nxd5 29. Bxd5 Nc5 30. Qc4 Ne6 31. Bb2 Qc8 32. Qa4 Rd8 33. 
 Rc1 {Score confused.  Draw agreed around move 60, a pawn up but in a drawn 
 position} 1/2-1/2
+
+Site "Worcester College"]
+[Date "2018.05.19"]
+[Round "?"]
+[White "David Robson"]
+[Black "Giuseppe Perelli"]
+[Result "0-1"]
+[WhiteElo "161"]
+[BlackElo "143"]
+[ECO "C03"]
+[TimeControl "0"]
+
+1. e4 e6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Bd3 
+Bd6 8. Bg5 Bd7 9. Ne5 h6 10. Bh4 Qe7 11. Qe2 O-O-O 12. O-O-O g5 13. Bg3 h5 
+14. h4 g4 15. Bf4 Bxe5 16. dxe5 Nd5 17. Bg5 f6 18. exf6 Nxf6 19. Qe5 Rdf8 20. 
+Rhe1 Qf7 21. Bc4 Nd5 22. Be3 Nxe3 23. Rxd7 Kxd7 24. Rxe3 Qf4 25. Qxe6+ Kd8 
+26. Kd1 c6 27. Qe7+ Kc8 28. Be6+ Kb8 29. Rb3 Rd8+ 30. Rd3 Rxd3+ 31. cxd3 Qxf2 
+32. Bf7 Qf1+ 33. Kc2 Qf2+ 34. Kc3 Qf4 35. Bxh5 Rf8 36. Bxg4 0-1
+
+[Event "Banbury 1 v Cowley 1"]
+[Site "Banbury"]
+[Date "2018.04.16"]
+[Round "?"]
+[White "Carl Portman"]
+[Black "David Robson"]
+[Result "1/2-1/2"]
+[WhiteElo "164"]
+[BlackElo "164"]
+[ECO "A45"]
+[TimeControl "0"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. e3 Nbd7 5. Bd3 Bg6 6. Nf3 e6 7. Bxg6 hxg6 
+8. Qd3 Be7 9. Bxf6 Bxf6 10. e4 dxe4 11. Nxe4 O-O 12. O-O Nb6 13. Rad1 Qe7 14. 
+c4 Rfd8 15. Nxf6+ gxf6 16. b3 Rd7 17. Qe4 c6 18. Rfe1 Rad8 19. h3 Nc8 20. Qf4 
+Kg7 1/2-1/2
 
 [Event "Cowley 3 v Wantage 2"]
 [Site "Cowley"]
