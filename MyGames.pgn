@@ -811,7 +811,7 @@ d3 exf4 9. Bxf4 Ne5 10. Bxe5 dxe5 11. Qg3 Nxe4 {12. Qxg7 Bh4+ 13. Kd1 Nxc3+
 
 [Event "Witney 1 v Cowley 1"]
 [Site "Witney"]
-[Date "2022.10.18"]
+[Date "2018.10.22"]
 [Round "?"]
 [White "David Robson"]
 [Black "Elizaveta Sheremetyeva"]
@@ -860,6 +860,24 @@ O-O Qxe2 9. Bxe2 Nc6 10. Re1 O-O-O 11. Bg5 Re8 12. Bxf6 gxf6 13. Nbd2 cxd4
 Be2 Qa5 9. Bd2 Qc7 10. O-O Rd8 11. Be3 e6 12. Qa4 Nd5 13. Qxc4 a6 14. Rac1 
 Nxe3 15. fxe3 Bd6 16. h3 Bh5 0-1 
 
+Site "Worcester College"]
+[Date "2018.05.19"]
+[Round "?"]
+[White "David Robson"]
+[Black "Giuseppe Perelli"]
+[Result "0-1"]
+[WhiteElo "161"]
+[BlackElo "143"]
+[ECO "C03"]
+[TimeControl "0"]
+
+1. e4 e6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Bd3 
+Bd6 8. Bg5 Bd7 9. Ne5 h6 10. Bh4 Qe7 11. Qe2 O-O-O 12. O-O-O g5 13. Bg3 h5 
+14. h4 g4 15. Bf4 Bxe5 16. dxe5 Nd5 17. Bg5 f6 18. exf6 Nxf6 19. Qe5 Rdf8 20. 
+Rhe1 Qf7 21. Bc4 Nd5 22. Be3 Nxe3 23. Rxd7 Kxd7 24. Rxe3 Qf4 25. Qxe6+ Kd8 
+26. Kd1 c6 27. Qe7+ Kc8 28. Be6+ Kb8 29. Rb3 Rd8+ 30. Rd3 Rxd3+ 31. cxd3 Qxf2 
+32. Bf7 Qf1+ 33. Kc2 Qf2+ 34. Kc3 Qf4 35. Bxh5 Rf8 36. Bxg4 0-1
+
 [Event "Witney 1 v Cowley 1"]
 [Site "Witney"]
 [Date "2018.04.30"]
@@ -880,24 +898,6 @@ Nh5 15. Be3 O-O 16. Bf3 Rc8 17. Qxa7 e5 18. Rfd1 Rc7 19. Qa4 Qc8 20. Qb5 Re8
 Rc1 {Score confused.  Draw agreed around move 60, a pawn up but in a drawn 
 position} 1/2-1/2
 
-Site "Worcester College"]
-[Date "2018.05.19"]
-[Round "?"]
-[White "David Robson"]
-[Black "Giuseppe Perelli"]
-[Result "0-1"]
-[WhiteElo "161"]
-[BlackElo "143"]
-[ECO "C03"]
-[TimeControl "0"]
-
-1. e4 e6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Bd3 
-Bd6 8. Bg5 Bd7 9. Ne5 h6 10. Bh4 Qe7 11. Qe2 O-O-O 12. O-O-O g5 13. Bg3 h5 
-14. h4 g4 15. Bf4 Bxe5 16. dxe5 Nd5 17. Bg5 f6 18. exf6 Nxf6 19. Qe5 Rdf8 20. 
-Rhe1 Qf7 21. Bc4 Nd5 22. Be3 Nxe3 23. Rxd7 Kxd7 24. Rxe3 Qf4 25. Qxe6+ Kd8 
-26. Kd1 c6 27. Qe7+ Kc8 28. Be6+ Kb8 29. Rb3 Rd8+ 30. Rd3 Rxd3+ 31. cxd3 Qxf2 
-32. Bf7 Qf1+ 33. Kc2 Qf2+ 34. Kc3 Qf4 35. Bxh5 Rf8 36. Bxg4 0-1
-
 [Event "Banbury 1 v Cowley 1"]
 [Site "Banbury"]
 [Date "2018.04.16"]
@@ -915,9 +915,25 @@ Rhe1 Qf7 21. Bc4 Nd5 22. Be3 Nxe3 23. Rxd7 Kxd7 24. Rxe3 Qf4 25. Qxe6+ Kd8
 c4 Rfd8 15. Nxf6+ gxf6 16. b3 Rd7 17. Qe4 c6 18. Rfe1 Rad8 19. h3 Nc8 20. Qf4 
 Kg7 1/2-1/2
 
+[Event "Cowley Forks v Cumnor Six Horsemen of the Apocalypse"]
+[Site "Cumnor"]
+[Date "2018.03.18"]
+[Round "?"]
+[White "David Robson"]
+[Black "Graham Cluley"]
+[Result "1-0"]
+[WhiteElo "161"]
+[BlackElo "112"]
+[ECO "C25"]
+[TimeControl "0"]
+
+1. e4 e5 2. Nc3 Nc6 3. f4 exf4 4. Nf3 g5 5. d4 g4 6. Bc4 gxf3 7. O-O d6 8. 
+Qxf3 Nxd4 9. Bxf7+ Kxf7 10. Qh5+ Ke7 11. Bxf4 Ne6 12. Bg5+ Nxg5 13. Qxg5+ Kd7 
+14. Qf5+ Kc6 15. Qb5# 1-0
+
 [Event "Didcot 1 v Cowley 1"]
 [Site "Didcot"]
-[Date "2918.93.14"]
+[Date "2018.03.14"]
 [Round "?"]
 [White "David Robson"]
 [Black "Andrejs Olehnovics"]
@@ -937,22 +953,6 @@ Rxa7 Kg8 34. Rb7 Bxb5 35. Rxb6 Bxd3 36. Rxe6 Rc1+ 37. Kh2 Kf7 38. Rf6+ Kg7
 Kh7 46. Rd6 Re1 47. e6 Re2 (47. ... Kg7 48. Nf2 Kf6 49. Ng4+ Ke7 50. Rc6 Rxe6 
 51. Rxe6+ Kxe6 52. Kg1 d4 53. Kf2 d3 54. Ke1 d2+ 55. Kxd2 Bf1 56. Nxh6 Bxg2 
 57. Ke2 Bh3 58. Ng4 Bxg4 59. fxg4 Ke5 ) 1/2-1/2
-
-[Event "Cowley Forks v Cumnor Six Horsemen of the Apocalypse"]
-[Site "Cumnor"]
-[Date "2018.03.18"]
-[Round "?"]
-[White "David Robson"]
-[Black "Graham Cluley"]
-[Result "1-0"]
-[WhiteElo "161"]
-[BlackElo "112"]
-[ECO "C25"]
-[TimeControl "0"]
-
-1. e4 e5 2. Nc3 Nc6 3. f4 exf4 4. Nf3 g5 5. d4 g4 6. Bc4 gxf3 7. O-O d6 8. 
-Qxf3 Nxd4 9. Bxf7+ Kxf7 10. Qh5+ Ke7 11. Bxf4 Ne6 12. Bg5+ Nxg5 13. Qxg5+ Kd7 
-14. Qf5+ Kc6 15. Qb5# 1-0
 
 [Event "Kidlington Congress 2018"]
 [Site "Kidlington"]
@@ -1048,6 +1048,43 @@ Qd2 Qe7 28. Bxd4 cxd4 29. Rf5 Rf8 30. Rdf1 Qe6 31. Nxe5 Rdd8 32. Qf2 c5 33.
 Ng4 Bc7 34. Rxc5 Qd6 35. Rd5 Qc6 36. Qxd4 Qxc2 37. Qc4 Qxc4 38. bxc4 Rb8 39. 
 Rd7 Ba5 40. Rf3 Rfe8 41. e5 h5 42. Ne3 Rxe5 43. Nd5 Re1+ 44. Kh2 Ra1 45. Rg3 1-0
 
+[Site "Cowley"]
+[Date "2017.04.10"]
+[Round "?"]
+[White "David Robson"]
+[Black "Peter McLeod"]
+[Result "1/2-1/2"]
+[WhiteElo "151"]
+[BlackElo "127"]
+[ECO "B01"]
+[TimeControl "0"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Bg4 4. f3 Bf5 5. Bb5+ Nbd7 6. c4 a6 7. Bxd7+ Qxd7 
+8. Ne2 e6 9. dxe6 Qxe6 10. d5 Qb6 11. Qd4 Qxd4 12. Nxd4 Bd3 13. b3 Bc5 14. 
+Be3 O-O 15. Kf2 Rfe8 16. Nc3 Nd7 17. Rad1 Ne5 18. Rhe1 Re7 19. Nf5 Bxe3+ 20. 
+Nxe3 Bg6 21. Re2 Rae8 22. Ne4 f5 23. d6 Rd7 24. Nc5 Rxd6 25. Rxd6 cxd6 26. 
+Nxb7 Nd3+ 27. Kf1 Nf4 28. Re1 Nd3 29. Re2 1/2-1/2
+
+[Event "Cowley 3 v Wantage 1"]
+[Site "Cowley"]
+[Date "2017.04.03"]
+[Round "?"]
+[White "Roly Piggot"]
+[Black "David Robson"]
+[Result "1/2-1/2"]
+[WhiteElo "152"]
+[BlackElo "151"]
+[ECO "E60"]
+[TimeControl "0"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 d5 5. Nf3 O-O 6. O-O Nc6 7. b3 dxc4 8. 
+bxc4 Bf5 9. Bb2 Qc8 10. Re1 Rd8 11. Qb3 Rb8 12. Nbd2 Ne4 13. Nxe4 Bxe4 14. e3 
+Qg4 15. h3 Qc8 16. Kh2 b6 17. Rac1 Qb7 18. d5 Na5 19. Qa3 e6 20. Bxg7 Kxg7 
+21. Qc3+ f6 22. Ng5 exd5 23. Bxe4 dxe4 24. Ne6+ Kf7 25. Nxd8+ Rxd8 26. Red1 
+Qc8 27. Rd5 Nb7 28. Rcd1 Rxd5 29. Rxd5 Nc5 30. Qd4 Qe8 31. Rd8 Qe6 32. Qd5 
+Ke7 33. Kg2 h5 34. Qxe6+ Nxe6 35. Rd5 Nc5 36. f3 exf3+ 37. Kxf3 Ne6 38. h4 
+Nc5 39. e4 Nd7 40. Kf4 Ke6 41. Rd3 Ke7 42. Rd2 1/2-1/2
+
 [Event "Cowley 3 v Witney 2"]
 [Site "Cowley"]
 [Date "2017.03.27"]
@@ -1067,6 +1104,95 @@ b3 Nc6 9. Bb2 Bf5 10. d3 Qd7 11. Qd2 a6 12. Nd1 e5 13. Ne3 Bh3 14. Nc4 Nxc4
 Kf2 Bf8 28. Bxd4 exd4 29. exf5+ Kxf5 30. Nb2 Bh6 31. Nd3 b6 32. g4+ Ke6 33. 
 f4 Bg7 34. Kf3 a5 35. Ke4 Bf6 36. h3 c6 37. a4 c5 38. Nf2 Bh4 39. Nd3 Bf6 40. 
 Nf2 Bh4 1/2-1/2 
+
+[Event "Cumnor 1 v Cowley 3"]
+[Site "Cumnor"]
+[Date "2017.02.17"]
+[Round "?"]
+[White "Gareth Stevens"]
+[Black "David Robson"]
+[Result "0-1"]
+[WhiteElo "151"]
+[BlackElo "161"]
+[ECO "D90"]
+[TimeControl "0"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. g3 O-O 6. Bg2 c6 7. O-O Na6 8. 
+cxd5 cxd5 9. Bf4 Be6 10. Rc1 Rc8 11. Qd2 Re8 12. Ng5 Nc7 13. Bxc7 Rxc7 14. 
+Nxe6 fxe6 15. Qe3 Qd7 16. Bh3 Kf7 17. Qf4 Rec8 18. e4 Kg8 19. exd5 Nxd5 20. 
+Nxd5 Rxc1 21. Rxc1 Rxc1+ 22. Qxc1 Qxd5 23. Qc8+ Kf7 24. b3 Bxd4 25. Bg2 Qf5 
+26. Qxb7 Qxf2+ 0-1
+
+[Event "Oxford City 2 v Cowley 3"]
+[Site "Oxford City"]
+[Date "2017.02.06"]
+[Round "?"]
+[White "David Robson"]
+[Black "Simon King"]
+[Result "1-0"]
+[WhiteElo "151"]
+[BlackElo "152"]
+[ECO "C25"]
+[TimeControl "0"]
+
+1. e4 e5 2. Nc3 Nc6 3. f4 exf4 4. Nf3 Be7 5. Bc4 Bh4+ 6. Kf1 Be7 7. d4 g5 8. 
+h4 g4 9. Ng5 Bxg5 10. hxg5 Qxg5 11. Nd5 Qd8 12. Qxg4 d6 13. Qg7 Be6 14. Qxh8 
+Kd7 15. Qxg8 1-0
+
+[Event "Cowley 3 v Cumnor 1"]
+[Site "Cowley"]
+[Date "2016.10.24"]
+[Round "?"]
+[White "Daniel Varney"]
+[Black "David Robson"]
+[Result "0-1"]
+[WhiteElo "158"]
+[BlackElo "147"]
+[ECO "B21"]
+[TimeControl "0"]
+
+1. e4 c5 2. d4 cxd4 3. c3 Nf6 4. e5 Nd5 5. cxd4 e6 6. a3 d6 7. Nf3 Bd7 8. Bc4 
+Bc6 9. O-O Be7 10. exd6 Qxd6 11. Ne5 Bf6 12. Bxd5 Bxd5 13. Bf4 Qd8 14. Nc3 
+O-O 15. Ng4 Be7 16. Re1 Nd7 17. Nxd5 exd5 18. Qb3 Nb6 19. Rac1 Bd6 20. Be5 f6 
+21. Nxf6+ Rxf6 22. Bxf6 Qxf6 23. a4 Rf8 24. Re2 Qh6 0-1
+
+[Event "Cowley 3 v Oxford City 2"]
+[Site "Cowley"]
+[Date "2016.10.17"]
+[Round "?"]
+[White "Roger Smith"]
+[Black "David Robson"]
+[Result "0-1"]
+[WhiteElo "143"]
+[BlackElo "147"]
+[ECO "B21"]
+[TimeControl "0"]
+
+1. e4 c5 2. d4 cxd4 3. c3 Nf6 4. e5 Nd5 5. cxd4 e6 6. Nf3 d6 7. Bc4 Nb6 8. 
+Bb5+ Bd7 9. Bxd7+ Qxd7 10. O-O Be7 11. Bf4 Nd5 12. Bg3 Nc6 13. Nbd2 O-O 14. 
+Nc4 dxe5 15. Ncxe5 Nxe5 16. Nxe5 Qb5 17. Qd3 Qxd3 18. Nxd3 Rac8 19. Rac1 h6 
+20. Nc5 b6 21. Nd7 Rfd8 22. Ne5 Bg5 23. f4 Bf6 24. Nc6 Rd7 25. Ne5 Rdc7 26. 
+Rce1 Rc2 27. f5 exf5 28. Rxf5 Rxb2 29. Nd7 Bxd4+ 30. Kh1 Nf6 31. Ne5 Rxa2 0-1
+
+[Event "Cowley 3 v Cumnor 1"]
+[Site "Cowley"]
+[Date "2016.02.15"]
+[Round "?"]
+[White "Steven Bennett"]
+[Black "David Robson"]
+[Result "0-1"]
+[WhiteElo "104"]
+[BlackElo "143"]
+[ECO "B10"]
+[TimeControl "0"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 g6 4. d4 cxd4 5. Nxd4 Bg7 6. Nxc6 bxc6 
+7. Bd2 d6 8. Bc4 Nf6 9. Rb1 O-O 10. O-O Ng4 11. Be2 h5 12. Qc1 Be6 13. Bxg4 
+Bxg4 14. Bh6 Qa5 15. Bxg7 Kxg7 16. Qe3 Rab8 17. h3 Be6 18. b3 Rfd8 19. a4 
+Rbc8 20. Ne2 f6 21. f4 Bf7 22. h4 Qb6 23. Qxb6 axb6 24. Rbd1 d5 25. e5 c5 26. 
+Rf3 Be6 27. Rf2 d4 28. Nc1 Rd5 29. Nd3 Bf5 30. Re1 Kf7 31. exf6 exf6 32. Rfe2 
+Rd7 33. Kh2 Rcc7 34. g3 Re7 35. Rxe7+ Rxe7 36. Rxe7+ Kxe7 37. Kg2 Kd6 38. Kf2 
+Kd5 39. Ke2 c4 40. bxc4+ Kxc4 41. Kd2 Bxd3 42. cxd3+ Kb3 0-1
 
 [Event "Cowley 3 v Wantage 2"]
 [Site "Cowley"]
