@@ -20,7 +20,7 @@ Nf3 Qe7 9. Qe2 d5 10. Bd2 Na6 11. c3 h6 12. Qe3 g5 13. Nh5
 [Black "David Robson"]
 [WhiteElo "1967"]
 [BlackElo "1814"]
-[Result "0-1"]
+[Result "1-0"]
 
 1. e4 c5 2. Nc3 Nc6 3. Bb5 Nd4 4. Bc4 g6
 {
@@ -28,7 +28,7 @@ This is  an error. 4 ... e6  is much safer
 }
 5. Nf3 Bg7 6. Nxd4 cxd4 7. Qf3 e6 8. Nb5 d6 9. Qa3 Be5 10. O-O Bd7 11. f4
 Bf6 12. Nxd6+ Kf8 13. Nxb7+ Qe7 14. Nc5 Bc6 15. d3 Bg7 16. Bd2
-0-1
+1-0
 
 [Site "Exeter Hall, Kidlington"]
 [Date "2023.02.04"]
@@ -1197,6 +1197,23 @@ b3 Nc6 9. Bb2 Bf5 10. d3 Qd7 11. Qd2 a6 12. Nd1 e5 13. Ne3 Bh3 14. Nc4 Nxc4
 Kf2 Bf8 28. Bxd4 exd4 29. exf5+ Kxf5 30. Nb2 Bh6 31. Nd3 b6 32. g4+ Ke6 33. 
 f4 Bg7 34. Kf3 a5 35. Ke4 Bf6 36. h3 c6 37. a4 c5 38. Nf2 Bh4 39. Nd3 Bf6 40. 
 Nf2 Bh4 1/2-1/2 
+
+[Event "Witney 2 v  Cowley 2"]
+[Site "Witney"]
+[Date "2017.03.06"]
+[Round "-"]
+[White "Alan Gentry"]
+[Black "David Robson"]
+[Result "0-1"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. Rc1 c6 6. e3 O-O 7. Nf3 Qa5 8.
+Bd3 dxc4 9. Bxc4 Bg4 10. h3 Bxf3 11. Qxf3 Nbd7 12. O-O e5 13. Bh2 exd4 14.
+exd4 Nb6 15. Bb3 Rad8 16. Rfe1 Rd7 17. Be5 Nbd5 18. Nxd5 Nxd5 19. Bxg7 Kxg7
+20. Re5 Qd8 21. Rce1 Qf6 22. Qg4 Rfd8 23. g3 Ne7 24. R1e4 Nf5 25. Rf4 Kh8
+26. Qf3 Rxd4 {??} 27. Rxd4 {Rfxf5!!} Rxd4 28. Re8+ Kg7 29. Qe2 Rd7 30. Qc4 Nd6 31. Qg4 Nf5
+32. Qb4 Qd6 33. Qc3+ Qd4 34. Qe1 Nxg3 35. Re7 Nf5 36. Rxd7 Qxd7 37. Qe5+
+Kg8 38. Qb8+ Kg7 39. Qe5+ f6 40. Qb8 Nd4 41. Qg8+ Kh6 42. Qf8+ Kg5 43. Qc5+
+{White lost on time} 0-1
 
 [Event "Cumnor 1 v Cowley 3"]
 [Site "Cumnor"]
