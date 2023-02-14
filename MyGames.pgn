@@ -566,6 +566,60 @@ is much better} Qxe4 24. Bc6 Qxd4 25. Bc3 Qd6 26. Bxa8 Rxa8 27. Bxg7 Kxg7 28.
 Rd1 Qf6 29. Qe2 Kf7 30. Ra3 Kg7 31. Rf3 Qg5 32. Qe6 Rc8 33. Rf7+ Kh6 34. Rxe7 
 Qh4 35. Qf7 1-0
 
+[Event "Kidlington U180"]
+[Site "Exeter Hall, Kidlington"]
+[Date "2020.0201"]
+[Round "3"]
+[White "David Robson"]
+[Black "Chris Finn"]
+[WhiteElo "151"]
+[BlackElo "157"]
+[Result "0-1"]
+
+1. e4 e6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Bd3
+c5 8. c3 cxd4 9. cxd4 Be7 10. O-O b6 11. Ne5 O-O 12. Nc6 Qc7 13. Nxe7+ Qxe7
+14. Bg5 Bb7 15. Re1 h6 16. Bh4 Rfd8 17. Re3 Qb4 18. Bxf6 gxf6 19. Qh5 Kf8
+20. Qxh6+ Ke7 21. Rae1 Qxd4 22. Bf5 Bd5 23. Qg7 Kd6 24. Qxf7 exf5 25. Qe7+
+Kc6 26. Rc1+ Kb5 27. a4+ Ka6 28. Qa3 Rac8 29. Rce1 Rc4 30. Qe7 Rdc8 31. a5
+{
+Game confused
+}
+
+0-1
+
+[Event "Kidlington U180"]
+[Site "Exeter Hall, Kidlington"]
+[Date "2020.02.01"]
+[Round "2"]
+[White "Peter L Davies"]
+[Black "David Robson"]
+[WhiteElo "167"]
+[BlackElo "151"]
+[Result "1-0"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8.
+O-O Be6 9. Be3 Nbd7 10. f4 exf4 11. Bxf4 Ne5 12. Nd4 Qb6 13. Kh1 Ng6 14.
+Be3 Qc7 15. a4 O-O 16. Bf3 Ne5 17. Nd5 Nxd5 18. exd5 Bd7 19. Be4 Bg4 20.
+Qe1 Qd7 21. Bf5 Bxf5 22. Nxf5 Bf6 23. c3 Rae8 24. Qg3 Ng6 25. Nh6+ Kh8 26.
+Rxf6 gxf6 27. Bd4 Re5 28. Rf1 Qe7 29. h3 Kg7 30. Nf5+
+1-0
+
+[Event "Kidlington U180"]
+[Site "Exeter Hall, Kidlington"]
+[Date "2020.02.01"]
+[Round "1"]
+[White "David Robson"]
+[Black "Graham Cole"]
+[WhiteElo "151"]
+[BlackElo "167"]
+[Result "1/2-1/2"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. Nf3 e6 5. d4 cxd4 6. cxd4 d6 7. a3 Bd7 8.
+Bd3 Bc6 9. O-O Nd7 10. Bd2 Qc7 11. Qe2 dxe5 12. dxe5 Nc5 13. Bc4 Nb6 14.
+Ba5 Bxf3 15. Qxf3 Qc6 16. Qxc6+ bxc6 17. Bxb6 axb6 18. Nc3 b5 19. Be2 Nd7
+20. Rfe1 O-O-O 21. Bf3 Kc7 22. Rac1 Kb8 23. Kf1
+1/2-1/2
+
 [Event "Cowley 2 v Cowley 1"]
 [Site "Cowley"]
 [Date "2020.01.09"]
