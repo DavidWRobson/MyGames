@@ -2,6 +2,13 @@
 
 # Lists my chess results from the PGN file of my games
 
-awk '/\[White |\[Black |\[Date /{printf "%-27s", $2" "$3" "$4}/\[Result/' ~/Documents/chess/MyGames/MyGames.pgn |\
-     sed 's/\[//g;s/\]//g;s/"//g;s/ Result //g'
+awk '
+     /\[White |\[Black |\[Date /{printf "%-27s", $2" "$3" "$4}
+     /\[White.*David Robson.*/{colour="white"}
+     /\[Black.*David Robson.*/{colour="black"}
+     /\[Result.*1-0.*/{if (colour=="white") result = "WON "; else result = "LOST";}
+     /\[Result.*0-1.*/{if (colour=="white") result = "LOST"; else result = "WON ";}
+     /\[Result.*1\/2-1\/2.*/{result = "DREW"}
+     /^1\. /{print result; result= "????"}
+    ' ~/Documents/chess/MyGames/MyGames.pgn | sed 's/\[//g;s/\]//g;s/"//g;s/ Result //g'
 
