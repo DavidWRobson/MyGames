@@ -22,9 +22,11 @@ cxd5 14. Qf3+ Bf6 15. Nxh7+ Kg8 16. Nxf6+ gxf6 17. Qxf6
 [Round "5"]
 [White "David Robson"]
 [Black "Damien Dunn"]
+[Opening "Vienna"]
 [WhiteElo "1814"]
-[BlackElo "UNG"]
+[BlackElo "1573"]
 [Result "1-0"]
+[Opening "Vienna"]
 
 1. e4 e5 2. Nc3 Nf6 3. f4 exf4 4. e5 Nd5 5. Nxd5 c6 6. Nxf4 Qg5 7. d4 d6 8.
 Nf3 Qe7 9. Qe2 d5 10. Bd2 Na6 11. c3 h6 12. Qe3 g5 13. Nh5
@@ -39,6 +41,7 @@ Nf3 Qe7 9. Qe2 d5 10. Bd2 Na6 11. c3 h6 12. Qe3 g5 13. Nh5
 [Black "David Robson"]
 [WhiteElo "1967"]
 [BlackElo "1814"]
+[Opening "Sicilian"]
 [Result "1-0"]
 
 1. e4 c5 2. Nc3 Nc6 3. Bb5 Nd4 4. Bc4 g6
@@ -59,7 +62,7 @@ Bf6 12. Nxd6+ Kf8 13. Nxb7+ Qe7 14. Nc5 Bc6 15. d3 Bg7 16. Bd2
 [WhiteElo "1814"]
 [BlackElo "1923"]
 [Opening "Sicilian"]
-[Variation "c3"]
+[Variation "Alapin"]
 [Result "1/2-1/2"]
 
 1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 e6 5. Nf3 cxd4 6. cxd4 Nc6 7. Bc4 Nb6 8.
@@ -87,6 +90,7 @@ score confused
 [Black "Danut Joian"]
 [WhiteElo "1934"]
 [BlackElo "1814"]
+[Opening "Alekhine"]
 [Result "0-1"]
 
 1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. exd6 cxd6 6. Nc3 g6 7. Be3 Bg7 8.
@@ -123,7 +127,7 @@ Be3 Rd3 22. Be2 Rdd8 23. Rf3 Na5 24. Rff1 Nc4 25. Bxc4 bxc4 26. Rad1 Qb6
 [White "David Robson"]
 [Black "Ben Sloman"]
 [Opening "Sicilian"]
-[Variation "c3"]
+[Variation "Alapin"]
 [Result "0-1"]
 
 1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. Nf3 Nc6 5. Na3 Bg4 6. Be2 e6 7. d4 a6 8.
@@ -164,6 +168,8 @@ White offers draw
 [Round "-"]
 [White "David Robson"]
 [Black "Howard Searle"]
+[Opening "Pirc"]
+[Variation "150 Attack"]
 [Result "1/2-1/2"]
 
 1. e4 d6 2. d4 g6 3. Nc3 Bg7 4. Be3 a6 5. Be2 b5 6. h4 h5 7. Nh3 Nd7 8. Qd2
@@ -197,6 +203,7 @@ Rf8 26. Rxf8+ Bxf8 27. b4 Kd7 28. Kg1 Ke6 29. Kf2 Kd5 30. Ke3 Bh6+
 [Round "-"]
 [White "David Robson"]
 [Black "Shambavi Harihavan"]
+[Opening "Caro Kann"]
 [Result "1-0"]
 
 1. e4 c6 2. d3 d5 3. Nf3 dxe4 4. Ng5 Nf6 5. Nc3 Bf5 6. dxe4 Qxd1+ 7. Kxd1
@@ -222,7 +229,7 @@ Kxb4 Kf4 60. a5 Kg4 61. a6 Kxh4 62. a7
 [White "David Robson"]
 [Black "Simon Terrington"]
 [Opening "Sicilian"]
-[Variation "c3"]
+[Variation "Alapin"]
 [Result "1/2-1/2"]
 
 1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. Nf3 Nc6 6. Bc4 Nb6 7. Bb3 d5 8.
@@ -264,6 +271,7 @@ Score confused at this point
 [Round "-"]
 [White "Liam Price"]
 [Black "David Robson"]
+[Opening "Grunfeld"]
 [Result "1-0"]
 [Board "1"]
 
@@ -302,6 +310,7 @@ Bb5 Nf6 9. Qf3 Bd7 10. Nce4 Ne5 11. Nxf6+ exf6 12. Bxd7+ Nxd7 13. Ne4 Qb6
 [Black "Miroslawa Litwiniec"]
 [Result "1-0"]
 [Board "2"]
+[Opening "Vienna"]
 
 1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. fxe5 Nxe4 5. d3 Qh4+ 6. g3 Nxg3 7. Nf3 Qh5
 8. Nxd5 Na6 9. Nf4 Qh6 10. Ne2 Qc6 11. Nxg3 Bg4 12. Bg2 Bb4+ 13. c3 Bxc3+
@@ -317,6 +326,7 @@ Bb5 Nf6 9. Qf3 Bd7 10. Nce4 Ne5 11. Nxf6+ exf6 12. Bxd7+ Nxd7 13. Ne4 Qb6
 [Round "-"]
 [White "Roger de Coverley"]
 [Black "David Robson"]
+[Opening "Grunfeld"]
 [Result "1-0"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 c5 7. Bc4 Bg7 8. Ne2 Nc6
@@ -331,6 +341,7 @@ Bb5 Nf6 9. Qf3 Bd7 10. Nce4 Ne5 11. Nxf6+ exf6 12. Bxd7+ Nxd7 13. Ne4 Qb6
 [Round "-"]
 [White "David Robson"]
 [Black "Tim King"]
+[Opening "Owen's"]
 [Result "1-0"]
 
 1. e4 b6 2. d4 Bb7 3. Bd3 e6 4. Nf3 c5 5. c3 Nc6 6. d5 exd5 7. O-O Na5 8. exd5 Bxd5 9. Re1+ Be6 10. Ng5 Qc7 11. Nxf7 Nf6
@@ -343,6 +354,7 @@ Bb5 Nf6 9. Qf3 Bd7 10. Nce4 Ne5 11. Nxf6+ exf6 12. Bxd7+ Nxd7 13. Ne4 Qb6
 [Round "-"]
 [White "David Robson"]
 [Black "Peter Ashley"]
+[Opening "Pirc"]
 [Result "1/2-1/2"]
 
 1. e4 d6 2. d4 Nd7 3. Nf3 e5 4. Bc4 Be7 5. Nc3 Ngf6 6. O-O c6 7. a4 a5 8. h3 Qc7 9. Be3 h6
@@ -359,6 +371,7 @@ Bb5 Nf6 9. Qf3 Bd7 10. Nce4 Ne5 11. Nxf6+ exf6 12. Bxd7+ Nxd7 13. Ne4 Qb6
 [Round "-"]
 [White "David Robson"]
 [Black "Andrew Robbings"]
+[Opening "French"]
 [Result "1/2-1/2"]
 
 1. e4 e6 2. Nf3 d5 3. Nc3 d4 4. Ne2 c5 5. c3 dxc3 6. bxc3 Nc6 7. d4 cxd4 8. cxd4 Bb4+ 9. Bd2 Qa5 10. Ng3 Nf6
@@ -373,6 +386,7 @@ Bb5 Nf6 9. Qf3 Bd7 10. Nce4 Ne5 11. Nxf6+ exf6 12. Bxd7+ Nxd7 13. Ne4 Qb6
 [Round "-"]
 [Black "Rowland Kerr"]
 [White "David Robson"]
+[Opening "Pirc"]
 [Result "1/2-1/2"]
 
 1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Be2 c5 5. Nf3 Bg7 6. O-O cxd4 7. Nxd4 O-O 8. Be3 Nc6 9. Nb3 Be6
@@ -389,6 +403,7 @@ Bb5 Nf6 9. Qf3 Bd7 10. Nce4 Ne5 11. Nxf6+ exf6 12. Bxd7+ Nxd7 13. Ne4 Qb6
 [White "David Robson"]
 [Black "Greg Edmunds"]
 [Result "1-0"]
+[Opening "Vienna"]
 
 1. e4 e5 2. Nc3 Nf6 3. f4 d6 4. Nf3 exf4 5. d4 Nc6 6. Bxf4 Bg4 7. Be2 Be7 8. O-O O-O 9. Be3 a6 10. a3 b5 11. b4 d5 12. e5 Ne4 13. Qe1 Rc8 14. Rd1 Nb8 15. Nxe4 dxe4 16. Nd2 Bxe2 17. Qxe2 Qd5 18. Bf2 Qa2 19. Nb1 Qd5 20. Nc3 Qe6 21. Qxe4 f5 22. Qd5 Qxd5 23. Nxd5 Bg5 24. Be3 Bxe3+ 25. Nxe3 g6 26. Nd5 Kf7 27. Rfe1 Ke6 28. Nf4+ Ke7 29. d5 Rfe8 30. Rd3 c5 31. d6+ Kd8 32. e6 Rh8 33. d7
 1-0
@@ -400,7 +415,7 @@ Bb5 Nf6 9. Qf3 Bd7 10. Nce4 Ne5 11. Nxf6+ exf6 12. Bxd7+ Nxd7 13. Ne4 Qb6
 [White "Tony Murphy"]
 [Black "David Robson"]
 [Opening "Sicilian"]
-[Variation "c3"]
+[Variation "Alapin"]
 [Result "0-1"]
 
 1. e4 c5 2. c3 Nf6 3. d3 g6 4. Nf3 Bg7 5. Be2 Nc6 6. Nbd2 d6 7. O-O O-O 8. a3 a5 9. a4 e6 10. Re1 d5 11. e5 Nd7 12. Bf1 Ndxe5 13. Nxe5 Nxe5 14. f4 Nc6 15. Nf3 b6 16. Bd2 Qc7 17. g3 Ba6 18. Ng5 Rae8 19. Qg4 Qd6 20. h4 h5 21. Qf3 Bc8 22. Re2 e5 23. Rae1 Bg4 24. Qg2 Bxe2 25. Rxe2 exf4 26. Bxf4 Be5 27. Rf2 Bxf4 28. Rxf4 d4 29. Qf2 Re7 30. Bg2 dxc3 31. bxc3 Ne5 32. Be4 Ng4 33. Qf3 Kg7 34. Bxg6 Qxg6 35. Qd5 Re1+ 36. Kg2 Ne3+
@@ -413,7 +428,7 @@ Bb5 Nf6 9. Qf3 Bd7 10. Nce4 Ne5 11. Nxf6+ exf6 12. Bxd7+ Nxd7 13. Ne4 Qb6
 [White "David Robson"]
 [Black "Shree Nahata"]
 [Opening "Sicilian"]
-[Variation "c3"]
+[Variation "Alapin"]
 [Result "1-0"]
 
 1. e4 c5 2. c3 g6 3. d4 Bg7 4. dxc5 a5 5. Be3 Na6 6. Nf3 Qc7 7. Bd3 Nxc5 8. Bc2 Nf6 9. Nbd2 b6 10. O-O Bb7 11. Bd4 O-O 12. Re1 Ne6 13. Rc1 Rac8 14. Be3 Ng4 15. Nb3 Nxe3 16. fxe3 Nc5 17. Nxc5 bxc5 18. Qe2 d6 19. Qc4 Ra8 20. Rcd1 Ba6 21. Qd5 Rab8 22. Rb1 Rb6 23. Qd2 Qc8 24. Bd3 Bb7 25. Qc2 Qe6 26. Nd2 Qg4 27. Nc4 Ra6 28. Qf2 Bxe4 29. Be2 Qg5 30. Rbd1 Raa8 31. Bf3 f5 32. Qe2 Ra7 33. Rd2 a4 34. Bxe4 fxe4 35. Red1 Rf5 36. Nb6 a3 37. b3 Bxc3 38. Qc4+ e6 39. Qxc3 Raf7 40. Nc4 Rf3 41. Nxd6 R7f4 42. exf4 Qxf4 43. gxf3 e3 44. Rg2 Qxf3 45. Rf1 Qd5 46. Ne8 Qd4 47. Qxd4
@@ -426,7 +441,7 @@ Bb5 Nf6 9. Qf3 Bd7 10. Nce4 Ne5 11. Nxf6+ exf6 12. Bxd7+ Nxd7 13. Ne4 Qb6
 [Black "Daniel O'Byrne"]
 [White "David Robson"]
 [Opening "Sicilian"]
-[Variation "c3"]
+[Variation "Alapin"]
 [Result "1/2-1/2"]
 
 1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 cxd4 5. Nf3 Bg4 6. Be2 Nc6 7. cxd4 Nf6 8. Nc3 Qa5 9. O-O e6 10. h3 Bf5 11. Re1 Be7 12. Nh4 Be4 13. Nxe4 Nxe4 14. Nf3 O-O 15. Bd3 Nf6 16. Bg5 Rfd8 17. Be3 Rac8 18. a3 Nd5 19. b4 Qc7 20. Rc1 a6 21. Ne5 Qd6 22. Bxh7+ Kf8 23. Nc4 Qd7 24. Bb1 Bf6 25. Qh5 Nxd4 26. Ne5 Bxe5 27. Qxe5 Nxe3 28. Qxe3 Rxc1 29. Rxc1 Nc6 30. Be4
@@ -466,7 +481,7 @@ Bb5 Nf6 9. Qf3 Bd7 10. Nce4 Ne5 11. Nxf6+ exf6 12. Bxd7+ Nxd7 13. Ne4 Qb6
 [White "David Robson"]
 [Black "Shree Nahta"]
 [Opening "Sicilian"]
-[Variation "c3"]
+[Variation "Alapin"]
 [WhiteElo "1788"]
 [BlackElo "1915"]
 [TimeControl "80 mins + 10s increment"]
@@ -501,7 +516,7 @@ g3+ Kg5 1/2-1/2
 [Variant "Standard"]
 [TimeControl "5400+15"]
 [ECO "B03"]
-[Opening "Alekhine Defense"]
+[Opening "Alekhine"]
 [Termination "Normal"]
 
 1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. exd6 exd6 5. c4 Nb6 6. Nc3 Nc6 7. Be3 Be7 8. Bd3 Bf6 9. Nge2 Bg4 10. f3 Bd7 11. O-O O-O 12. Re1 Re8 13. Qd2 Nc8 14. Nd5 Nb6 15. Nxf6+ gxf6 16. Bf2 Ne7 17. Ng3 Ng6 18. Qh6 Rxe1+ 19. Rxe1 Qf8 20. Qh5 Re8 21. Ne4 Rxe4 22. Bxe4 Nxc4 23. b3 Na5 24. Qxa5 1-0
@@ -514,14 +529,15 @@ g3+ Kg5 1/2-1/2
 [Result "0-1"]
 [UTCDate "2020.11.09"]
 [UTCTime "19:30:53"]
-[WhiteElo "1500"]
-[BlackElo "1999"]
+[WhiteElo "147"]
+[BlackElo "145"]
 [WhiteRatingDiff "-63"]
 [BlackRatingDiff "+12"]
 [Variant "Standard"]
 [TimeControl "2700+15"]
 [ECO "D85"]
-[Opening "Grünfeld Defense: Exchange Variation"]
+[Opening "Grunfeld"]
+[Variation "Exchange"]
 [Termination "Normal"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. Nxd5 Qxd5 6. e3 Bg7 7. h3 c5 8. Nf3 Nc6 9. Bb5 O-O 10. dxc5 Qxc5 11. Qb3 Be6 12. Qa4 a6 13. Bxc6 bxc6 14. O-O Rfb8 15. Nd4 Bc4 16. Rd1 Bb5 17. Nxb5 cxb5 18. Qb3 Rd8 19. Bd2 Rac8 20. Rac1 Qh5 21. Bb4 Bf6 22. Rxd8+ Rxd8 23. Qc2 Qd5 24. Ba5 Rd7 25. Qc6 Bxb2 26. Qxd5 Rxd5 27. Rc6 Rd6 28. Rc7 Kf8 29. Bb4 Rd1+ 0-1
@@ -532,17 +548,16 @@ g3+ Kg5 1/2-1/2
 [White "David Robson"]
 [Black "Alexander Hughes"]
 [Opening "Sicilian"]
-[Variation "c3"]
+[Variation "Alapin"]
 [UTCDate "2020.10.26"]
 [UTCTime "19:28:30"]
-[WhiteElo "1987"]
-[BlackElo "1500"]
-[WhiteRatingDiff "+12"]
-[BlackRatingDiff "-66"]
+[WhiteElo "145"]
+[BlackElo "147"]
 [Variant "Standard"]
 [TimeControl "2700+15"]
 [ECO "B22"]
-[Opening "Sicilian Defense: Alapin Variation"]
+[Opening "Sicilian"]
+[Variation "Alapin"]
 [Termination "Normal"]
 [Annotator "lichess.org"]
 [Result "1-0"]
@@ -565,7 +580,8 @@ g3+ Kg5 1/2-1/2
 [Variant "Standard"]
 [TimeControl "2700+15"]
 [ECO "B07"]
-[Opening "Pirc Defense: 150 Attack"]
+[Opening "Pirc"]
+[Variation "150 Attack"]
 [Termination "Normal"]
 [Annotator "lichess.org"]
 
@@ -579,6 +595,7 @@ g3+ Kg5 1/2-1/2
 [White "Nashlen Govindasamy"]
 [Black "David Robson"]
 [Result "1-0"]
+[Opening "Grunfeld"]
 [WhiteElo "181"]
 [BlackElo "151"]
 [ECO "D97"]
@@ -603,6 +620,7 @@ Qh4 35. Qf7 1-0
 [WhiteElo "151"]
 [BlackElo "147"]
 [Result "0-1"]
+[Opening "Vienna"]
 
 1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. fxe5 Nxe4 5. d3 Nxc3 6. bxc3 d4 7. Nf3 Nc6
 8. Be2 Bc5 9. O-O O-O 10. Qe1 Bg4 11. Qg3 Qd7 12. Kh1 f6 13. exf6 Rxf6 14.
@@ -641,6 +659,7 @@ Score confused
 [Black "Chris Finn"]
 [WhiteElo "151"]
 [BlackElo "157"]
+[Opening "French"]
 [Result "0-1"]
 
 1. e4 e6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Bd3
@@ -682,7 +701,7 @@ Rxf6 gxf6 27. Bd4 Re5 28. Rf1 Qe7 29. h3 Kg7 30. Nf5+
 [WhiteElo "151"]
 [BlackElo "167"]
 [Opening "Sicilian"]
-[Variation "c3"]
+[Variation "Alapin"]
 [Result "1/2-1/2"]
 
 1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. Nf3 e6 5. d4 cxd4 6. cxd4 d6 7. a3 Bd7 8.
@@ -697,7 +716,7 @@ Ba5 Bxf3 15. Qxf3 Qc6 16. Qxc6+ bxc6 17. Bxb6 axb6 18. Nc3 b5 19. Be2 Nd7
 [Round "?"]
 [White "David Robson"]
 [Opening "Sicilian"]
-[Variation "c3"]
+[Variation "Alapin"]
 [Black "Graham Cole"]
 [Result "1/2-1/2"]
 [WhiteElo "151"]
@@ -742,6 +761,7 @@ winning} Qxc3 30. Nxc3 1/2-1/2
 [BlackElo "173"]
 [ECO "C29"]
 [TimeControl "5400"]
+[Opening "Vienna"]
 
 1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. fxe5 Nxe4 5. d3 Nxc3 6. bxc3 Be7 7. Nf3 O-O 
 8. Be2 f6 9. d4 fxe5 10. Nxe5 Nd7 11. Nxd7 Bxd7 12. Bf3 c6 13. O-O Bd6 14. 
@@ -759,7 +779,7 @@ from here on in, or maybe even earlier. White resigned on move 48} 0-1
 [White "David  Robson"]
 [Black "Guanqun, Gai"]
 [Opening "Sicilian"]
-[Variation "c3"]
+[Variation "Alapin"]
 [Result "0-1"]
 [WhiteElo "151"]
 [BlackElo "140"]
@@ -779,7 +799,7 @@ Rxd1+ 27. Rxd1 Rc5 28. f4 g5 {Score confused after this} 0-1
 [White "David Robson"]
 [Black "Asif Hameed"]
 [Opening "Sicilian"]
-[Variation "c3"]
+[Variation "Alapin"]
 [Result "1-0"]
 [WhiteElo "151"]
 [BlackElo "144"]
@@ -806,6 +826,7 @@ resigns} 1-0
 [WhiteElo "213"]
 [BlackElo "152"]
 [ECO "C03"]
+[Opening "French"]
 [TimeControl "5400+90"]
 
 1. e4 e6 2. d4 d5 3. Nd2 Be7 4. Ngf3 Nf6 5. e5 Nfd7 6. Bd3 c5 7. c3 Nc6 8. 
@@ -839,6 +860,7 @@ on move 31} 1/2-1/2
 [White "David Robson"]
 [Black "Mark Sayers"]
 [Result "1-0"]
+[Opening "Scandinavian"]
 [WhiteElo "152"]
 [BlackElo "53"]
 [ECO "B01"]
@@ -881,7 +903,7 @@ draw.} Kb5 38. Nd6+ Kxb4 39. fxe5 fxe5 {White resigns} 0-1
 [White "David Robson"]
 [Black "Bernard Cooper"]
 [Opening "Sicilian"]
-[Variation "c3"]
+[Variation "Alapin"]
 [Result "0-1"]
 [WhiteElo "150"]
 [BlackElo "152"]
@@ -907,6 +929,8 @@ dxc4 39. Rb5 Bb6 40. Rd5 Kg7 41. Ke4 Kf8 42. Ke5 Kg7 43. Rd7 Bf2 44. Rc7 {??
 [WhiteElo "190"]
 [BlackElo "152"]
 [ECO "B06"]
+[Opening "Pirc"]
+[Variation "150 Attack"]
 [TimeControl "0"]
 
 1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Be3 Nf6 5. f3 c6 6. Qd2 b5 7. Bh6 Bxh6 8. 
@@ -965,6 +989,7 @@ Bc5 30. Qc3 Bb4 {30 .. d4    Draw offered by White and accepted} 1/2-1/2
 [BlackElo "179"]
 [ECO "C29"]
 [TimeControl "0"]
+[Opening "Vienna"]
 
 1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. fxe5 Nxe4 5. d3 Nxc3 6. bxc3 d4 7. Nf3 c5 8. 
 Be2 Be7 9. O-O O-O 10. Qe1 Nc6 11. Qg3 Kh8 12. Kh1 dxc3 13. Bf4 Be6 14. Ng5 
@@ -999,6 +1024,7 @@ Rxf1 34. Rxf1 Rxf1+ 35. Nxf1 Qg5 36. Ne3 h5 37. g3 Bh6 1-0
 [Round "?"]
 [White "Ian Gilders"]
 [Black "David Robson"]
+[Opening "Grunfeld"]
 [Result "0-1"]
 [WhiteElo "119"]
 [BlackElo "155"]
@@ -1044,6 +1070,7 @@ Bxe5 28. Rxe5 Nxf4 29. Bxf4 Rxf4 30. Rxe6 1/2-1/2
 [BlackElo "143"]
 [ECO "C26"]
 [TimeControl "5400+90"]
+[Opening "Vienna"]
 
 1. e4 e5 2. Nc3 Nf6 3. f4 d6 4. Nf3 Bg4 5. h3 Bxf3 6. Qxf3 Nbd7 7. Bc4 Be7 8. 
 d3 exf4 9. Bxf4 Ne5 10. Bxe5 dxe5 11. Qg3 Nxe4 {12. Qxg7 Bh4+ 13. Kd1 Nxc3+ 
@@ -1060,6 +1087,7 @@ d3 exf4 9. Bxf4 Ne5 10. Bxe5 dxe5 11. Qg3 Nxe4 {12. Qxg7 Bh4+ 13. Kd1 Nxc3+
 [Result "1-0"]
 [WhiteElo "155"]
 [BlackElo "158"]
+[Opening "Caro Kann"]
 [ECO "B13"]
 [TimeControl "0"]
 
@@ -1075,7 +1103,7 @@ Bd7 21. Nb3 e5 22. g3 Qg5 23. h4 1-0
 [White "David Robson"]
 [Black "Sean Terry"]
 [Opening "Sicilian"]
-[Variation "c3"]
+[Variation "Alapin"]
 [Result "1/2-1/2"]
 [WhiteElo "155"]
 [BlackElo "172"]
@@ -1098,6 +1126,7 @@ O-O Qxe2 9. Bxe2 Nc6 10. Re1 O-O-O 11. Bg5 Re8 12. Bxf6 gxf6 13. Nbd2 cxd4
 [WhiteElo "155"]
 [BlackElo "156"]
 [ECO "B13"]
+[Opening "Caro Kann"]
 [TimeControl "0"]
 
 1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Bg5 dxc4 7. Nf3 Bg4 8. 
@@ -1115,6 +1144,7 @@ Nxe3 15. fxe3 Bd6 16. h3 Bh5 0-1
 [BlackElo "143"]
 [ECO "C03"]
 [TimeControl "0"]
+[Opening "French"]
 
 1. e4 e6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Bd3 
 Bd6 8. Bg5 Bd7 9. Ne5 h6 10. Bh4 Qe7 11. Qe2 O-O-O 12. O-O-O g5 13. Bg3 h5 
@@ -1130,7 +1160,7 @@ Rhe1 Qf7 21. Bc4 Nd5 22. Be3 Nxe3 23. Rxd7 Kxd7 24. Rxe3 Qf4 25. Qxe6+ Kd8
 [White "David Robson"]
 [Black "Tomasz Rudney"]
 [Opening "Sicilian"]
-[Variation "c3"]
+[Variation "Alapin"]
 [Result "1/2-1/2"]
 [WhiteElo "161"]
 [BlackElo "161"]
@@ -1173,6 +1203,7 @@ Kg7 1/2-1/2
 [BlackElo "112"]
 [ECO "C25"]
 [TimeControl "0"]
+[Opening "Vienna"]
 
 1. e4 e5 2. Nc3 Nc6 3. f4 exf4 4. Nf3 g5 5. d4 g4 6. Bc4 gxf3 7. O-O d6 8. 
 Qxf3 Nxd4 9. Bxf7+ Kxf7 10. Qh5+ Ke7 11. Bxf4 Ne6 12. Bg5+ Nxg5 13. Qxg5+ Kd7 
@@ -1189,6 +1220,7 @@ Qxf3 Nxd4 9. Bxf7+ Kxf7 10. Qh5+ Ke7 11. Bxf4 Ne6 12. Bg5+ Nxg5 13. Qxg5+ Kd7
 [BlackElo "161"]
 [ECO "C05"]
 [TimeControl "0"]
+[Opening "French"]
 
 1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ngf3 Be7 8. 
 O-O O-O 9. Re1 f6 10. Nf1 f5 11. Ng3 h6 12. Bd2 Qe8 13. h4 cxd4 14. cxd4 Kh7 
@@ -1227,7 +1259,7 @@ Nf8 22. Ra3 Nh7 23. Qb2 Bd1 24. Qd2 Bb3 25. Bf3 Bf8 26. Bg4 f5 27. exf5 gxf5
 [White "David Robson"]
 [Black "Andrew Rogozinski"]
 [Opening "Sicilian"]
-[Variation "c3"]
+[Variation "Alapin"]
 [Result "0-1"]
 [WhiteElo "0"]
 [BlackElo "0"]
@@ -1246,6 +1278,7 @@ Na6 9. Nb5 Qc6 10. Nd4 Qc7 11. Nb5 Qd8 12. Nf3 Re8 13. O-O d6 14. cxd6 exd6
 [White "Martin Ashford"]
 [Black "David Robson"]
 [Result "0-1"]
+[Opening "Grunfeld"]
 [WhiteElo "139"]
 [BlackElo "164"]
 [ECO "D94"]
@@ -1266,7 +1299,7 @@ Qh3+ Kg7 40. Rg1 Qxg1+ 41. Kxg1 e2+ 0-1
 [White "David Robson"]
 [Black "Ray Starkie"]
 [Opening "Sicilian"]
-[Variation "c3"]
+[Variation "Alapin"]
 [Result "1/2-1/2"]
 [WhiteElo "0"]
 [BlackElo "0"]
@@ -1292,6 +1325,7 @@ Bxd5 34. Nxc4 Bxc4+ 35. Ke1 Bc3+ 36. Nd2 Bd5 37. f3 f5 38. Ke2 e5 39. Kd3 Bd4
 [BlackElo "169"]
 [ECO "C25"]
 [TimeControl "0"]
+[Opening "Vienna"]
 
 1. e4 e5 2. Nc3 Nc6 3. f4 Bb4 4. Nf3 d6 5. Bb5 Bg4 6. h3 Bxf3 7. Qxf3 Nf6 8. 
 d3 O-O 9. Bxc6 bxc6 10. fxe5 dxe5 11. O-O Qd6 12. Ne2 Bc5+ 13. Kh1 Qe6 14. 
@@ -1307,6 +1341,7 @@ Rd7 Ba5 40. Rf3 Rfe8 41. e5 h5 42. Ne3 Rxe5 43. Nd5 Re1+ 44. Kh2 Ra1 45. Rg3 1-0
 [Round "?"]
 [White "David Robson"]
 [Black "Peter McLeod"]
+[Opening "Scandinavian"]
 [Result "1/2-1/2"]
 [WhiteElo "151"]
 [BlackElo "127"]
@@ -1365,6 +1400,7 @@ Nf2 Bh4 1/2-1/2
 [Round "-"]
 [White "Alan Gentry"]
 [Black "David Robson"]
+[Opening "Grunfeld"]
 [Result "0-1"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. Rc1 c6 6. e3 O-O 7. Nf3 Qa5 8.
@@ -1383,6 +1419,7 @@ Kg8 38. Qb8+ Kg7 39. Qe5+ f6 40. Qb8 Nd4 41. Qg8+ Kh6 42. Qf8+ Kg5 43. Qc5+
 [White "Gareth Stevens"]
 [Black "David Robson"]
 [Result "0-1"]
+[Opening "Grunfeld"]
 [WhiteElo "151"]
 [BlackElo "161"]
 [ECO "D90"]
@@ -1405,6 +1442,7 @@ Nxd5 Rxc1 21. Rxc1 Rxc1+ 22. Qxc1 Qxd5 23. Qc8+ Kf7 24. b3 Bxd4 25. Bg2 Qf5
 [BlackElo "152"]
 [ECO "C25"]
 [TimeControl "0"]
+[Opening "Vienna"]
 
 1. e4 e5 2. Nc3 Nc6 3. f4 exf4 4. Nf3 Be7 5. Bc4 Bh4+ 6. Kf1 Be7 7. d4 g5 8. 
 h4 g4 9. Ng5 Bxg5 10. hxg5 Qxg5 11. Nd5 Qd8 12. Qxg4 d6 13. Qg7 Be6 14. Qxh8 
@@ -1438,7 +1476,7 @@ Nf8 15. Bf3 Ne6 16. Rfe1 b5 17. Qa3 Nxf4 18. exf4 e6 19. g3 Bf8 20. Qa2 b4
 [WhiteElo "147"]
 [BlackElo "170"]
 [Opening "Sicilian"]
-[Variation "c3"]
+[Variation "Alapin"]
 [Result "0-1"]
 
 1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 g6 5. Nf3 Bg7 6. Be2 Nf6 7. O-O O-O 8.
@@ -1515,6 +1553,7 @@ Rce1 Rc2 27. f5 exf5 28. Rxf5 Rxb2 29. Nd7 Bxd4+ 30. Kh1 Nf6 31. Ne5 Rxa2 0-1
 [WhiteElo "147"]
 [BlackElo "139"]
 [Result "1-0"]
+[Opening "Vienna"]
 
 1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. fxe5 Nxe4 5. d3 Nxc3 6. bxc3 c5 7. Nf3 Nc6
 8. Be2 Be7 9. O-O O-O 10. Qe1 d4 11. Qg3 dxc3 12. Bh6 g6 13. Bxf8 Bxf8 14.
@@ -1553,7 +1592,7 @@ Kd2 e5 21. fxe5 Bxe5 22. Rag1 Qe6
 [BlackElo "145"]
 [Black "Richard Beckett"]
 [Opening "Sicilian"]
-[Variation "c3"]
+[Variation "Alapin"]
 [Result "1-0"]
 
 1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. Nf3 Nc6 6. Bc4 Nb6 7. Bb3 dxc3
