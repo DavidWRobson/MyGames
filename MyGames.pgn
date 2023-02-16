@@ -6,6 +6,8 @@
 [Black "Alexander Hertog"]
 [WhiteElo "1814"]
 [BlackElo "1853"]
+[Opening "Caro Kann"]
+[Variation "Two Knights"]
 [Result "1-0"]
 
 1. e4 c6 2. Nf3 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Bc4 Ngf6 6. Neg5 e6 7. Qe2
@@ -13,7 +15,8 @@ Be7 8. Nxf7 Qb6 9. Nxh8 Nc5 10. O-O Kf8 11. Ng5 Nd5 12. d4 Na4 13. Bxd5
 cxd5 14. Qf3+ Bf6 15. Nxh7+ Kg8 16. Nxf6+ gxf6 17. Qxf6
 1-0
 
-[Event "Kidlington Major"]
+[Event "Kidlington"]
+[Section "Major"]
 [Site "Exeter Hall, Kidlington"]
 [Date "2023.02.05"]
 [Round "5"]
@@ -27,7 +30,8 @@ cxd5 14. Qf3+ Bf6 15. Nxh7+ Kg8 16. Nxf6+ gxf6 17. Qxf6
 Nf3 Qe7 9. Qe2 d5 10. Bd2 Na6 11. c3 h6 12. Qe3 g5 13. Nh5
 1-0
 
-[Event "Kidlington Major"]
+[Event "Kidlington"]
+[Section "Major"]
 [Site "Exeter Hall, Kidlington"]
 [Date "2023.02.05"]
 [Round "4"]
@@ -45,7 +49,8 @@ This is  an error. 4 ... e6  is much safer
 Bf6 12. Nxd6+ Kf8 13. Nxb7+ Qe7 14. Nc5 Bc6 15. d3 Bg7 16. Bd2
 1-0
 
-[Event "Kidlington Major"]
+[Event "Kidlington"]
+[Section "Major"]
 [Site "Exeter Hall, Kidlington"]
 [Date "2023.02.04"]
 [Round "3"]
@@ -53,6 +58,8 @@ Bf6 12. Nxd6+ Kf8 13. Nxb7+ Qe7 14. Nc5 Bc6 15. d3 Bg7 16. Bd2
 [Black "David Ewart"]
 [WhiteElo "1814"]
 [BlackElo "1923"]
+[Opening "Sicilian"]
+[Variation "c3"]
 [Result "1/2-1/2"]
 
 1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 e6 5. Nf3 cxd4 6. cxd4 Nc6 7. Bc4 Nb6 8.
@@ -71,7 +78,8 @@ score confused
 }
 1/2-1/2
 
-[Event "Kidlington Major"]
+[Event "Kidlington"]
+[Section "Major"]
 [Site "Exeter Hall, Kidlington"]
 [Date "2023.02.04"]
 [Round "2"]
@@ -90,7 +98,8 @@ Kxc1 Be6 21. Nd4 Nd3+ 22. Kc2 Nxc5 23. Nxe6 Nxe6 24. Nxe4 Nd4+ 25. Kd2 Rfd8
 Kd2 h4 39. Bc2 f5
 0-1
 
-[Event "Kidlington Major"]
+[Event "Kidlington"]
+[Section "Major"]
 [Site "Exeter Hall Kidlington"]
 [Date "2023.02.04"]
 [Round "1"]
@@ -113,6 +122,8 @@ Be3 Rd3 22. Be2 Rdd8 23. Rf3 Na5 24. Rff1 Nc4 25. Bxc4 bxc4 26. Rad1 Qb6
 [Round "-"]
 [White "David Robson"]
 [Black "Ben Sloman"]
+[Opening "Sicilian"]
+[Variation "c3"]
 [Result "0-1"]
 
 1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. Nf3 Nc6 5. Na3 Bg4 6. Be2 e6 7. d4 a6 8.
@@ -210,6 +221,8 @@ Kxb4 Kf4 60. a5 Kg4 61. a6 Kxh4 62. a7
 [Round "-"]
 [White "David Robson"]
 [Black "Simon Terrington"]
+[Opening "Sicilian"]
+[Variation "c3"]
 [Result "1/2-1/2"]
 
 1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. Nf3 Nc6 6. Bc4 Nb6 7. Bb3 d5 8.
@@ -386,7 +399,10 @@ Bb5 Nf6 9. Qf3 Bd7 10. Nce4 Ne5 11. Nxf6+ exf6 12. Bxd7+ Nxd7 13. Ne4 Qb6
 [Round "-"]
 [White "Tony Murphy"]
 [Black "David Robson"]
+[Opening "Sicilian"]
+[Variation "c3"]
 [Result "0-1"]
+
 1. e4 c5 2. c3 Nf6 3. d3 g6 4. Nf3 Bg7 5. Be2 Nc6 6. Nbd2 d6 7. O-O O-O 8. a3 a5 9. a4 e6 10. Re1 d5 11. e5 Nd7 12. Bf1 Ndxe5 13. Nxe5 Nxe5 14. f4 Nc6 15. Nf3 b6 16. Bd2 Qc7 17. g3 Ba6 18. Ng5 Rae8 19. Qg4 Qd6 20. h4 h5 21. Qf3 Bc8 22. Re2 e5 23. Rae1 Bg4 24. Qg2 Bxe2 25. Rxe2 exf4 26. Bxf4 Be5 27. Rf2 Bxf4 28. Rxf4 d4 29. Qf2 Re7 30. Bg2 dxc3 31. bxc3 Ne5 32. Be4 Ng4 33. Qf3 Kg7 34. Bxg6 Qxg6 35. Qd5 Re1+ 36. Kg2 Ne3+
 0-1
 
@@ -396,6 +412,8 @@ Bb5 Nf6 9. Qf3 Bd7 10. Nce4 Ne5 11. Nxf6+ exf6 12. Bxd7+ Nxd7 13. Ne4 Qb6
 [Round "-"]
 [White "David Robson"]
 [Black "Shree Nahata"]
+[Opening "Sicilian"]
+[Variation "c3"]
 [Result "1-0"]
 
 1. e4 c5 2. c3 g6 3. d4 Bg7 4. dxc5 a5 5. Be3 Na6 6. Nf3 Qc7 7. Bd3 Nxc5 8. Bc2 Nf6 9. Nbd2 b6 10. O-O Bb7 11. Bd4 O-O 12. Re1 Ne6 13. Rc1 Rac8 14. Be3 Ng4 15. Nb3 Nxe3 16. fxe3 Nc5 17. Nxc5 bxc5 18. Qe2 d6 19. Qc4 Ra8 20. Rcd1 Ba6 21. Qd5 Rab8 22. Rb1 Rb6 23. Qd2 Qc8 24. Bd3 Bb7 25. Qc2 Qe6 26. Nd2 Qg4 27. Nc4 Ra6 28. Qf2 Bxe4 29. Be2 Qg5 30. Rbd1 Raa8 31. Bf3 f5 32. Qe2 Ra7 33. Rd2 a4 34. Bxe4 fxe4 35. Red1 Rf5 36. Nb6 a3 37. b3 Bxc3 38. Qc4+ e6 39. Qxc3 Raf7 40. Nc4 Rf3 41. Nxd6 R7f4 42. exf4 Qxf4 43. gxf3 e3 44. Rg2 Qxf3 45. Rf1 Qd5 46. Ne8 Qd4 47. Qxd4
@@ -407,6 +425,8 @@ Bb5 Nf6 9. Qf3 Bd7 10. Nce4 Ne5 11. Nxf6+ exf6 12. Bxd7+ Nxd7 13. Ne4 Qb6
 [Round "-"]
 [Black "Daniel O'Byrne"]
 [White "David Robson"]
+[Opening "Sicilian"]
+[Variation "c3"]
 [Result "1/2-1/2"]
 
 1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 cxd4 5. Nf3 Bg4 6. Be2 Nc6 7. cxd4 Nf6 8. Nc3 Qa5 9. O-O e6 10. h3 Bf5 11. Re1 Be7 12. Nh4 Be4 13. Nxe4 Nxe4 14. Nf3 O-O 15. Bd3 Nf6 16. Bg5 Rfd8 17. Be3 Rac8 18. a3 Nd5 19. b4 Qc7 20. Rc1 a6 21. Ne5 Qd6 22. Bxh7+ Kf8 23. Nc4 Qd7 24. Bb1 Bf6 25. Qh5 Nxd4 26. Ne5 Bxe5 27. Qxe5 Nxe3 28. Qxe3 Rxc1 29. Rxc1 Nc6 30. Be4
@@ -418,6 +438,9 @@ Bb5 Nf6 9. Qf3 Bd7 10. Nce4 Ne5 11. Nxf6+ exf6 12. Bxd7+ Nxd7 13. Ne4 Qb6
 [Round "-"]
 [White "Tim King"]
 [Black "David Robson"]
+[Opening "Sicilian"]
+[Variation "Najdorf"]
+[SubVariation "6Be3"]
 [Result "1-0"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 Ng4 7. Bg5 h6 8. Bh4 g5 9. Bg3 Bg7 10. Qd2 Nc6 11. Nb3 Be6 12. O-O-O Rc8 13. Nd5 Nce5 14. f3 Nf6 15. Ne3 Nc6 16. Nf5 Bxf5 17. exf5 Qd7 18. Bd3 Nh5 19. Be1 O-O 20. g4 Nf4 21. Bf1 Qc7 22. Qf2 a5 23. a4 Nb4 24. Rd2 Nfd5 25. Kb1 Nb6 26. h4 Be5
@@ -442,11 +465,13 @@ Bb5 Nf6 9. Qf3 Bd7 10. Nce4 Ne5 11. Nxf6+ exf6 12. Bxd7+ Nxd7 13. Ne4 Qb6
 [Round "?"]
 [White "David Robson"]
 [Black "Shree Nahta"]
-[Result "1/2-1/2"]
+[Opening "Sicilian"]
+[Variation "c3"]
 [WhiteElo "1788"]
 [BlackElo "1915"]
 [TimeControl "80 mins + 10s increment"]
 [Termination "Draw"]
+[Result "1/2-1/2"]
 
 1. e4 c5 2. c3 g6 3. Nf3 Bg7 4. d4 Nc6 5. d5 Ne5 6. Be2 Nxf3+ 7. Bxf3 d6 8. O-O
 Nf6 9. Bf4 Qb6 10. Qd2 Bg4 11. Bxg4 Nxg4 12. Na3 O-O 13. Nc4 Qa6 14. Ne3 Ne5 15.
@@ -506,7 +531,8 @@ g3+ Kg5 1/2-1/2
 [Date "2020.10.26"]
 [White "David Robson"]
 [Black "Alexander Hughes"]
-[Result "1-0"]
+[Opening "Sicilian"]
+[Variation "c3"]
 [UTCDate "2020.10.26"]
 [UTCTime "19:28:30"]
 [WhiteElo "1987"]
@@ -519,6 +545,7 @@ g3+ Kg5 1/2-1/2
 [Opening "Sicilian Defense: Alapin Variation"]
 [Termination "Normal"]
 [Annotator "lichess.org"]
+[Result "1-0"]
 
 1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. Bc4 Nb6 5. Bb3 d6 6. Bc2 Nc6 7. Nf3 Qc7 8. Qe2 g6 9. O-O Bg7 10. Re1 O-O 11. Na3  Na5 12. d4 d5 13. h3 Nd7 14. Bf4 e6 15. Qe3 b6 16. Nb5 Qc6 17. Nd6 f6 18. exf6 Nxf6 19. Nxc8 Raxc8 20. Qxe6+ Qxe6 21. Rxe6 Rfe8 22. Rae1 Rxe6 23. Rxe6 Kf7 24. Ng5+ Kg8 25. Ba4 h6 26. Nf3 Kf7 27. Re2 Ne4 28. Ne5 Bxe5 29. Bxe5 Nc6 30. Bh2 Ne7 31. f3 Nf6 32. Kf2 g5 33. Bc2 b5 34. Bd6 Re8 35. Re5 a6 36. g4 Nc8 37. Rxe8  Kxe8 38. Bg6+ Kd7 39. Bf8 Ne7 40. Bf7 Neg8 41. Ke3 Kc6 42. f4 Kd7 43. Kf3 Kc6 44. Be6 Kc7 45. Bxh6 Nxh6 46. fxg5 Nhxg4 47. Bxg4 Nh7 48. g6 Nf6 49. h4 Kd6 50. h5 Ke7 51. h6 Kf8 52. Be6 Ke7 53. h7 Kxe6 54. h8=Q 1-0
 
@@ -566,7 +593,8 @@ is much better} Qxe4 24. Bc6 Qxd4 25. Bc3 Qd6 26. Bxa8 Rxa8 27. Bxg7 Kxg7 28.
 Rd1 Qf6 29. Qe2 Kf7 30. Ra3 Kg7 31. Rf3 Qg5 32. Qe6 Rc8 33. Rf7+ Kh6 34. Rxe7 
 Qh4 35. Qf7 1-0
 
-[Event "Kidlington U180"]
+[Event "Kidlington"]
+[Section "U180"]
 [Site "Exeter Hall, Kidlington"]
 [Date "2021.02.02"]
 [Round "5"]
@@ -582,7 +610,8 @@ c4 Re8 15. Bd1 Bd6 16. Qf2 Ne5 17. Qxd4 Nxf3 18. Bxf3 Bxf3 19. gxf3 Qh3 20.
 Qg1 Rg6 21. Qf2
 0-1
 
-[Event "Kidlington U180"]
+[Event "Kidlington"]
+[Section "U180"]
 [Site "Exeter Hall, Kidlington"]
 [Date "2020.02.02"]
 [Round "4"]
@@ -603,9 +632,10 @@ Score confused
 
 1/2-1/2
 
-[Event "Kidlington U180"]
+[Event "Kidlington"]
+[Section "U180"]
 [Site "Exeter Hall, Kidlington"]
-[Date "2020.0201"]
+[Date "2020.02.01"]
 [Round "3"]
 [White "David Robson"]
 [Black "Chris Finn"]
@@ -624,7 +654,8 @@ Game confused
 
 0-1
 
-[Event "Kidlington U180"]
+[Event "Kidlington"]
+[Section "U180"]
 [Site "Exeter Hall, Kidlington"]
 [Date "2020.02.01"]
 [Round "2"]
@@ -641,7 +672,8 @@ Qe1 Qd7 21. Bf5 Bxf5 22. Nxf5 Bf6 23. c3 Rae8 24. Qg3 Ng6 25. Nh6+ Kh8 26.
 Rxf6 gxf6 27. Bd4 Re5 28. Rf1 Qe7 29. h3 Kg7 30. Nf5+
 1-0
 
-[Event "Kidlington U180"]
+[Event "Kidlington"]
+[Section "U180"]
 [Site "Exeter Hall, Kidlington"]
 [Date "2020.02.01"]
 [Round "1"]
@@ -649,6 +681,8 @@ Rxf6 gxf6 27. Bd4 Re5 28. Rf1 Qe7 29. h3 Kg7 30. Nf5+
 [Black "Graham Cole"]
 [WhiteElo "151"]
 [BlackElo "167"]
+[Opening "Sicilian"]
+[Variation "c3"]
 [Result "1/2-1/2"]
 
 1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. Nf3 e6 5. d4 cxd4 6. cxd4 d6 7. a3 Bd7 8.
@@ -662,6 +696,8 @@ Ba5 Bxf3 15. Qxf3 Qc6 16. Qxc6+ bxc6 17. Bxb6 axb6 18. Nc3 b5 19. Be2 Nd7
 [Date "2020.01.09"]
 [Round "?"]
 [White "David Robson"]
+[Opening "Sicilian"]
+[Variation "c3"]
 [Black "Graham Cole"]
 [Result "1/2-1/2"]
 [WhiteElo "151"]
@@ -722,6 +758,8 @@ from here on in, or maybe even earlier. White resigned on move 48} 0-1
 [Round "?"]
 [White "David  Robson"]
 [Black "Guanqun, Gai"]
+[Opening "Sicilian"]
+[Variation "c3"]
 [Result "0-1"]
 [WhiteElo "151"]
 [BlackElo "140"]
@@ -740,6 +778,8 @@ Rxd1+ 27. Rxd1 Rc5 28. f4 g5 {Score confused after this} 0-1
 [Round "?"]
 [White "David Robson"]
 [Black "Asif Hameed"]
+[Opening "Sicilian"]
+[Variation "c3"]
 [Result "1-0"]
 [WhiteElo "151"]
 [BlackElo "144"]
@@ -840,6 +880,8 @@ draw.} Kb5 38. Nd6+ Kxb4 39. fxe5 fxe5 {White resigns} 0-1
 [Round "?"]
 [White "David Robson"]
 [Black "Bernard Cooper"]
+[Opening "Sicilian"]
+[Variation "c3"]
 [Result "0-1"]
 [WhiteElo "150"]
 [BlackElo "152"]
@@ -1032,6 +1074,8 @@ Bd7 21. Nb3 e5 22. g3 Qg5 23. h4 1-0
 [Round "?"]
 [White "David Robson"]
 [Black "Sean Terry"]
+[Opening "Sicilian"]
+[Variation "c3"]
 [Result "1/2-1/2"]
 [WhiteElo "155"]
 [BlackElo "172"]
@@ -1085,6 +1129,8 @@ Rhe1 Qf7 21. Bc4 Nd5 22. Be3 Nxe3 23. Rxd7 Kxd7 24. Rxe3 Qf4 25. Qxe6+ Kd8
 [Round "?"]
 [White "David Robson"]
 [Black "Tomasz Rudney"]
+[Opening "Sicilian"]
+[Variation "c3"]
 [Result "1/2-1/2"]
 [WhiteElo "161"]
 [BlackElo "161"]
@@ -1180,6 +1226,8 @@ Nf8 22. Ra3 Nh7 23. Qb2 Bd1 24. Qd2 Bb3 25. Bf3 Bf8 26. Bg4 f5 27. exf5 gxf5
 [Round "?"]
 [White "David Robson"]
 [Black "Andrew Rogozinski"]
+[Opening "Sicilian"]
+[Variation "c3"]
 [Result "0-1"]
 [WhiteElo "0"]
 [BlackElo "0"]
@@ -1217,6 +1265,8 @@ Qh3+ Kg7 40. Rg1 Qxg1+ 41. Kxg1 e2+ 0-1
 [Round "?"]
 [White "David Robson"]
 [Black "Ray Starkie"]
+[Opening "Sicilian"]
+[Variation "c3"]
 [Result "1/2-1/2"]
 [WhiteElo "0"]
 [BlackElo "0"]
@@ -1360,7 +1410,8 @@ Nxd5 Rxc1 21. Rxc1 Rxc1+ 22. Qxc1 Qxd5 23. Qc8+ Kf7 24. b3 Bxd4 25. Bg2 Qf5
 h4 g4 9. Ng5 Bxg5 10. hxg5 Qxg5 11. Nd5 Qd8 12. Qxg4 d6 13. Qg7 Be6 14. Qxh8 
 Kd7 15. Qxg8 1-0
 
-[Event "Kidlington U180"]
+[Event "Kidlington"]
+[Section "U180"]
 [Site "Exeter Hall Kidlington"]
 [Date "2017.02.05"]
 [Round "5"]
@@ -1377,7 +1428,8 @@ Nf8 15. Bf3 Ne6 16. Rfe1 b5 17. Qa3 Nxf4 18. exf4 e6 19. g3 Bf8 20. Qa2 b4
 27. Nxd7
 1/2-1/2
 
-[Event "Kidlington U180"]
+[Event "Kidlington"]
+[Section "U180"]
 [Site "Exeter Hall, Kidlington"]
 [Date "2017.02.05"]
 [Round "4"]
@@ -1385,6 +1437,8 @@ Nf8 15. Bf3 Ne6 16. Rfe1 b5 17. Qa3 Nxf4 18. exf4 e6 19. g3 Bf8 20. Qa2 b4
 [Black "Anthony Lee"]
 [WhiteElo "147"]
 [BlackElo "170"]
+[Opening "Sicilian"]
+[Variation "c3"]
 [Result "0-1"]
 
 1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 g6 5. Nf3 Bg7 6. Be2 Nf6 7. O-O O-O 8.
@@ -1394,7 +1448,8 @@ Bxf3 21. Bxf3 Ne7 22. Qd2 Kh7 23. d5 Nfxd5 24. Nxd5 Nxd5 25. Bxa7 Ra8 26.
 Bxd5 exd5 27. Bb6 Re8 28. Qxd5 Re1+ 29. Kh2 Qxd5
 0-1
 
-[Event "Kidlington U180"]
+[Event "Kidlington"]
+[Section "U180"]
 [Site "Exeter Hall, Kidlington"]
 [Date "2017.02.04"]
 [Round "3"]
@@ -1472,6 +1527,23 @@ Draw offered
 31. Kf4 Rb2 32. Rf2 f5 33. exf6 Bxf6 34. Rxa3 Rb1 35. Kg4 Be7 36. Ra8+
 1-0
 
+[Event "Cowley 1 v Cowley 2"]
+[Site "Cowley"]
+[Date "2016.10.10"]
+[Round "-"]
+[White "Richard Weston"]
+[Black "David Robson"]
+[WhiteElo "154"]
+[BlackElo "145"]
+[Opening "Torre Attack"]
+[Result "1-0"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. Nbd2 d5 5. e3 O-O 6. Bd3 c5 7. c3 cxd4 8.
+exd4 Nc6 9. Qc2 a6 10. h4 Re8 11. Ne5 Nxe5 12. dxe5 Ng4 13. Nf3 Nxe5 14.
+Nxe5 Bxe5 15. h5 Qd6 16. hxg6 hxg6 17. g3 Bg4 18. f4 Bg7 19. Qh2 Bh5 20.
+Kd2 e5 21. fxe5 Bxe5 22. Rag1 Qe6
+1-0
+
 [Event "Bicester 1 v Cowley 3"]
 [Site "Bicester"]
 [Date "2016.10.11"]
@@ -1480,6 +1552,8 @@ Draw offered
 [WhiteElo "147"]
 [BlackElo "145"]
 [Black "Richard Beckett"]
+[Opening "Sicilian"]
+[Variation "c3"]
 [Result "1-0"]
 
 1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. Nf3 Nc6 6. Bc4 Nb6 7. Bb3 dxc3
@@ -1489,6 +1563,24 @@ Bxd4 exd4 21. Nb5 Qh4 22. Nxd4 Bg4 23. f3 Bh5 24. a4 Rfd8 25. Ne2 Be5 26.
 g3 Qf6 27. f4 Bxb2 28. Rc2 Ba3 29. Ne4 Qf5 30. Qd4 Nd7 31. Rcd2 Bf3 32.
 N2c3 Rbc8 33. Qf2 Bxe4 34. Nxe4 Bc5 35. Nxc5 Nxc5 36. Bd5 Ne4 37. Bxe4
 1-0
+
+[Event "Banbury 1 v Cowley 1"]
+[Site "Banbury"]
+[Date "2016.04.26"]
+[Round "-"]
+[White "David Robson"]
+[Black "Neil Staples"]
+[WhiteElo "143"]
+[BlackElo "157"]
+[Opening "Scandinavian"]
+[Variation "2 Qxd5"]
+[Result "1/2-1/2"]
+
+1. e4 d5 2. exd5 Qxd5 3. d4 e5 4. dxe5 Qxd1+ 5. Kxd1 Nc6 6. f4 Bg4+ 7. Be2
+O-O-O+ 8. Bd2 Nh6 9. Nf3 Bc5 10. Rf1 f6 11. h3 Bf5 12. g4 Be4 13. Nc3 Bxf3
+14. Rxf3 fxe5 15. f5 Nd4 16. Rd3 Nf7 17. Ne4 Be7 18. c3 Nxe2 19. Kxe2 Rxd3
+20. Kxd3 Nd6 21. Rf1 Rd8 22. Nxd6+
+1/2-1/2
 
 [Event "Cowley 3 v Cumnor 1"]
 [Site "Cowley"]
