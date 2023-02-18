@@ -13,11 +13,11 @@ for line in Lines:
     if re.match(r"^\[ *Date .*", line):
         date = line.split('"')[1];
 
-    if re.match(r"^\[ *WhiteElo .*", line):
-        whiteELO = line.split('"')[1];
+    if re.match(r"^\[ *WhiteECF .*", line):
+        whiteECF = line.split('"')[1];
 
-    if re.match(r"^\[ *BlackElo .*", line):
-        blackELO = line.split('"')[1];
+    if re.match(r"^\[ *BlackECF .*", line):
+        blackECF = line.split('"')[1];
 
     if re.match(r"^\[ *Result .*", line):
         result = line.split('"')[1];
@@ -42,11 +42,11 @@ for line in Lines:
 
     if re.match(r"^ *1\. *[a-zA-Z].*", line):
         if colour == "WHITE":
-           playerRating = blackELO
-           myRating = whiteELO
+           playerRating = blackECF
+           myRating = whiteECF
         if colour == "BLACK":
-           playerRating = whiteELO
-           myRating = blackELO
+           playerRating = whiteECF
+           myRating = blackECF
         if result == "1/2-1/2":
            result = "DREW"
         if result == "1-0" and colour == "WHITE":
@@ -58,8 +58,10 @@ for line in Lines:
         if result == "0-1" and colour == "BLACK":
            result = "WON"
 
-        print(date,opponent.ljust(22),result.ljust(4),colour,myRating.rjust(4),playerRating.rjust(4),opening.ljust(12),variation)
-        date = opponent = result = colour = myRating = platerRating = "?"
+        print(date,opponent.ljust(22),result.ljust(4),colour,myRating.rjust(4),\
+               playerRating.rjust(4),opening.ljust(22),variation)
+        date = opponent = result = colour = myRating = platerRating = \
+               whiteECF = blackECF = "?"
         opening = variation = " "
 
 file1.close()
