@@ -1685,7 +1685,7 @@ Bxg2+ 33. Kxg2 Nxf5 34. Nxf5 exf5 35. Rde1 Qc6+ 36. Kh2 Qd7 37. Rxf5+
 
 [Event "Cowley 3 v MCS/B1"]
 [Site "Cowley"]
-[Date "2016/04/18"]
+[Date "2016.04.18"]
 [Round "-"]
 [White "Ian Bush"]
 [Black "David Robson"]
@@ -1706,6 +1706,31 @@ Score confused around here
 }
 
 0-1
+
+[Event "Wantage 1 v Cowley 3"]
+[Site "Wantage"]
+[Date "2016.04.12"]
+[Round "-"]
+[White "David Robson"]
+[Black "Peter Hemming"]
+[WhiteECF "143"]
+[BlackECF "141"]
+[Opening "Vienna"]
+[Result "1/2-1/2"]
+
+1. e4 e5 2. Nc3 d6 3. f4 Nd7 4. Nf3 Be7 5. Bc4 Ngf6 6. d3 O-O 7. O-O c6 8.
+a4 b6 9. Qe1 Bb7 10. Bb3 a6 11. fxe5 dxe5 12. Qg3 g6 13. Bh6 Nh5 14. Qg4
+Ndf6 15. Qh4 Nd7 16. Ng5 Bxg5 17. Bxg5 Qe8 18. Bh6 Ng7 19. Rf3 Nc5 20. Ba2
+Nce6 21. Qf6 Qd8 22. Qxe5 Qb8 23. Bxg7 Nxg7 24. Qf6 Qd8 25. Bxf7+ Kh8 26.
+Qxd8 Raxd8 27. Raf1 Bc8 28. Bc4 Rxf3 29. Rxf3 Nh5 30. h3 b5 31. axb5 axb5
+32. Bb3 Re8 33. g4 Ng7 34. Ne2 Be6 35. Bxe6 Nxe6 36. Kg2 Kg7 37. d4 Ng5 38.
+Re3 Rxe4 39. Rxe4 Nxe4 40. Ng3 Nd6 41. Kf3 b4 42. Ne4 Nc4 43. b3 Na3 44. c3
+Nb5 45. Ke3
+{
+White made a draw offer
+}
+45... bxc3 46. Kd3 c2 47. Kxc2
+1/2-1/2
 
 [Event "Cowley 3 v Cumnor 1"]
 [Site "Cowley"]
@@ -1728,6 +1753,22 @@ Rbc8 20. Ne2 f6 21. f4 Bf7 22. h4 Qb6 23. Qxb6 axb6 24. Rbd1 d5 25. e5 c5 26.
 Rf3 Be6 27. Rf2 d4 28. Nc1 Rd5 29. Nd3 Bf5 30. Re1 Kf7 31. exf6 exf6 32. Rfe2 
 Rd7 33. Kh2 Rcc7 34. g3 Re7 35. Rxe7+ Rxe7 36. Rxe7+ Kxe7 37. Kg2 Kd6 38. Kf2 
 Kd5 39. Ke2 c4 40. bxc4+ Kxc4 41. Kd2 Bxd3 42. cxd3+ Kb3 0-1
+
+[Event "Cowley 3 v Oxford University 2"]
+[Site "Cowley"]
+[Date "2016.02.01"]
+[Round "-"]
+[White "David Robson"]
+[Black "Erik Simsek"]
+[WhiteECF "143"]
+[BlackECF "139"]
+[Opening "Vienna"]
+[Result "1-0"]
+
+1. e4 e5 2. Nc3 Nc6 3. f4 exf4 4. Nf3 d6 5. d4 Bg4 6. Bxf4 Nf6 7. Be2 Be7
+8. O-O h6 9. Qd2 d5 10. exd5 Nxd5 11. Bc4 Nb6 12. Bb5 O-O 13. Be3 Nd5 14.
+Nxd5 Qxd5 15. Bd3 Bxf3 16. Rxf3 Nxd4 17. Rg3 Bc5 18. Kh1 Rad8 19. Bxh6
+1-0
 
 [Event "Cowley 3 v Wantage 2"]
 [Site "Cowley"]
