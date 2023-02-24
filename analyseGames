@@ -1,0 +1,59 @@
+#!/usr/bin/env python3
+
+# Reads the output from the chessgames program via stdin (optionally modified by intervening filters)
+# and writes a breakdown on results for each opening
+
+# 20210224 D.W.Robson Created
+
+import sys
+
+whiteResults = {}
+blackResults = {}
+
+for line in sys.stdin:
+    result = line[34:38]
+    colour = line[39:44]
+    opening = line[55:77]
+
+    if result == "WON ":
+        score = 1
+    if result == "LOST":
+        score = 0
+    if result == "DREW":
+       score = 0.5
+
+    if colour == "WHITE":
+       if opening not in whiteResults.keys():
+          whiteResults[opening] = [ 1, score ]
+       else:
+          prevCount, prevScore  = whiteResults[opening]
+          whiteResults[opening] = [ prevCount + 1, prevScore + score ]
+
+    if colour == "BLACK":
+       if opening not in blackResults.keys():
+          blackResults[opening] = [ 1, score ]
+       else:
+          prevCount, prevScore  = blackResults[opening]
+          blackResults[opening] = [ prevCount + 1, prevScore + score ]
+
+sumCount = sumScore = 0
+for opening in whiteResults.keys():
+    count, score  = whiteResults[opening]
+    sumCount += count
+    sumScore += score
+if sumCount > 0:
+    print("\nWhite Results          %3d%%    (%3.1f out of %d)\n" % (int(100*sumScore/sumCount), sumScore, sumCount))
+for opening in whiteResults.keys():
+    count, score  = whiteResults[opening]
+    print("%20s %3d%%    (%3.1f out of %d)" % (opening, int(100*score/count), score, count))
+
+sumCount = sumScore = 0
+for opening in blackResults.keys():
+    count, score  = blackResults[opening]
+    sumCount += count
+    sumScore += score
+if sumCount > 0:
+   print("\nBlack Results          %3d%%    (%3.1f out of %d)\n" % (int(100*sumScore/sumCount), sumScore, sumCount))
+for opening in blackResults.keys():
+    count, score  = blackResults[opening]
+    print("%20s %3d%%    (%3.1f out of %d)" % (opening, int(100*score/count), score, count))
