@@ -89,8 +89,8 @@ score confused
 [Round "2"]
 [White "David Robson"]
 [Black "Danut Joian"]
-[WhiteECF "1934"]
-[BlackECF "1814"]
+[WhiteECF "1814"]
+[BlackECF "1934"]
 [Opening "Alekhine"]
 [Result "0-1"]
 
@@ -130,6 +130,8 @@ Be3 Rd3 22. Be2 Rdd8 23. Rf3 Na5 24. Rff1 Nc4 25. Bxc4 bxc4 26. Rad1 Qb6
 [Black "Ben Sloman"]
 [Opening "Sicilian"]
 [Variation "Alapin"]
+[WhiteECF "1814"]
+[BlackECF "1831"]
 [Result "0-1"]
 
 1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. Nf3 Nc6 5. Na3 Bg4 6. Be2 e6 7. d4 a6 8.
@@ -149,6 +151,8 @@ Following moves not recorded.  White lost in time scramble
 [Round "-"]
 [White "David Rollinson"]
 [Black "David Robson"]
+[WhiteECF "1652"]
+[BlackECF "1814"]
 [Result "1/2-1/2"]
 [Opening "Torre Attack"]
 [Board "11"]
@@ -379,6 +383,8 @@ Bb5 Nf6 9. Qf3 Bd7 10. Nce4 Ne5 11. Nxf6+ exf6 12. Bxd7+ Nxd7 13. Ne4 Qb6
 [Round "-"]
 [White "David Robson"]
 [Black "Andrew Robbings"]
+[WhiteECF "1801"]
+[BlackECF "1960"]
 [Opening "French"]
 [Result "1/2-1/2"]
 
@@ -840,8 +846,8 @@ resigns} 1-0
 [White "David Robson"]
 [Black "Filip Mihov"]
 [Result "0-1"]
-[WhiteECF "213"]
-[BlackECF "152"]
+[WhiteECF "152"]
+[BlackECF "213"]
 [ECO "C03"]
 [Opening "French"]
 [TimeControl "5400+90"]
@@ -1226,12 +1232,12 @@ Kg7 1/2-1/2
 [Round "?"]
 [White "David Robson"]
 [Black "Graham Cluley"]
-[Result "1-0"]
+[Opening "Vienna"]
 [WhiteECF "161"]
 [BlackECF "112"]
 [ECO "C25"]
 [TimeControl "0"]
-[Opening "Vienna"]
+[Result "1-0"]
 
 1. e4 e5 2. Nc3 Nc6 3. f4 exf4 4. Nf3 g5 5. d4 g4 6. Bc4 gxf3 7. O-O d6 8. 
 Qxf3 Nxd4 9. Bxf7+ Kxf7 10. Qh5+ Ke7 11. Bxf4 Ne6 12. Bg5+ Nxg5 13. Qxg5+ Kd7 
@@ -1244,8 +1250,8 @@ Qxf3 Nxd4 9. Bxf7+ Kxf7 10. Qh5+ Ke7 11. Bxf4 Ne6 12. Bg5+ Nxg5 13. Qxg5+ Kd7
 [White "David Robson"]
 [Black "Andrejs Olehnovics"]
 [Result "1/2-1/2"]
-[WhiteECF "171"]
-[BlackECF "161"]
+[WhiteECF "161"]
+[BlackECF "177"]
 [ECO "C05"]
 [TimeControl "0"]
 [Opening "French"]
@@ -1280,6 +1286,49 @@ Rad8 16. Rd1 Bb3 17. Nc2 Qe6 18. Nh4 Rd7 19. Rf1 dxc3 20. bxc3 Red8 21. Ne1
 Nf8 22. Ra3 Nh7 23. Qb2 Bd1 24. Qd2 Bb3 25. Bf3 Bf8 26. Bg4 f5 27. exf5 gxf5 
 28. Bxf5 Qf7 29. Ra1 Rd6 30. Qe2 Be6 31. Qg4+ Kh8 32. Ng6+ Kg8 33. Nxe5+ Qg7 
 34. Bxe6+ 1-0
+
+[Event "Cowley 1 v Witney 1"]
+[Site "Cowley"]
+[Date "2017.12.18"]
+[Round "-"]
+[White "David Robson"]
+[Black "Paul Girdlestone"]
+[Opening "Vienna"]
+[WhiteECF "164"]
+[BlackECF "188"]
+[Result "0-1"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. fxe5 Nxe4 5. d3 Nxc3 6. bxc3 d4 7. Nf3 Nc6
+8. Be2 Bg4 9. O-O Bc5 10. Qe1 dxc3+ 11. Kh1 Qd7 12. Rb1 O-O-O 13. Qxc3 Bb6
+14. Bf4 Rhe8 15. Bd1 h6 16. Nd2 Bxd1 17. Rbxd1 Qd4 18. Qb3 g5 19. Bg3 Nxe5
+20. Bxe5 Qxe5 21. Nc4 Qd4 22. Nxb6+ axb6 23. Rd2
+{
+Score confused around here
+}
+
+0-1
+
+[Event "Cowley 1 v Banbury 1"]
+[Site "Cowley"]
+[Date "2017.12.04"]
+[Round "-"]
+[White "Mal Waddell"]
+[Black "David Robson"]
+[Opening "Grunfeld"]
+[WhiteECF "159"]
+[BlackECF "164"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 c5
+8. Ne2 Nc6 9. d5 Ne5 10. f4 Nxc4 11. Qa4+ Bd7 12. Qxc4 Rc8 13. a4 Qa5 14.
+Bb2 Qb6 15. Rb1 e6 16. O-O exd5 17. Qxd5 Bc6 18. Qc4 Qa5 19. Ra1 O-O 20. f5
+Rce8 21. fxg6 Rxe4 22. gxf7+ Kh8 23. Qd3 c4 24. Qc2 Be5 25. Nd4 Rh4 26. h3
+Bd5 27. Qf5 Qc7 28. Ne6 Qb6+ 29. Nd4
+{
+Score confused around here
+}
+
+1-0
 
 [Event "Cowley1 v Oxford University 1"]
 [Site "Cowley"]
