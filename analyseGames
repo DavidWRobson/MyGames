@@ -9,11 +9,31 @@ import sys
 
 whiteResults = {}
 blackResults = {}
+sumOppRating = 0
+numOppRating = 0
+sumMyRating = 0
+numMyRating = 0
 
 for line in sys.stdin:
     result = line[34:38]
     colour = line[39:44]
     opening = line[55:77]
+    OppRating = line[50:54].strip()
+    MyRating = line[45:49].strip()
+
+    if MyRating.isnumeric():
+       if int(MyRating) > 300:
+          sumMyRating += int(MyRating)
+       else:
+          sumMyRating += 15*int(MyRating)/2 + 700
+       numMyRating += 1
+
+    if OppRating.isnumeric():
+       if int(OppRating) > 300:
+          sumOppRating += int(OppRating)
+       else:
+          sumOppRating += 15*int(OppRating)/2 + 700
+       numOppRating += 1
 
     if result == "WON ":
         score = 1
@@ -36,6 +56,8 @@ for line in sys.stdin:
           prevCount, prevScore  = blackResults[opening]
           blackResults[opening] = [ prevCount + 1, prevScore + score ]
 
+if numOppRating > 0:
+   print("\nAverage Ratings: Mine = %4d Opponents = %4d" % (sumMyRating/numMyRating,sumOppRating/numOppRating))
 sumCount = sumScore = 0
 for opening in whiteResults.keys():
     count, score  = whiteResults[opening]
