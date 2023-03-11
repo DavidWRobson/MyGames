@@ -17,9 +17,9 @@ numMyRating = 0
 for line in sys.stdin:
     result = line[34:38]
     colour = line[39:44]
-    opening = line[55:77]
     OppRating = line[50:54].strip()
     MyRating = line[45:49].strip()
+    opening = line[61:83]
 
     if MyRating.isnumeric():
        if int(MyRating) > 300:
