@@ -2,99 +2,107 @@
 
 import re
 
-def ECFchange( RatingChange ):
+def ECFchange( myRating, playerRating, result ):
 
-    if ( RatingChange< 0.0 ):
+    RatingDiff = int(playerRating)  - int(myRating)
+    if ( RatingDiff < 0.0 ):
        sign = -1.0
     else:
        sign = 1.0
-    absRatingChange = abs(RatingChange)
+    absRatingDiff = abs(RatingDiff)
 
-    if absRatingChange <= 3:
-       return sign * 0.0
-    if absRatingChange <= 10:
-       return sign * 0.2
-    if absRatingChange <= 17:
-       return sign * 0.4
-    if absRatingChange <= 25:
-       return sign * 0.6
-    if absRatingChange <= 32:
-       return sign * 0.8
-    if absRatingChange <= 39:
-       return sign * 1.0
-    if absRatingChange <= 46:
-       return sign * 1.2
-    if absRatingChange <= 53:
-       return sign * 1.4
-    if absRatingChange <= 61:
-       return sign * 1.6
-    if absRatingChange <= 68:
-       return sign * 1.8
-    if absRatingChange <= 76:
-       return sign * 2.0
-    if absRatingChange <= 83:
-       return sign * 2.2
-    if absRatingChange <= 91:
-       return sign * 2.4
-    if absRatingChange <= 98:
-       return sign * 2.6
-    if absRatingChange <= 106:
-       return sign * 2.8
-    if absRatingChange <= 113:
-       return sign * 3.0
-    if absRatingChange <= 121:
-       return sign * 3.2
-    if absRatingChange <= 129:
-       return sign * 3.4
-    if absRatingChange <= 137:
-       return sign * 3.6
-    if absRatingChange <= 145:
-       return sign * 3.8
-    if absRatingChange <= 153:
-       return sign * 4.0
-    if absRatingChange <= 162:
-       return sign * 4.2
-    if absRatingChange <= 170:
-       return sign * 4.4
-    if absRatingChange <= 179:
-       return sign * 4.6
-    if absRatingChange <= 188:
-       return sign * 4.8
-    if absRatingChange <= 197:
-       return sign * 5.0
-    if absRatingChange <= 206:
-       return sign * 5.2
-    if absRatingChange <= 215:
-       return sign * 5.4
-    if absRatingChange <= 225:
-       return sign * 5.6
-    if absRatingChange <= 235:
-       return sign * 5.8
-    if absRatingChange <= 245:
-       return sign * 6.0
-    if absRatingChange <= 256:
-       return sign * 6.2
-    if absRatingChange <= 267:
-       return sign * 6.4
-    if absRatingChange <= 278:
-       return sign * 6.6
-    if absRatingChange <= 289:
-       return sign * 6.8
-    if absRatingChange <= 302:
-       return sign * 7.0
-    if absRatingChange <= 315:
-       return sign * 7.2
-    if absRatingChange <= 328:
-       return sign * 7.4
-    if absRatingChange <= 344:
-       return sign * 7.6
-    if absRatingChange <= 357:
-       return sign * 7.8
-    if absRatingChange <= 374:
-       return sign * 8.0
-    if absRatingChange <= 391:
-       return sign * 8.2
-    return sign * 8.4
+    if result == "WON":
+       resultContribution = 10.0
+    elif result == "DREW":
+       resultContribution = 0.0
+    elif result == "LOST":
+       resultContribution = -10.0
+
+    if absRatingDiff <= 3:
+       return resultContribution + sign * 0.0
+    if absRatingDiff <= 10:
+       return resultContribution + sign * 0.2
+    if absRatingDiff <= 17:
+       return resultContribution + sign * 0.4
+    if absRatingDiff <= 25:
+       return resultContribution + sign * 0.6
+    if absRatingDiff <= 32:
+       return resultContribution + sign * 0.8
+    if absRatingDiff <= 39:
+       return resultContribution + sign * 1.0
+    if absRatingDiff <= 46:
+       return resultContribution + sign * 1.2
+    if absRatingDiff <= 53:
+       return resultContribution + sign * 1.4
+    if absRatingDiff <= 61:
+       return resultContribution + sign * 1.6
+    if absRatingDiff <= 68:
+       return resultContribution + sign * 1.8
+    if absRatingDiff <= 76:
+       return resultContribution + sign * 2.0
+    if absRatingDiff <= 83:
+       return resultContribution + sign * 2.2
+    if absRatingDiff <= 91:
+       return resultContribution + sign * 2.4
+    if absRatingDiff <= 98:
+       return resultContribution + sign * 2.6
+    if absRatingDiff <= 106:
+       return resultContribution + sign * 2.8
+    if absRatingDiff <= 113:
+       return resultContribution + sign * 3.0
+    if absRatingDiff <= 121:
+       return resultContribution + sign * 3.2
+    if absRatingDiff <= 129:
+       return resultContribution + sign * 3.4
+    if absRatingDiff <= 137:
+       return resultContribution + sign * 3.6
+    if absRatingDiff <= 145:
+       return resultContribution + sign * 3.8
+    if absRatingDiff <= 153:
+       return resultContribution + sign * 4.0
+    if absRatingDiff <= 162:
+       return resultContribution + sign * 4.2
+    if absRatingDiff <= 170:
+       return resultContribution + sign * 4.4
+    if absRatingDiff <= 179:
+       return resultContribution + sign * 4.6
+    if absRatingDiff <= 188:
+       return resultContribution + sign * 4.8
+    if absRatingDiff <= 197:
+       return resultContribution + sign * 5.0
+    if absRatingDiff <= 206:
+       return resultContribution + sign * 5.2
+    if absRatingDiff <= 215:
+       return resultContribution + sign * 5.4
+    if absRatingDiff <= 225:
+       return resultContribution + sign * 5.6
+    if absRatingDiff <= 235:
+       return resultContribution + sign * 5.8
+    if absRatingDiff <= 245:
+       return resultContribution + sign * 6.0
+    if absRatingDiff <= 256:
+       return resultContribution + sign * 6.2
+    if absRatingDiff <= 267:
+       return resultContribution + sign * 6.4
+    if absRatingDiff <= 278:
+       return resultContribution + sign * 6.6
+    if absRatingDiff <= 289:
+       return resultContribution + sign * 6.8
+    if absRatingDiff <= 302:
+       return resultContribution + sign * 7.0
+    if absRatingDiff <= 315:
+       return resultContribution + sign * 7.2
+    if absRatingDiff <= 328:
+       return resultContribution + sign * 7.4
+    if absRatingDiff <= 344:
+       return resultContribution + sign * 7.6
+    if absRatingDiff <= 357:
+       return resultContribution + sign * 7.8
+    if absRatingDiff <= 374:
+       return resultContribution + sign * 8.0
+    if absRatingDiff <= 391:
+       return resultContribution + sign * 8.2
+    return resultContribution + sign * 8.4
 
 me    = "David Robson"
   
@@ -158,16 +166,11 @@ for line in Lines:
            result = "WON"
 
         if (myRating.isnumeric() and playerRating.isnumeric()):
-
-           if result == "WON":
-              ratingIncrease = round( 10.0 + ECFchange( int(playerRating)  - int(myRating)), 2)
-           elif result == "DREW":
-              ratingIncrease = round( ECFchange( int(playerRating)  - int(myRating)), 2)
-           elif result == "LOST":
-              ratingIncrease = round( -10.0 + ECFchange( int(playerRating)  - int(myRating)), 2)
+              ratingIncrease = round(ECFchange( myRating, playerRating, result),1)
               
         print(date,opponent.ljust(22),result.ljust(4),colour,myRating.rjust(4),\
                playerRating.rjust(4),str(ratingIncrease).rjust(5),opening.ljust(22),variation)
+
         date = opponent = result = colour = myRating = platerRating = \
                whiteECF = blackECF = "?"
         ratingIncrease = opening = variation = " "
