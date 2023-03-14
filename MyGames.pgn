@@ -262,7 +262,7 @@ Rf8 26. Rxf8+ Bxf8 27. b4 Kd7 28. Kg1 Ke6 29. Kf2 Kd5 30. Ke3 Bh6+
 [White "David Robson"]
 [Black "Shambavi Harihavan"]
 [WhiteECF "1811"]
-[BlackECF "UNG"]
+[BlackECF "1672"]
 [Opening "Caro Kann"]
 [Result "1-0"]
 
@@ -336,7 +336,7 @@ Score confused at this point
 [Round "-"]
 [White "Liam Price"]
 [Black "David Robson"]
-[WhiteECF "UNG"]
+[WhiteECF "1750"]
 [BlackECF "1811"]
 [Opening "Grunfeld"]
 [Result "1-0"]
@@ -2276,4 +2276,45 @@ Re8 27. Qc4 a6 28. Rb1 Qb5 29. Qb3 Qe5 30. a4 Qe6 31. b5 Qxb3 32. Rxb3 axb5
 Ke6 39. Ke4 h6 40. Bd5+ Ke7 41. e3 dxe3 42. fxe3 Bg7 43. g4 f6 44. d4 Bf8
 45. Bg8 Bg7 46. Kd5 Bf8 47. e4 g5 48. Kc6 Kd8 49. Bf7 Bb4 50. Kd5 Ke7
 1/2-1/2
+
+[Event "Cowley 1 v Cowley 2"]
+[Site "Cowley"]
+[Date "2015.01.19"]
+[Round "-"]
+[White "David Robson"]
+[Black "Clifford Marcus"]
+[WhiteECF "149"]
+[BlackECF "155"]
+[Opening "Sicilian"]
+[Variation "Alapin"]
+[Result "1/2-1/2"]
+
+1. e4 c5 2. c3 Qa5 3. Nf3 Nc6 4. Be2 d6 5. O-O Nf6 6. d3 e6 7. Bg5 Qb6 8.
+Qd2 Be7 9. Na3 O-O 10. Rfe1 Re8 11. Bf1 Bd7 12. Rac1 Rad8 13. d4 cxd4 14.
+cxd4 d5 15. Bxf6 Bxf6 16. e5 Be7 17. Re3 a6 18. Bd3 h6 19. Bb1 Rc8 20. Rb3
+Qa7 21. Qd3 g6 22. Nc2 Na5 23. Rc3 Nc4 24. b3 Na5 25. Rxc8 Rxc8 26. Qd2 Nc6
+27. Qxh6 a5 28. Rd1 Bf8 29. Qf4 Be8 30. Ne3 b5 31. Ng4 Bg7 32. Nf6+ Kf8 33.
+Qh4 Ne7 34. Ng5 Nf5 35. Bxf5 exf5 36. Qh7 Qxd4 37. Ne6+ fxe6 38. Qg8+ Ke7
+39. Qxg7+ Bf7 40. Ng8+ Ke8 41. Nf6+ Ke7
+1/2-1/2
+
+[Event "Oxford City 2 v Cowley 3"]
+[Site "Oxford City"]
+[Date "2015.01.12"]
+[Round "-"]
+[White "David Robson"]
+[Black "Ian Brooke"]
+[Opening "Vienna"]
+[WhiteECF "149"]
+[BlackECF "118"]
+[Result "1-0"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 Nc6 4. Nf3 d6 5. Bb5 Bg4 6. d3 a6 7. Bxc6+ bxc6
+8. fxe5 dxe5 9. Be3 Bb4 10. O-O O-O 11. Qe1 Qe7 12. Qg3 Bc5 13. Nd1 Bxe3+
+14. Nxe3 Bxf3 15. Rxf3 Nh5 16. Qg4 g6 17. Raf1 Ng7 18. Qh3 Nh5 19. Kh1 Nf4
+20. Qh6 f6 21. Nc4 Rab8 22. Qh4 Rf7 23. Qe1 Qd7 24. Qa5 Qc8 25. g3 Nh5 26.
+Nxe5 Rf8 27. Nxc6 Qh3 28. Kg1 Rxb2 29. Qc3 Rb5 30. Ne7+ Kg7 31. Nd5 Kh6 32.
+Nxf6 Nxf6 33. Rxf6 Rxf6 34. Qxf6 Rg5 35. Qf4 Kh5 36. e5 Rg4 37. Qf2 Kh6 38.
+e6 Rg5 39. e7 Qe6 40. Qf8+ Kh5 41. e8=Q Qc6 42. Qf2
+1-0
 
