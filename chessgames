@@ -104,13 +104,18 @@ def ECFchange( myRating, playerRating, result ):
        return resultContribution + sign * 8.2
     return resultContribution + sign * 8.4
 
+# Some initialization
 me    = "David Robson"
-  
 count = 0
 date = opponent = result = colour = myRating = platerRating = \
        whiteECF = blackECF = "?"
 ratingIncrease = opening = variation = " "
 
+# Use standard, not python SIGPIPE action as the former produces spurious errors when results piped to head(1)
+from signal import signal, SIGPIPE, SIG_DFL
+signal(SIGPIPE,SIG_DFL)
+
+# Read the pgn file
 file1 = open('/home/dave/Documents/chess/MyGames/MyGames.pgn', 'r')
 Lines = file1.readlines()
 
@@ -170,6 +175,8 @@ for line in Lines:
               
         print(date,opponent.ljust(22),result.ljust(4),colour,myRating.rjust(4),\
                playerRating.rjust(4),str(ratingIncrease).rjust(5),opening.ljust(22),variation)
+
+# Reinitialize variables for next line
 
         date = opponent = result = colour = myRating = platerRating = \
                whiteECF = blackECF = "?"
