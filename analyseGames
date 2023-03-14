@@ -7,18 +7,30 @@
 
 import sys
 
+###########################################
+# Function to determine if sring is a float
+def isfloat(num):
+    try:
+        float(num)
+        return True
+    except ValueError:
+        return False
+###########################################
+
 whiteResults = {}
 blackResults = {}
 sumOppRating = 0
 numOppRating = 0
 sumMyRating = 0
 numMyRating = 0
+sumRatingChange = 0.0
 
 for line in sys.stdin:
     result = line[34:38]
     colour = line[39:44]
-    OppRating = line[50:54].strip()
     MyRating = line[45:49].strip()
+    OppRating = line[50:54].strip()
+    RatingChange = line[55:61].strip()
     opening = line[61:83]
 
     if MyRating.isnumeric():
@@ -34,6 +46,9 @@ for line in sys.stdin:
        else:
           sumOppRating += 15*int(OppRating)/2 + 700
        numOppRating += 1
+
+    if isfloat(RatingChange):
+       sumRatingChange +=float( RatingChange )
 
     if result == "WON ":
         score = 1
@@ -57,7 +72,7 @@ for line in sys.stdin:
           blackResults[opening] = [ prevCount + 1, prevScore + score ]
 
 if numOppRating > 0:
-   print("\nAverage Ratings: Mine = %4d Opponents = %4d" % (sumMyRating/numMyRating,sumOppRating/numOppRating))
+   print("\nAverage Ratings: Mine = %4d Opponents = %4d: Rating change = %3.1f" % (sumMyRating/numMyRating,sumOppRating/numOppRating,sumRatingChange))
 sumCount = sumScore = 0
 for opening in whiteResults.keys():
     count, score  = whiteResults[opening]
