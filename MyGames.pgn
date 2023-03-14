@@ -1,3 +1,28 @@
+[Event "Cowley 2 v Witney 2"]
+[Site "Cowley"]
+[Date "2023.02.13"]
+[Round "-"]
+[White "Matt Holmes"]
+[Black "David Robson"]
+[WhiteECF "1827"]
+[BlackECF "1812"]
+[Opening "English"]
+[Result "1/2-1/2"]
+
+1. Nf3 Nf6 2. c4 d5 3. cxd5 Nxd5 4. e4 Nb6 5. d4 g6 6. Nc3 Bg7 7. Be3 Nc6
+8. d5 Ne5 9. Nxe5 Bxe5 10. a4 O-O 11. a5 Nd7 12. h4 Nf6 13. Qc2 e6 14. dxe6
+Bxe6 15. Rd1 Qe7 16. f4 Ng4 17. Bc1 Bxc3+ 18. Qxc3 Nf6 19. e5 Bg4 20. Be2
+Rad8 21. Bxg4 Nxg4 22. Rxd8 Rxd8 23. h5 Qd7 24. O-O Qf5 25. hxg6 hxg6 26.
+Qxc7 Rd7 27. Qc8+ Kg7 28. e6 Qh5 29. Qc3+ Kf8 30. Qc8+ Kg7 31. Qc3+ Kh7 32.
+Qh3 fxe6 33. Qxh5+ gxh5 34. Re1 Kg7 35. Kf1 Kf6 36. Ke2 Kf5 37. g3 Nf6 38.
+Be3 a6 39. Kf3 Rd3 40. Ke2 Rb3 41. Rb1 Ne4 42. Bf2 Kg4 43. Ke1 Nxf2 44.
+Kxf2 Rxg3 45. Re1 Kxf4 46. Rxe6 Rb3 47. Kg1
+{
+Both players had stopped recording from here on. Black eventually achieved Philidor's drawing method
+}
+
+1/2-1/2
+
 [Event "Cowley Williwaws v Donkeys of the Acropolis (Cumnor)"]
 [Site "Cowley"]
 [Date "2023.03.06"]
@@ -2230,4 +2255,25 @@ Be2 Be7 9. Qd2 h6 10. O-O-O Nc6 11. h3 b5 12. f3 Rc8 13. g4 Na5 14. Nd5 Nc4
 15. Bxc4 bxc4 16. Na1 Bxd5 17. exd5 c3 18. bxc3 Qa5 19. Nb3 Qxa2 20. Qe1 a5
 21. Kd2 Nxd5
 0-1
+
+[Event "Cowley 1 v Witney 2"]
+[Site "Cowley"]
+[Date "2015.02.16"]
+[Round "-"]
+[White "Derek Edwards"]
+[Black "David Robson"]
+[WhiteECF "140"]
+[BlackECF "151"]
+[Opening "Sicilian"]
+[Result "1/2-1/2"]
+
+1. c4 Nf6 2. Nc3 d5 3. cxd5 Nxd5 4. g3 g6 5. Bg2 Nb6 6. Nf3 Bg7 7. O-O O-O
+8. b3 Nc6 9. Bb2 Bg4 10. h3 Bf5 11. d3 e5 12. Nd2 Qd7 13. Kh2 Qe7 14. Nce4
+Rad8 15. a3 Nd4 16. b4 Nd7 17. Rc1 c6 18. Nc5 Nxc5 19. Rxc5 Qc7 20. Ne4 Be6
+21. Bxd4 exd4 22. Qc1 Bd5 23. Rxd5 Rxd5 24. Nf6+ Bxf6 25. Bxd5 Qb6 26. Bf3
+Re8 27. Qc4 a6 28. Rb1 Qb5 29. Qb3 Qe5 30. a4 Qe6 31. b5 Qxb3 32. Rxb3 axb5
+33. axb5 cxb5 34. Rxb5 Rb8 35. Rxb7 Rxb7 36. Bxb7 Kf8 37. Kg2 Ke7 38. Kf3
+Ke6 39. Ke4 h6 40. Bd5+ Ke7 41. e3 dxe3 42. fxe3 Bg7 43. g4 f6 44. d4 Bf8
+45. Bg8 Bg7 46. Kd5 Bf8 47. e4 g5 48. Kc6 Kd8 49. Bf7 Bb4 50. Kd5 Ke7
+1/2-1/2
 
