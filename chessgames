@@ -170,6 +170,11 @@ for line in Lines:
         if result == "0-1" and colour == "BLACK":
            result = "WON"
 
+# Separate open sicilians from anti-sicilians when I'm playing black
+
+        if colour == "BLACK" and opening == "Sicilian" and variation != "Najdorf" and variation != "Dragon":
+           opening = "Anti-Sicilian"
+
         if (myRating.isnumeric() and playerRating.isnumeric()):
               ratingIncrease = round(ECFchange( myRating, playerRating, result),1)
               
