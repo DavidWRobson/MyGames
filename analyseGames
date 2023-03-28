@@ -7,15 +7,15 @@
 
 import sys
 
-###########################################
-# Function to determine if sring is a float
+############################################
+# Function to determine if string is a float
 def isfloat(num):
     try:
         float(num)
         return True
     except ValueError:
         return False
-###########################################
+############################################
 
 whiteResults = {}
 blackResults = {}
@@ -24,6 +24,9 @@ numOppRating = 0
 sumMyRating = 0
 numMyRating = 0
 sumRatingChange = 0.0
+wins = 0
+defeats = 0
+draws = 0
 
 for line in sys.stdin:
     result = line[34:38]
@@ -52,10 +55,13 @@ for line in sys.stdin:
 
     if result == "WON ":
         score = 1
+        wins += 1
     if result == "LOST":
         score = 0
+        defeats += 1
     if result == "DREW":
        score = 0.5
+       draws += 1
 
     if colour == "WHITE":
        if opening not in whiteResults.keys():
@@ -72,7 +78,8 @@ for line in sys.stdin:
           blackResults[opening] = [ prevCount + 1, prevScore + score ]
 
 if numOppRating > 0:
-   print("\nAverage Ratings: Mine = %4d Opponents = %4d: Rating change = %3.1f" % (sumMyRating/numMyRating,sumOppRating/numOppRating,sumRatingChange))
+   print("\n%d wins: %d draws: %d defeats" % (wins, draws, defeats))
+   print("Average Ratings: Mine = %4d Opponents = %4d: Rating change = %3.1f" % (sumMyRating/numMyRating,sumOppRating/numOppRating,sumRatingChange))
 sumCount = sumScore = 0
 for opening in whiteResults.keys():
     count, score  = whiteResults[opening]
