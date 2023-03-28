@@ -1,3 +1,25 @@
+[Event "Cowley 2 v Didcot 1"]
+[Site "Cowley"]
+[Date "2023.03.27"]
+[Round "-"]
+[White "Joseph Conlon"]
+[Black "David Robson"]
+[WhiteECF "2126"]
+[BlackECF "1812"]
+[Opening "Kings Indian Attack"]
+[Result "1/2-1/2"]
+
+1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. O-O d5 5. d3 O-O 6. Nbd2 c5 7. e4 Nc6 8.
+c3 Rb8 9. a4 b6 10. Qc2 Bb7 11. Re1 e6 12. Nb3 a5 13. h3 h6 14. Bf4 Rc8 15.
+g4 Nd7 16. Bd6 Re8 17. e5 Ne7 18. d4 Ba6 19. Qd2 Bc4 20. Nc1 Rc6 21. Bxe7
+Qxe7 22. Nd3 Rec8 23. Bf1 R6c7 24. Reb1 cxd4 25. cxd4 Bb3 26. Rc1 Bf8 27.
+Rc3
+{
+=
+}
+
+1/2-1/2
+
 [Event "Cowley 2 v Witney 2"]
 [Site "Cowley"]
 [Date "2023.02.13"]
@@ -2427,4 +2449,29 @@ a5 15. b5 Be6 16. Bxe6 Qxe6 17. d5 Qf7 18. Bxb6 cxb6 19. Ng5 Qg6 20. Ne6
 Rc8 21. Qd4 Rxc3 22. Qxc3 Nac8 23. Qc7 Kf7 24. Nd8+ Ke8 25. Nxb7 Kf7 26.
 Nxd6+ Nxd6 27. Qxd6
 1-0
+
+[Event "Witney 2 v Cowley 2"]
+[Site "Witney"]
+[Date "2014.11.03"]
+[Round "-"]
+[White "Rich Weston"]
+[Black "David Robson"]
+[WhiteECF "147"]
+[BlackECF "149"]
+[Opening "Trompowsky"]
+[Result "1/2-1/2"]
+
+1. d4 Nf6 2. Bg5 d6 3. Nf3 g6 4. Nbd2 Bg7 5. e3 O-O 6. Bd3 Nc6 7. c3 Qe8 8.
+Qc2 e5 9. O-O-O Rb8 10. Ne4 Nxe4 11. Bxe4 f5 12. Bd5+ Be6
+{
+blunder.  13 Bxe6 Qxe6 14 d5
+}
+13. Qb3 Bxd5 14. Qxd5+ Qf7 15. dxe5 Nxe5 16. Bf4 Nxf3 17. gxf3 b5 18. h4 h6
+19. Rhg1 Kh7 20. Kb1 Qf6 21. Rg2 b4 22. Rdg1 bxc3 23. b3 c2+ 24. Kxc2 Qb2+
+25. Kd1 Qb1+ 26. Ke2 Qxa2+ 27. Qd2 Qa6+ 28. Qd3 Qa2+ 29. Qd2 Qxd2+ 30. Kxd2
+Rf6 31. Ra1 Rxb3 32. Rxa7 c5 33. Ra6 d5 34. Ra7 Rfb6 35. Be5 Rb7 36. Rxb7
+Rxb7 37. Bxg7 Kxg7 38. Kc3 Kf6 39. f4 Ra7 40. Kb2 Ra4 41. Rg1 d4 42. Rc1
+dxe3 43. fxe3 Re4 44. Rxc5 Re6 45. Rc7 h5 46. Kc3 Rxe3+ 47. Kd4 Rh3 48.
+Rc6+ Kg7 49. Rc7+ Kh6 50. Ke5 Rxh4 51. Rc8 Kg7
+1/2-1/2
 
