@@ -2565,3 +2565,59 @@ Bb1 Rf7 15. Ng5 Bxg5 16. fxg5 Rxf1+ 17. Qxf1 Qd8 18. Qf7 Qf8 19. Qh5 Qg8
 gxh7 Nxh7 27. Ng6+ Bxg6 28. Bxg6 Rf8 29. Rxf8
 1-0
 
+[Event "Cowley 1 v Banbury 1"]
+[Site "Cowley"]
+[Date "2014.04.07"]
+[Round "-"]
+[White "David Robson"]
+[Black "Arthur Hibburt"]
+[WhiteECF "154"]
+[BlackECF "161"]
+[Opening "Sicilian"]
+[Variation "Alapin"]
+[Result "0-1"]
+
+1. e4 c5 2. c3 g6 3. d4 cxd4 4. cxd4 d5 5. f3 Bg7 6. Be3 dxe4 7. fxe4 Nf6
+8. Nc3 O-O 9. Nf3 Bg4 10. Be2 Nc6 11. Qd2 Qa5 12. O-O Rfd8 13. Rfd1 Rac8
+14. a3 Bxf3 15. Bxf3 Ne5 16. b4 Nxf3+ 17. gxf3 Qh5 18. Kg2 e6 19. Rac1 h6
+20. Ne2 g5 21. h3 Qg6 22. Rxc8 Rxc8 23. Rc1 Rxc1 24. Qxc1 Nh5 25. Kf2 f5
+26. Qc8+ Kh7 27. Qxb7 Nf6 28. b5 fxe4 29. fxe4 Nxe4+ 30. Kg2 g4 31. hxg4
+Qxg4+ 32. Kf1 Qh3+ 33. Ke1 Qxe3 34. Qxa7 Nc3 35. Kf1 Qxe2+ 36. Kg1 Qe3+
+0-1
+
+[Event "Banbury 1 v Cowley 1"]
+[Site "Banbury"]
+[Date "2014.04.01"]
+[Round "-"]
+[White "David Robson"]
+[Black "Mal Waddell"]
+[WhiteECF "154"]
+[BlackECF "149"]
+[Opening "Sicilian"]
+[Variation "Alapin"]
+[Result "1-0"]
+
+1. e4 c5 2. Nf3 Nc6 3. c3 g6 4. d4 cxd4 5. cxd4 Bg7 6. Nc3 a6 7. Be3 e6 8.
+Qd2 Nge7 9. Bh6 O-O 10. h4 d5 11. Bxg7 Kxg7 12. h5 Rh8 13. e5 h6 14. Bd3
+Nf5 15. Bxf5 exf5 16. hxg6 fxg6 17. O-O-O Be6 18. Kb1 b5 19. Rc1 Qb6 20.
+Ne2 b4 21. Nf4 Rhe8 22. Qc2 Na5 23. Qc7+ Qxc7 24. Rxc7+ Kg8 25. Nxg6 Rec8
+26. Rhc1 Nc4 27. Rxc8+ Rxc8 28. Nf4 Bd7 29. Nxd5
+1-0
+
+[Event "Oxford University 1 v Cowely 1"]
+[Site "Oxford University"]
+[Date "2014.03.13"]
+[Round "-"]
+[White "David Robson"]
+[Black "Michael West"]
+[WhiteECF "154"]
+[BlackECF "122"]
+[Opening "Pirc"]
+[Variation "150 Attack"]
+[Result "1-0"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Be3 c6 5. Qd2 b5 6. a3 Ng4 7. Bg5 h6 8. Bh4
+Bg7 9. Nf3 Nd7 10. h3 Ngf6 11. e5 dxe5 12. dxe5 Nh7 13. e6 fxe6 14. Bd3 Kf7
+15. Rd1 Qb6 16. O-O g5 17. Bg3 Nhf6 18. Rfe1 a6 19. Rxe6 Kxe6 20. Bg6
+1-0
+
