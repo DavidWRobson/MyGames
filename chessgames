@@ -180,7 +180,7 @@ for line in Lines:
         if (myRating.isnumeric() and playerRating.isnumeric()):
               ratingIncrease = round(ECFchange( myRating, playerRating, result),1)
               
-        print(date,opponent.ljust(22),result.ljust(4),colour,myRating.rjust(4),\
+        print(date,opponent.replace(' ','_').ljust(22),result.ljust(4),colour,myRating.rjust(4),\
                playerRating.rjust(4),str(ratingIncrease).rjust(5),opening.ljust(22),variation)
 
 # Reinitialize variables for next line
