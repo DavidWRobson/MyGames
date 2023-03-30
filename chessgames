@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 
+import os
 import re
 
 def ECFchange( myRating, playerRating, result ):
@@ -116,7 +117,8 @@ from signal import signal, SIGPIPE, SIG_DFL
 signal(SIGPIPE,SIG_DFL)
 
 # Read the pgn file
-file1 = open('/home/dave/Documents/chess/MyGames/MyGames.pgn', 'r')
+myGames = os.getenv('MYGAMES')
+file1 = open(myGames, 'r')
 Lines = file1.readlines()
 
 # Strips the newline character
