@@ -2604,7 +2604,7 @@ Ne2 b4 21. Nf4 Rhe8 22. Qc2 Na5 23. Qc7+ Qxc7 24. Rxc7+ Kg8 25. Nxg6 Rec8
 26. Rhc1 Nc4 27. Rxc8+ Rxc8 28. Nf4 Bd7 29. Nxd5
 1-0
 
-[Event "Oxford University 1 v Cowely 1"]
+[Event "Oxford University 1 v Cowley 1"]
 [Site "Oxford University"]
 [Date "2014.03.13"]
 [Round "-"]
@@ -2733,5 +2733,49 @@ Score confused around here
 1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. fxe5 Nxe4 5. d3 Qh4+ 6. g3 Qd8 7. dxe4 d4
 8. Bc4 Be6 9. Bxe6 fxe6 10. Nce2 Bb4+ 11. Bd2 Nc6 12. Nf3 O-O 13. O-O Be7
 14. Nf4 Qd7 15. Qe2 Bc5 16. Qc4 Qe7 17. Nxe6 Qf7 18. Nfg5 Qg6 19. Nxf8+
+1-0
+
+[Event "Cowley 3 v Witney 2"]
+[Site "Cowley"]
+[Date "2013.11.18"]
+[Round "-"]
+[White "David Robson"]
+[Black "Alan Gentry"]
+[WhiteECF "148"]
+[BlackECF "152"]
+[Opening "Sicilian"]
+[Variation "Alapin"]
+[Result "1-0"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. Nf3 e6 6. cxd4 Nc6 7. a3 Be7 8.
+Bd3 O-O 9. O-O f5 10. Bc4 Nb6 11. Ba2 Kh8 12. Nc3 d6 13. b4 d5 14. Qd3 a6
+15. Ne2 Bd7 16. Be3 Be8 17. Nf4 Bf7 18. g3 g5 19. Ng2 Bh5 20. Nd2 Bg6 21.
+f4 Rc8 22. Nb3 Nc4 23. Nc5 Bxc5 24. dxc5 Nxe3 25. Qxe3 Kg8 26. fxg5
+{
+Score confused around here.  Black resigned on the 43rd move
+}
+26... Nxe5 27. Qxe5 Rf7 28. Rf2 Rg7
+1-0
+
+[Event "Cowley 2 v Cowley 1"]
+[Site "Cowley"]
+[Date "2013.10.21"]
+[Round "-"]
+[White "Catalin Viscu"]
+[Black "David Robson"]
+[Opening "Grunfeld"]
+[Variation "Exchange"]
+[WhiteECF "147"]
+[BlackECF "149"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Nf3 O-O
+8. Bc4 c5 9. O-O Nc6 10. Bb2 Bg4 11. d5 Ne5 12. Be2 Qa5 13. Nxe5 Bxe2 14.
+Qxe2 Bxe5 15. c4 Qc7 16. Bxe5 Qxe5 17. Rad1 Rad8 18. f4 Qc7 19. h4 a6 20.
+h5 Qd7 21. e5 b5 22. e6 Qd6 23. hxg6 hxg6 24. Qg4
+{
+Score confused
+}
+
 1-0
 
