@@ -37,17 +37,10 @@ for line in sys.stdin:
     opening = line[61:83]
 
     if MyRating.isnumeric():
-       if int(MyRating) > 300:
-          sumMyRating += int(MyRating)
-       else:
-          sumMyRating += 15*int(MyRating)/2 + 700
+       sumMyRating += int(MyRating)
        numMyRating += 1
-
     if OppRating.isnumeric():
-       if int(OppRating) > 300:
-          sumOppRating += int(OppRating)
-       else:
-          sumOppRating += 15*int(OppRating)/2 + 700
+       sumOppRating += int(OppRating)
        numOppRating += 1
 
     if isfloat(RatingChange):

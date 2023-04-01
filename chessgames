@@ -3,6 +3,13 @@
 import os
 import re
 
+def convert3to4 ( rating ):
+
+    if rating.isnumeric():
+       if int(rating) < 300:
+          return str(int(( (int(rating) * 7.5) + 700)))
+    return str( rating )
+
 def ECFchange( myRating, playerRating, result ):
 
     RatingDiff = int(playerRating)  - int(myRating)
@@ -172,6 +179,11 @@ for line in Lines:
         if result == "0-1" and colour == "BLACK":
            result = "WON"
 
+# Convert 3 digit ratings to 4 digit ratings
+
+        myRating = convert3to4 ( myRating )
+        playerRating = convert3to4 ( playerRating )
+ 
 # Separate open sicilians from anti-sicilians when I'm playing black
 
         if colour == "BLACK" and opening == "Sicilian" and variation != "Najdorf" and variation != "Dragon":
