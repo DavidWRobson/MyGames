@@ -1,3 +1,27 @@
+[Event "Cowley Williwaws v Banbury Bruisers"]
+[Site "Cowley"]
+[Date "2023.04.06"]
+[Round "-"]
+[White "David  Robson"]
+[Black "Nathan Manley"]
+[Opening "Vienna"]
+[WhiteECF "1830"]
+[BlackECF "1903"]
+[Result "0-1"]
+
+1. e4 e5 2. Nc3 Nc6 3. f4 d6 4. Nf3 Bg4 5. Bb5 Nf6 6. h3 Bxf3 7. Qxf3 Qd7
+8. d3 O-O-O 9. Nd5 Be7 10. Nb4 Kb8 11. Nxc6+ bxc6 12. Ba4 Kb7 13. Bd2 Rhf8
+14. fxe5 dxe5 15. Bc3 Bd6 16. O-O-O Qe7 17. d4 Nd7 18. Qd3 Nb6 19. Bb3 exd4
+20. Bxd4 Bf4+ 21. Kb1 c5 22. Qf3 Bh6 23. Bf2 c4 24. Bxb6 cxb3 25. Bd4 bxc2+
+26. Kxc2 Qb4 27. Qb3 Qxb3+ 28. Kxb3 Rfe8 29. Rhe1 a6 30. Kc3 Rd6 31. Re2
+Rde6 32. Kc4 Bf4 33. Rd3 Rc6+ 34. Kb3 a5 35. a4 Rd6 36. Rf3 Rxd4 37. Rxf4
+Rb4+ 38. Ka3 f6 39. Rf5 Kb6
+{
+Rest of game not recorded during time scramble 
+}
+
+0-1
+
 [Event "Cowley 2 v Didcot 1"]
 [Site "Cowley"]
 [Date "2023.03.27"]
@@ -721,7 +745,11 @@ g3+ Kg5 1/2-1/2
 [Result "1-0"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f3 e5 7. Nb3 Be7 8.
-Be3 Be6 9. Qd2 O-O 10. O-O-O Nc6 11. g4 a5 12. Kb1 a4 13. Nc1 Ra5 14. g5
+Be3 Be6 9. Qd2 O-O 10. O-O-O Nc6 
+{
+I was intending to follow Banad-Danner -Stary Smokovec 1981 here, and should have played a5
+}
+11. g4 a5 12. Kb1 a4 13. Nc1 Ra5 14. g5
 Ne8 15. a3 Nc7 16. h4 Qb8 17. Bb6 Ra8 18. h5 f6 19. gxf6 Rxf6 20. Qg2 Ne8
 21. Rg1 Bf7 22. Nd5 Rh6 23. Nc7 Rxh5 24. Nxa8 Qxa8 25. Bb5 Rg5 26. Qf2 Rg6
 27. Rxg6 Bxg6 28. Ne2 Nf6 29. Nc3 Bf7 30. Qf1 Nd7 31. Be3 Nf6 32. Bc4 Qa5
@@ -733,6 +761,29 @@ Score confused at this stage
 }
 
 1-0
+
+[Event "Didcot 1 v Cowley 1"]
+[Site "Didcot"]
+[Date "2020.02.26"]
+[Round "-"]
+[White "David Robson"]
+[Black "Nicolas Bekris"]
+[Opening "Sicilian"]
+[Variation "Alapin"]
+[WhiteECF "152"]
+[BlackECF "151"]
+[Result "1/2-1/2"]
+
+1. e4 c5 2. c3 g6 3. d4 cxd4 4. cxd4 d5 5. e5 Bg7 6. Bd3 Nc6 7. Nf3 Bg4 8.
+Be3 e6 9. Nbd2 Nge7 10. O-O O-O 11. h3 Bf5 12. Nb3 Bxd3 13. Qxd3 b6 14.
+Rfc1 Qd7 15. Rc3 Qb7 16. Qd2 f6 17. exf6 Rxf6 18. Re1 Qd7 19. Bg5 Rf7 20.
+Rce3 Nd8 21. Ne5 Bxe5 22. Rxe5 Rc8 23. h4 Rc6 24. h5 gxh5 25. Qe2 Rf5 26.
+Bxe7 Rxe5 27. Qxe5 Qxe7 28. Re3 h4 29. Qxd5 exd5 30. Rxe7 a6 31. Re8+ Kf7
+32. Rxd8 Rc2 33. Rxd5 a5 34. Rb5 Rxb2 35. Rxb6
+{
+Score confused at this stage
+}
+1/2-1/2
 
 [Event "Oxford University 1 v Cowley 1"]
 [Site "Balliol College"]
