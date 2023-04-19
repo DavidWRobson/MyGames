@@ -1,3 +1,28 @@
+[Event "Wantage 1 v Cowley 2"]
+[Site "Wantage"]
+[Date "2023.04.19"]
+[Round "-"]
+[White "David Robson"]
+[Black "Andrew Robbings"]
+[WhiteECF "1825"]
+[BlackECF "2014"]
+[Opening "French"]
+[Variation "Two Knights"]
+[Result "0-1"]
+
+1. e4 e6 2. Nf3 d5 3. Nc3 d4 4. Ne2 c5 5. c3 dxc3 6. bxc3 Nc6 7. d4 cxd4 8.
+cxd4 Bb4+ 9. Bd2 Qa5 10. a3 Bxd2+ 11. Qxd2 Nf6 12. Qxa5 Nxa5 13. Nc3 O-O
+14. Bd3 Rd8 15. O-O g6 16. Rad1 b6 17. e5 Ne8 18. Be4 Ba6 19. Bxa8 Bxf1 20.
+Kxf1 Rxa8 21. d5 exd5 22. Rxd5 Nc7 23. Rd7 Ne6 24. Nb5 a6 25. Nd6 Rd8 26.
+Ra7 Nc6 27. Rxa6 Nxe5 28. Rxb6 Nxf3 29. gxf3 Ra8 30. Rb3 Nf4 31. Rc3 Ra6
+32. Ne4 Rb6 33. Nd2 Rb2 34. Ke1 h5 35. Rc4 Nd5 36. Ke2 Ra2 37. a4 Nb6 38.
+Rc6 Nxa4 39. Ke3 Ra1 40. Ne4 Rb1 41. Kf4 Rb6 42. Rxb6 Nxb6 43. h4 Kg7 44.
+Kg3 Nc8 45. Kf4 f6 46. Kg3 Kf7 47. Kf4 Ne7 48. Nc5 Nf5 49. Ne4 Nxh4 50. Kg3
+Nf5+ 51. Kh3 Nd4 52. Kg3 Ne2+ 53. Kg2 Ke6 54. Kh3 Ke5 55. Kg2 Nd4 56. Kg3
+Nf5+ 57. Kh3 g5 58. Kh2 Ne7 59. Kg3 Nd5 60. Nd2 Kf5 61. Ne4 h4+ 62. Kg2 Kf4
+63. Nd2 f5 64. Kh3 Nb4 65. Kg2 Nc2
+0-1
+
 [Event "Cowley Williwaws v Banbury Bruisers"]
 [Site "Cowley"]
 [Date "2023.04.06"]
@@ -500,6 +525,7 @@ Bb5 Nf6 9. Qf3 Bd7 10. Nce4 Ne5 11. Nxf6+ exf6 12. Bxd7+ Nxd7 13. Ne4 Qb6
 [WhiteECF "1801"]
 [BlackECF "1960"]
 [Opening "French"]
+[Variation "Two Knights"]
 [Result "1/2-1/2"]
 
 1. e4 e6 2. Nf3 d5 3. Nc3 d4 4. Ne2 c5 5. c3 dxc3 6. bxc3 Nc6 7. d4 cxd4 8. cxd4 Bb4+ 9. Bd2 Qa5 10. Ng3 Nf6
@@ -860,6 +886,7 @@ Score confused
 [WhiteECF "151"]
 [BlackECF "157"]
 [Opening "French"]
+[Variation "Tarrasch"]
 [Result "0-1"]
 
 1. e4 e6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Bd3
@@ -1054,6 +1081,7 @@ resigns} 1-0
 [BlackECF "213"]
 [ECO "C03"]
 [Opening "French"]
+[Variation "Tarrasch"]
 [TimeControl "5400+90"]
 
 1. e4 e6 2. d4 d5 3. Nd2 Be7 4. Ngf3 Nf6 5. e5 Nfd7 6. Bd3 c5 7. c3 Nc6 8. 
@@ -1382,6 +1410,7 @@ Nxe3 15. fxe3 Bd6 16. h3 Bh5 0-1
 [ECO "C03"]
 [TimeControl "0"]
 [Opening "French"]
+[Variation "Tarrasch"]
 
 1. e4 e6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Bd3 
 Bd6 8. Bg5 Bd7 9. Ne5 h6 10. Bh4 Qe7 11. Qe2 O-O-O 12. O-O-O g5 13. Bg3 h5 
@@ -1459,6 +1488,7 @@ Qxf3 Nxd4 9. Bxf7+ Kxf7 10. Qh5+ Ke7 11. Bxf4 Ne6 12. Bg5+ Nxg5 13. Qxg5+ Kd7
 [ECO "C05"]
 [TimeControl "0"]
 [Opening "French"]
+[Variation "Tarrasch"]
 
 1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ngf3 Be7 8. 
 O-O O-O 9. Re1 f6 10. Nf1 f5 11. Ng3 h6 12. Bd2 Qe8 13. h4 cxd4 14. cxd4 Kh7 
