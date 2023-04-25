@@ -1,3 +1,23 @@
+[Event "Oxford City 2 v Cowley 2"]
+[Site "Oxford City"]
+[Date "2023.04.24"]
+[Round "-"]
+[White "David Robson"]
+[Black "David Godfrey"]
+[WhiteECF "1825"]
+[BlackECF "1785"]
+[Opening "Sicilian"]
+[Variation "Alapin"]
+[Result "0-1"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. Nf3 Nc6 5. Na3 Nf6 6. Be2 a6 7. O-O e6 8.
+Nc2 Be7 9. d4 cxd4 10. Ncxd4 Nxd4 11. Nxd4 O-O 12. Bf3 Qd8 13. Qb3 e5 14.
+Nc2 e4 15. Be2 Be6 16. Qa4 b5 17. Qd4 Qc7 18. Be3 Rfd8 19. Qb6 Qxb6 20.
+Bxb6 Rd2 21. Bd1 Nd5 22. Bd4 Bf6 23. Bxf6 Nxf6 24. Re1 Rad8 25. h3 a5 26.
+b3 Nd5 27. Ne3 Nxc3 28. Bc2 f5 29. Bb1 f4 30. Ng4 Rd1 31. Kf1 Rxe1+ 32.
+Kxe1 Rd1#
+0-1
+
 [Event "Wantage 1 v Cowley 2"]
 [Site "Wantage"]
 [Date "2023.04.19"]
@@ -2906,5 +2926,63 @@ h5 Qd7 21. e5 b5 22. e6 Qd6 23. hxg6 hxg6 24. Qg4
 Score confused
 }
 
+1-0
+
+[Event "Witney Tournament"]
+[Site "Witney"]
+[Date "2013.10.19"]
+[Round "2"]
+[White "Scott Crockart"]
+[Black "David Robson"]
+[Opening "Grunfeld"]
+[Variation "Exchange"]
+[WhiteECF "173"]
+[BlackECF "148"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 O-O
+8. Ne2 c5 9. O-O Nc6 10. Be3 Bg4 11. f3 Na5 12. Bd3 cxd4 13. cxd4 Be6 14.
+d5 Bxa1 15. Qxa1 f6 16. Bh6 Qb6+ 17. Kh1 Rfd8 18. Rb1 Qd6 19. Qc3 b6 20.
+Bf4 Qc5 21. Qxc5 bxc5 22. Bc7 Rdc8 23. Bxa5 Bf7 24. Kg1 Rab8 25. Rxb8 Rxb8
+26. Bc3 Be8 27. Kf2 Bb5 28. Bc2 Bc4 29. Nc1 Kf7 30. Ke3 Rb6 31. a4 e6 32.
+a5 Rd6 33. dxe6+ Kxe6 34. Nd3 Rc6 35. Nf4+ Ke7 36. Nd5+ Bxd5 37. exd5 Ra6
+38. Ba4 Rd6 39. Bc6 Rd8 40. a6 Rb8 41. Bb7 Re8 42. Kd3 f5 43. Be5 g5 44.
+Bc6 Rc8 45. Kc4
+1-0
+
+[Event "Witney Tournament"]
+[Site "Witney"]
+[Date "2013.10.19"]
+[Round "1"]
+[White "David Robson"]
+[Black "Mike Waddington"]
+[WhiteECF "148"]
+[BlackECF "167"]
+[Opening "Vienna"]
+[Variation "Wurzburger Trap"]
+[Result "1/2-1/2"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. fxe5 Nxe4 5. d3 Qh4+ 6. g3 Nxg3 7. Nf3 Qh5
+8. Nxd5 Bg4 9. Bg2 Nxh1 10. Nxc7+ Kd8 11. Nxa8 Be7 12. Bxh1 Bh4+ 13. Kf1
+Nc6 14. d4 Kc8 15. Qd3 Rd8 16. c3 Kb8 17. Nxh4 Qxh4 18. Bxc6 bxc6 19. Qg3
+Qh3+ 20. Kf2 Kxa8 21. Be3 h5 22. Qg2 Kb7 23. Rg1 g6 24. Bg5 Rd5 25. Qxh3
+Bxh3 26. Kg3 Bf5 27. b4 Bd7 28. Rg2
+1/2-1/2
+
+[Site "Cowley"]
+[Date "2013.10.07"]
+[Round "-"]
+[White "David Robson"]
+[Black "Ian Bush"]
+[WhiteECF "148"]
+[BlackECF "126"]
+[Opening "Pirc"]
+[Variation "150 Attack"]
+[Result "1-0"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Be3 Bg7 5. Qd2 Ng4 6. Bg5 h6 7. Bh4 g5 8.
+Bg3 e5 9. Nf3 Nd7 10. O-O-O exd4 11. Nxd4 Nge5 12. Nf5 Bf6 13. Nd5 Nb6 14.
+Nfe3 Be6 15. f4 gxf4 16. Bxf4 Ng6 17. Bg3 Bg7 18. Kb1 Qd7 19. Be2 O-O-O 20.
+Qa5 Qa4 21. Nxb6+
 1-0
 
