@@ -1,3 +1,23 @@
+[Event "Banbury 1 v Cowley 1"]
+[Site "Banbury"]
+[Date "2023.04.27"]
+[Round "-"]
+[White "David Robson"]
+[Black "Nathan Manley"]
+[WhiteECF "1825"]
+[BlackECF "1903"]
+[Opening "French"]
+[Result "1-0"]
+
+1. e4 e6 2. Nf3 Nc6 3. d4 d5 4. e5 b6 5. c3 Bb7 6. Bd3 Nge7 7. Bg5 h6 8.
+Bh4 Qd7 9. b4 Nf5 10. Nbd2 Nxh4 11. Nxh4 g5 12. Nhf3 Be7 13. Nb3 Rg8 14. b5
+Nd8 15. Qe2 c5 16. bxc6 Bxc6 17. O-O Ba3 18. Ne1 Nb7 19. Nc2 Bb2 20. Rab1
+Bxc3 21. Ne3 Bb4 22. Ng4 Be7 23. Rfc1 Ba4 24. Nxh6 Rh8 25. Ng4 Kf8 26. Nd2
+Na5 27. Ba6 Bc6 28. Rc3 Ke8 29. Rf3 Rh4 30. Rg3 Qd8 31. Nf3 Rh8 32. Nf6+
+Bxf6 33. exf6 Qxf6 34. Nxg5 Kf8 35. Qd2 Ke7 36. Rf3 Qh6 37. Rxf7+ Kd6 38.
+Qf4+
+1-0
+
 [Event "Oxford City 2 v Cowley 2"]
 [Site "Oxford City"]
 [Date "2023.04.24"]
@@ -2969,6 +2989,7 @@ Qh3+ 20. Kf2 Kxa8 21. Be3 h5 22. Qg2 Kb7 23. Rg1 g6 24. Bg5 Rd5 25. Qxh3
 Bxh3 26. Kg3 Bf5 27. b4 Bd7 28. Rg2
 1/2-1/2
 
+[Event "Cowley 1 v MCSB/1"]
 [Site "Cowley"]
 [Date "2013.10.07"]
 [Round "-"]
@@ -2984,5 +3005,45 @@ Bxh3 26. Kg3 Bf5 27. b4 Bd7 28. Rg2
 Bg3 e5 9. Nf3 Nd7 10. O-O-O exd4 11. Nxd4 Nge5 12. Nf5 Bf6 13. Nd5 Nb6 14.
 Nfe3 Be6 15. f4 gxf4 16. Bxf4 Ng6 17. Bg3 Bg7 18. Kb1 Qd7 19. Be2 O-O-O 20.
 Qa5 Qa4 21. Nxb6+
+1-0
+
+[Event "Didcot 1  v Cowley 1"]
+[Site "Didcot"]
+[Date "2013.05.01"]
+[Round "-"]
+[White "David Robson"]
+[Black "Martin Sheridan"]
+[WhiteECF "143"]
+[BlackECF "146"]
+[Opening "Vienna"]
+[Result "1-0"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. fxe5 Nxe4 5. d3 Nxc3 6. bxc3 d4 7. Nf3 dxc3
+8. Be2 Nc6 9. O-O Be7 10. Qe1 Bg4 11. Qg3 Bxf3 12. Bxf3 Qd4+ 13. Kh1 Nxe5
+14. Be3 Qd6 15. Bf4 f6 16. Qxg7 O-O-O 17. d4 Rdg8 18. dxe5 Rxg7 19. exd6
+Bxd6 20. Bxd6 cxd6 21. Rad1 Rd8 22. Rd3
+1-0
+
+[Event "Oxford University 1 v Cowley 1"]
+[Site "Oxford University"]
+[Date "2013.04.25"]
+[Round "-"]
+[White "Nicole Miranda"]
+[Black "David Robson"]
+[WhiteECF "155"]
+[BlackECF "143"]
+[Opening "English"]
+[Variation "Anglo-Grunfeld"]
+[Result "1-0"]
+
+1. c4 Nf6 2. Nc3 g6 3. g3 d5 4. cxd5 Nxd5 5. Qb3 Nb6 6. Bg2 Bg7 7. e4 Nc6
+8. Nge2 O-O 9. O-O Be6 10. Nd5 Ne5 11. Nef4 Bxd5 12. Nxd5 Nxd5 13. exd5 Qd6
+14. d4 Nd7 15. Qxb7 Rfb8 16. Qc6 Bxd4 17. Rd1 Bf6 18. Bf4 Ne5 19. Qc2 g5
+20. Be3 Rxb2 21. Qf5 Kh8 22. Bd4 Re2 23. Be4 Ng6 24. Bxf6+ Qxf6 25. Qxf6+
+exf6 26. Bf3 Rc2 27. d6 Rd8 28. Be4 Rxd6
+{
+Blunder in time scramble
+}
+29. Bxc2 Rc6 30. Bxg6
 1-0
 
