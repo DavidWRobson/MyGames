@@ -71,7 +71,7 @@ for line in sys.stdin:
           blackResults[opening] = [ prevCount + 1, prevScore + score ]
 
 if numOppRating > 0:
-   print("\n%d wins: %d draws: %d defeats" % (wins, draws, defeats))
+   print("\n%d games: %d wins: %d draws: %d defeats" % (wins + draws + defeats, wins, draws, defeats))
    print("Average Ratings: Mine = %4d Opponents = %4d: Rating change = %3.1f" % (sumMyRating/numMyRating,sumOppRating/numOppRating,sumRatingChange))
 sumCount = sumScore = 0
 for opening in whiteResults.keys():
