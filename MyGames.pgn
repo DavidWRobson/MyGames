@@ -366,7 +366,7 @@ Qb3 Nxc3 15. Qxe6 Ne2+ 16. Kh1 fxe6 17. Rad1 O-O-O 18. Ng5 Nexd4 19. Nf7 e5
 Rf8 26. Rxf8+ Bxf8 27. b4 Kd7 28. Kg1 Ke6 29. Kf2 Kd5 30. Ke3 Bh6+
 0-1
 
-[Event "Cowley 2 versus City 2"]
+[Event "Cowley 2 v City 2"]
 [Site "Cowley"]
 [Date "2022.11.28"]
 [Round "-"]
@@ -393,7 +393,7 @@ Kd7 54. Bg5 Nd8 55. Bxd8 Kxd8 56. Kxc5 Ke7 57. Kb5 Ke6 58. Kxa5 Kxe5 59.
 Kxb4 Kf4 60. a5 Kg4 61. a6 Kxh4 62. a7
 1-0
 
-[Event "Cumnor 1 vCowley 1"]
+[Event "Cumnor 1 v Cowley 1"]
 [Site "Cumnor"]
 [Date "2022.11.24"]
 [Round "-"]
@@ -1947,7 +1947,7 @@ Rfc8 15. cxd5 Nxd4 16. Qd3 Nxe2+ 17. Qxe2 Nxd5 18. Rac1 Qa5 19. Bxg7 Kxg7
 Bxc6 32. Nd4
 1/2-1/2
 
-[Event "Cowley 3v Oxford University 2"]
+[Event "Cowley 3 v Oxford University 2"]
 [Site "Cowley"]
 [Date "2016.11.21"]
 [Round "-"]
@@ -3107,4 +3107,60 @@ Nf4 Nxf4 33. Bxf4 Bg6 34. Bxg6 hxg6 35. Kf1 Rc2 36. Ra2 Bc3 37. Bc7 Bxd4
 38. Bg3 Bc3 39. Bc7 Bd4 40. Bg3 Bb6 41. f3 g5 42. Be1 f5 43. Bg3 Kf7 44.
 Be1 Kg6 45. g4 Kf7 46. Bxa5 Bxa5 47. Rxa5 Rd2 48. Rb5 Ke7 {Score not recorded from now on}
 0-1
+
+[Event "Cowley 1 v Didcot 1"]
+[Site "Cowley"]
+[Date "2013.01.21"]
+[Round "-"]
+[White "David Robson"]
+[Black "Mike Duck"]
+[WhiteECF "141"]
+[BlackECF "124"]
+[Opening "Sicilian"]
+[Variation "Alapin"]
+[Result "1-0"]
+
+1. e4 c5 2. c3 Nc6 3. d4 cxd4 4. cxd4 e6 5. Nf3 Bb4+ 6. Nc3 Qc7 7. Bd3 Nge7
+8. O-O O-O 9. Be3 f5 10. Bg5 fxe4 11. Nxe4 d5 12. Ng3 Nf5 13. Rc1 Be7 14.
+Bxe7 Qxe7 15. Bb1 Qd6 16. Re1 Nce7 17. Qc2 g6 18. Qc7 Qxc7 19. Rxc7 Rd8 20.
+Nxf5 Nxf5 21. Bxf5 gxf5 22. Ng5 Rd7 23. Nxe6 Rf7 24. Rxf7 Kxf7 25. Nf4 Bd7
+26. Nxd5 Be6 27. Nc3 Rd8 28. Rd1 Bd5 29. a3 f4 30. f3
+1-0
+
+[Event "Oxford City 1 v Cowley 1"]
+[Site "Oxford City"]
+[Date "2012.12.17"]
+[Round "-"]
+[White "John Yates"]
+[Black "David Robson"]
+[Opening "French"]
+[Variation "Exchange"]
+[WhiteECF "141"]
+[BlackECF "140"]
+[Result "1-0"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Bd3 Nc6 5. c3 Bd6 6. Nf3 Bg4 7. O-O Nge7
+8. Bg5 O-O 9. Nbd2 f6 10. Bh4 Nf5 11. Qc2 g6 12. h3 Bxf3 13. Bxf5 Bxg2 14.
+Be6+ Kg7 15. Kxg2 Ne7 16. Rae1 c6 17. Bg3 Nc8 18. Re3 f5 19. f4 Nb6 20. b3
+Qf6 21. Nf3 Qd8 22. Qf2 Re8 23. Rfe1 Qc7 24. Nh4 Re7 25. Bh2 Rae8 26. Qg3
+Kh8 27. Qg5 Qd8 28. Kf3 Rg7 29. Qxd8 Rxd8 30. Bg3 Re7 31. Ng2 Rde8 32. Bh4
+1-0
+
+[Event "Witney 1 v Cowley 1"]
+[Site "Witney"]
+[Date "2012.12.03"]
+[Round "-"]
+[White "Alan Gentry"]
+[Black "David Robson"]
+[Opening "Two Knights Tango"]
+[WhiteECF "161"]
+[BlackECF "141"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 Nc6 3. Nc3 e5 4. d5 Ne7 5. g3 Ng6 6. Bg2 Bc5 7. Nf3 a6 8.
+O-O d6 9. Bg5 Bf5 10. Nd2 Qe7 11. Qa4+ Qd7 12. Qb3 O-O 13. Bxf6 gxf6 14.
+Nde4 Kg7 15. Nxc5 dxc5 16. Rfe1 Bh3 17. Bh1 h5 18. Ne4 b6 19. Qf3 f5 20.
+Ng5 Bg4 21. Qe3 Rae8 22. h3 f4 23. gxf4 Nxf4 24. hxg4 Qxg4+ 25. Kh2 Kh6 26.
+Rg1 Qh4+ 27. Nh3 Rg8
+1-0
 
