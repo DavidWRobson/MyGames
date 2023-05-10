@@ -23,6 +23,8 @@ sumOppRating = 0
 numOppRating = 0
 sumMyRating = 0
 numMyRating = 0
+totPerformanceRating = 0
+numPerformanceRating = 0
 sumRatingChange = 0.0
 wins = 0
 defeats = 0
@@ -47,50 +49,75 @@ for line in sys.stdin:
        sumRatingChange +=float( RatingChange )
 
     if result == "WON ":
-        score = 1
-        wins += 1
+       score = 1
+       wins += 1
+       if OppRating.isnumeric():
+          performanceRating = int(OppRating) + 400
+          totPerformanceRating += performanceRating
+          numPerformanceRating += 1
     if result == "LOST":
-        score = 0
-        defeats += 1
+       score = 0
+       defeats += 1
+       if OppRating.isnumeric():
+          performanceRating = int(OppRating) - 400
+          totPerformanceRating += performanceRating
+          numPerformanceRating += 1
     if result == "DREW":
        score = 0.5
        draws += 1
+       if OppRating.isnumeric():
+          performanceRating = int(OppRating)
+          totPerformanceRating += performanceRating
+          numPerformanceRating += 1
 
     if colour == "WHITE":
        if opening not in whiteResults.keys():
-          whiteResults[opening] = [ 1, score ]
+          whiteResults[opening] = [ 1, score, 1, performanceRating ]
        else:
-          prevCount, prevScore  = whiteResults[opening]
-          whiteResults[opening] = [ prevCount + 1, prevScore + score ]
+          prevCount, prevScore, prevNumPerformanceRating, prevPerformanceRating = whiteResults[opening]
+          whiteResults[opening] = [ prevCount + 1, prevScore + score, prevNumPerformanceRating + 1, prevPerformanceRating + performanceRating ]
 
     if colour == "BLACK":
        if opening not in blackResults.keys():
-          blackResults[opening] = [ 1, score ]
+          blackResults[opening] = [ 1, score, 1, performanceRating ]
        else:
-          prevCount, prevScore  = blackResults[opening]
-          blackResults[opening] = [ prevCount + 1, prevScore + score ]
+          prevCount, prevScore, prevNumPerformanceRating, prevPerformanceRating = blackResults[opening]
+          blackResults[opening] = [ prevCount + 1, prevScore + score, prevNumPerformanceRating + 1, prevPerformanceRating + performanceRating ]
 
 if numOppRating > 0:
    print("\n%d games: %d wins: %d draws: %d defeats" % (wins + draws + defeats, wins, draws, defeats))
-   print("Average Ratings: Mine = %4d Opponents = %4d: Rating change = %3.1f" % (sumMyRating/numMyRating,sumOppRating/numOppRating,sumRatingChange))
-sumCount = sumScore = 0
-for opening in whiteResults.keys():
-    count, score  = whiteResults[opening]
-    sumCount += count
-    sumScore += score
-if sumCount > 0:
-    print("\nWhite Results          %3d%%    (%3.1f out of %d)\n" % (int(100*sumScore/sumCount), sumScore, sumCount))
-for opening in whiteResults.keys():
-    count, score  = whiteResults[opening]
-    print("%20s %3d%%    (%3.1f out of %d)" % (opening, int(100*score/count), score, count))
+   print("Average Ratings: Mine = %4d Opponents = %4d: Rating change = %3.1f: My Performance Rating = %4d" % \
+         (sumMyRating/numMyRating,sumOppRating/numOppRating,sumRatingChange, totPerformanceRating/numPerformanceRating))
 
-sumCount = sumScore = 0
-for opening in blackResults.keys():
-    count, score  = blackResults[opening]
+# Report on White Openings
+
+sumCount = sumScore = sumPerf = sumPerfCount = 0
+for opening in whiteResults.keys():
+    count, score, numPerf, totPerf  = whiteResults[opening]
     sumCount += count
     sumScore += score
+    sumPerfCount += numPerf
+    sumPerf += totPerf
 if sumCount > 0:
-   print("\nBlack Results          %3d%%    (%3.1f out of %d)\n" % (int(100*sumScore/sumCount), sumScore, sumCount))
+    print("\nWhite Results          %3d%%    (%4.1f out of %2d) Perf. Rating = %d\n" % \
+          (int(100*sumScore/sumCount), sumScore, sumCount, sumPerf/sumPerfCount))
+for opening in whiteResults.keys():
+    count, score, numPerf, totPerf  = whiteResults[opening]
+    print("%20s %3d%%    (%4.1f out of %2d) Perf. Rating = %d" % (opening, int(100*score/count), score, count, totPerf/numPerf,))
+
+# Report on Black Openings
+
+sumCount = sumScore = sumPerf = sumPerfCount = 0
 for opening in blackResults.keys():
-    count, score  = blackResults[opening]
-    print("%20s %3d%%    (%3.1f out of %d)" % (opening, int(100*score/count), score, count))
+    count, score, numPerf, totPerf  = blackResults[opening]
+    sumCount += count
+    sumScore += score
+    sumPerfCount += numPerf
+    sumPerf += totPerf
+if sumCount > 0:
+    print("\nBlack Results          %3d%%    (%4.1f out of %2d) Perf. Rating = %d\n" % \
+          (int(100*sumScore/sumCount), sumScore, sumCount, sumPerf/sumPerfCount))
+for opening in blackResults.keys():
+    count, score, numPerf, totPerf  = blackResults[opening]
+    print("%20s %3d%%    (%4.1f out of %2d) Perf. Rating = %d" % (opening, int(100*score/count), score, count, totPerf/numPerf,))
+
