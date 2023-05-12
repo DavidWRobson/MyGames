@@ -3087,6 +3087,7 @@ Qxd3 Ng6 21. Qg3 Qe6 22. c5 Bc7 23. f4 h6 24. Bh4 Qf5 25. Nd4 Qxf4 26. Qxf4
 Nxf4 27. Nf5 Ng6 28. Nd6 Nxh4 29. Nxc8 Rxc8 30. e6 Ng6 31. exf7+ Kxf7 {Black won in blitz finish}
 0-1
 
+[Event "Witney 1 v Cowley 1"]
 [Site "Witney"]
 [Date "2013.03.11"]
 [Round "-"]
@@ -3164,3 +3165,22 @@ Ng5 Bg4 21. Qe3 Rae8 22. h3 f4 23. gxf4 Nxf4 24. hxg4 Qxg4+ 25. Kh2 Kh6 26.
 Rg1 Qh4+ 27. Nh3 Rg8
 1-0
 
+[Event "Cowley 1 v City 1 FWS"]
+[Site "Cowley"]
+[Date "2012.11.26"]
+[Round "-"]
+[White "David Robson"]
+[Black "Matt Brown"]
+[WhiteECF "141"]
+[BlackECF "179"]
+[Opening "Sicilian"]
+[Variation "Alapin"]
+[Result "0-1"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. Nf3 Nc6 6. Bc4 Nb6 7. Bb3 g6 8.
+cxd4 Bg7 9. h3 d6 10. Qe2 O-O 11. O-O Bf5 12. Bf4 Na5 13. Bd1 Nd5 14. Bd2
+Qb6 15. Nc3 Nxc3 16. Bxc3 d5 17. Re1 Rac8 18. Nh4 Bd7 19. Bc2 Nc4 20. Bb3
+a5 21. Rab1 a4 22. Bxc4 Rxc4 23. Qd2 f6 24. Nf3 Bf5 25. Rbc1 Be4 26. Qe3
+Bxf3 27. Qxf3 e6 28. Qe2 fxe5 29. dxe5 Rcf4 30. Rf1 Re4 31. Qc2 Bxe5 32.
+Bxe5 Rxe5 33. Qxa4 Re2 34. Rc2 Re4 35. Qa3 Ref4
+0-1
