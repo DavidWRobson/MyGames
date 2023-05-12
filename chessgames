@@ -132,7 +132,7 @@ Lines = file1.readlines()
 for line in Lines:
 
     if re.match(r"^\[ *Date .*", line):
-        date = line.split('"')[1];
+        date = line.split('"')[1].replace('.','/');
 
     if re.match(r"^\[ *WhiteECF .*", line):
         whiteECF = line.split('"')[1];
