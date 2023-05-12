@@ -3184,3 +3184,77 @@ a5 21. Rab1 a4 22. Bxc4 Rxc4 23. Qd2 f6 24. Nf3 Bf5 25. Rbc1 Be4 26. Qe3
 Bxf3 27. Qxf3 e6 28. Qe2 fxe5 29. dxe5 Rcf4 30. Rf1 Re4 31. Qc2 Bxe5 32.
 Bxe5 Rxe5 33. Qxa4 Re2 34. Rc2 Re4 35. Qa3 Ref4
 0-1
+
+[Event "Cowley 1 v Oxford University 1"]
+[Site "Cowley"]
+[Date "2012.11.05"]
+[Round "-"]
+[White "David Robson"]
+[Black "Nicole Miranda"]
+[WhiteECF "141"]
+[BlackECF "159"]
+[Opening "Sicilian"]
+[Variation "Alapin"]
+[Result "1-0"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. Nf3 Nc6 6. Bc4 Nb6 7. Bb3 d6 8.
+exd6 e6 9. Nxd4 Bxd6 10. O-O Bb8 11. Nxc6 Qxd1 12. Rxd1 bxc6 13. Bg5 Nd5
+14. Nd2 h6 15. Bh4 g5 16. Bg3 Nf4 17. Bc4 Bb7 18. Ne4 Be5 19. Nd6+ Bxd6 20.
+Rxd6 Ke7 21. Rad1 Nd5 22. Bf1 f5 23. Be5 Rhd8 24. Rxd8 Rxd8 25. Bd4 Nb6 26.
+Bf6+ Kxf6 27. Rxd8 h5 28. Rh8 h4 29. Rh7 Bc8 30. Rxa7 Ke5 31. Rh7 c5 32.
+Rg7 Kf6 33. Rc7 g4 34. Rc6
+
+[Event "Cowley 1 v Banbury 1"]
+[Site "Cowley"]
+[Date "2012.10.30"]
+[Round "-"]
+[White "David Robson"]
+[Black "Paul Trewhala"]
+[WhiteECF "141"]
+[BlackECF "162"]
+[Opening "Vienna"]
+[Result "0-1"]
+
+1. e4 e5 2. Nc3 Bc5 3. f4 exf4 4. Nf3 Be7 5. Bc4 Bh4+ 6. Kf1 d6 7. d4 Be6
+8. Qd3 Nc6 9. a3 Bg4 10. Ne2 Bxf3 11. Qxf3 Nf6 12. Qxf4 g5 13. Qf5 g4 14.
+g3 Ne7 15. Qf2 d5 16. exd5 Ne4 17. Qf4 Nd6 18. Bb3 Ng6 19. Qxg4 Bf6 20. Bh6
+Be7 21. Re1 f5 22. Qf3 Qd7 23. Nc3 O-O-O 24. Kg2 Rhg8 25. Re6 Nh4+
+0-1
+
+Event "Cowley 1 v Oxford University 1"]
+[Site "Cowley"]
+[Date "2012.10.15"]
+[Round "-"]
+[White "Matthew Coulson"]
+[Black "David Robson"]
+[WhiteECF "70"]
+[BlackECF "141"]
+[Opening "Queen's Pawn Opening"]
+[Result "0-1"]
+
+1. d4 Nf6 2. Nf3 d5 3. b3 Bf5 4. Bb2 e6 5. Nbd2 Nbd7 6. e3 Be7 7. c4 c6 8.
+Be2 O-O 9. O-O h6 10. h3 Re8 11. Nb1 Bd6 12. c5 Bc7 13. Bc3 a5 14. a4 e5
+15. Qc1 Ne4 16. dxe5 Ndxc5 17. Qb2 Nxc3 18. Qxc3 Nd7 19. Nbd2 Nxe5 20. Nxe5
+Bxe5 21. Qc1 Bxa1 22. Qxa1 d4 23. Nc4 b5 24. axb5 cxb5 25. Na3 dxe3 26.
+Nxb5 Qb6 27. Bc4 Rad8 28. Qc1 Bd3 29. Bxd3 Rxd3 30. Qc4 exf2+ 31. Rxf2 Rd1+
+32. Kh2 Qxf2
+0-1
+
+[Event "Cowley 2 v Cowley 1"]
+[Site "Cowley"]
+[Date "2012.10.08"]
+[Round "-"]
+[White "Nick Burrows"]
+[Black "David Robson"]
+[WhiteECF "161"]
+[BlackECF "141"]
+[Opening "Queen's Pawn Opening"]
+[Result "1-0"]
+
+1. Nf3 d6 2. d4 Nf6 3. c4 c5 4. dxc5 Qa5+ 5. Nc3 Qxc5 6. e4 g6 7. Be3 Qa5
+8. Qd2 Bg7 9. h3 Nc6 10. Be2 O-O 11. O-O Bd7 12. Bh6 Rac8 13. Bxg7 Kxg7 14.
+b3 Ne5 15. Nxe5 Qxe5 16. f4 Qc5+ 17. Kh1 Bc6 18. Bf3 Rfd8 19. Nd5 Bxd5 20.
+exd5 b5 21. cxb5 Qxb5 22. Rac1 Qa6 23. Rfe1 Rxc1 24. Rxc1 Rc8 25. Rc6 Rxc6
+26. dxc6 d5 27. Qc3 Kg8 28. Qc5 Ne4 29. Qxd5 Nd6 30. c7 Kf8 31. Kh2 Qc8
+1-0
+
