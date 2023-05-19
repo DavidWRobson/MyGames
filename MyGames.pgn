@@ -3221,7 +3221,7 @@ g3 Ne7 15. Qf2 d5 16. exd5 Ne4 17. Qf4 Nd6 18. Bb3 Ng6 19. Qxg4 Bf6 20. Bh6
 Be7 21. Re1 f5 22. Qf3 Qd7 23. Nc3 O-O-O 24. Kg2 Rhg8 25. Re6 Nh4+
 0-1
 
-Event "Cowley 1 v Oxford University 1"]
+[Event "Cowley 1 v Oxford University 1"]
 [Site "Cowley"]
 [Date "2012.10.15"]
 [Round "-"]
@@ -3257,4 +3257,62 @@ b3 Ne5 15. Nxe5 Qxe5 16. f4 Qc5+ 17. Kh1 Bc6 18. Bf3 Rfd8 19. Nd5 Bxd5 20.
 exd5 b5 21. cxb5 Qxb5 22. Rac1 Qa6 23. Rfe1 Rxc1 24. Rxc1 Rc8 25. Rc6 Rxc6
 26. dxc6 d5 27. Qc3 Kg8 28. Qc5 Ne4 29. Qxd5 Nd6 30. c7 Kf8 31. Kh2 Qc8
 1-0
+
+[Event "Oxford Town  v Gown"]
+[Site "Oxford"]
+[Date "2012.05.01"]
+[Round "-"]
+[White "David Robson"]
+[Black "Michael Hopkins"]
+[WhiteECF "141"]
+[BlackECF "UNG"]
+[Opening "Pirc"]
+[Variation "150 Attack"]
+[Result "1-0"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Be3 Bg7 5. Qd2 Ng4 6. Bg5 h6 7. Bh4 g5 8.
+Bg3 Nc6 9. Nf3 O-O 10. h4 f6 11. Bc4+ Kh8 12. hxg5 fxg5 13. Nxg5 Qe8 14.
+Ne6 Bxe6 15. Bxe6 Qg6 16. Bxg4 Qxg4 17. Rh4 Qg6 18. Ne2 Kh7 19. O-O-O Bf6
+20. Rh2 Kg7 21. Rdh1 Rh8 22. Bf4 Bg5 23. f3 e5 24. Bxg5 hxg5 25. d5 Ne7 26.
+Qc3 c6 27. Qb3 Rab8 28. Rxh8 Rxh8 29. Rxh8 Kxh8 30. Qxb7 Qh7 31. dxc6 Qh6
+32. Qxe7 g4+ 33. f4 exf4 34. c7 f3+ 35. Kb1 Qh7 36. c8=Q+ Qg8 37. Qh4+ Kg7
+38. Qg5+
+1-0
+
+[Event "Cowley 1 v Witney 1"]
+[Site "Cowley"]
+[Date "2012.04.23"]
+[Round "-"]
+[White "David Robson"]
+[Black "Roger Turner"]
+[WhiteECF "143"]
+[BlackECF "138"]
+[Opening "Vienna"]
+[Result "1-0"]
+
+1. e4 e5 2. Nc3 d6 3. f4 exf4 4. Nf3 Bg4 5. d4 Bxf3 6. Qxf3 Qh4+ 7. Kd1 {?? 7. g3!} Nd7
+8. Bxf4 O-O-O 9. Bd3 Qf6 10. Qe3 h6 11. Kd2 g5 12. Bg3 Qg7 13. Raf1 Ngf6
+14. Qf3 Be7 15. Qf5 Qh7 16. Qa5 a6 17. e5 Ne4+ 18. Bxe4 Qg7 19. Nd5
+1-0
+
+[Event "Banbury 1 v Cowley 1"]
+[Site "Banbury"]
+[Date "2012.04.12"]
+[Round "-"]
+[White "Carl Portman"]
+[Black "David Robson"]
+[WhiteECF "169"]
+[BlackECF "143"]
+[Opening "French"]
+[Variation "Two Knights"]
+[Result "1-0"]
+
+1. e4 e6 2. Nf3 d5 3. Nc3 Bb4 4. exd5 exd5 5. d4 Bf5 6. Bd3 Ne7 7. O-O O-O
+8. Bxf5 Nxf5 9. Qd3 Bxc3 10. Qxf5 Bb4 11. Ng5 g6 12. Qh3 h5 13. f4 Be7 14.
+Nf3 Qd7 15. f5 Bf6 16. Bh6 Re8 17. fxg6 fxg6 18. Qg3 Kh7 19. Bf4 Na6 20.
+Be5 Be7 21. Bf4 Bf6 22. Bg5 Bg7 23. Bf4 Bf6 24. Ng5+ Kg8 25. Nf3 Kh7 26.
+Ne5 Bxe5 27. Bxe5 Rf8 28. c3 c6 29. Bd6 Rfd8 30. Rf6 Qg7 31. Raf1 Rd7 32.
+Qf4 Rad8 33. Bf8 Rxf8 34. Rxf8 Nc7 35. Rf7
+1-0
+
 
