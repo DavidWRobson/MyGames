@@ -29,21 +29,32 @@ sumRatingChange = 0.0
 wins = 0
 defeats = 0
 draws = 0
+maxDate=0
+minDate=99999999
 
 for line in sys.stdin:
     result = line[34:38]
     colour = line[39:44]
     MyRating = line[45:49].strip()
     OppRating = line[50:54].strip()
+    if not OppRating.isnumeric():
+       OppRating= MyRating
     RatingChange = line[55:61].strip()
     opening = line[61:83]
+    gameDate = int( line[0:10].replace('/','') )
 
-    if MyRating.isnumeric():
-       sumMyRating += int(MyRating)
-       numMyRating += 1
-    if OppRating.isnumeric():
-       sumOppRating += int(OppRating)
-       numOppRating += 1
+    if gameDate > maxDate:
+       maxDate = gameDate
+       strMaxDate = line[0:10]
+       
+    if gameDate < minDate:
+       minDate = gameDate
+       strMinDate = line[0:10]
+       
+    sumMyRating += int(MyRating)
+    numMyRating += 1
+    sumOppRating += int(OppRating)
+    numOppRating += 1
 
     if isfloat(RatingChange):
        sumRatingChange +=float( RatingChange )
@@ -51,24 +62,21 @@ for line in sys.stdin:
     if result == "WON ":
        score = 1
        wins += 1
-       if OppRating.isnumeric():
-          performanceRating = int(OppRating) + 400
-          totPerformanceRating += performanceRating
-          numPerformanceRating += 1
+       performanceRating = int(OppRating) + 400
+       totPerformanceRating += performanceRating
+       numPerformanceRating += 1
     if result == "LOST":
        score = 0
        defeats += 1
-       if OppRating.isnumeric():
-          performanceRating = int(OppRating) - 400
-          totPerformanceRating += performanceRating
-          numPerformanceRating += 1
+       performanceRating = int(OppRating) - 400
+       totPerformanceRating += performanceRating
+       numPerformanceRating += 1
     if result == "DREW":
        score = 0.5
        draws += 1
-       if OppRating.isnumeric():
-          performanceRating = int(OppRating)
-          totPerformanceRating += performanceRating
-          numPerformanceRating += 1
+       performanceRating = int(OppRating)
+       totPerformanceRating += performanceRating
+       numPerformanceRating += 1
 
     if colour == "WHITE":
        if opening not in whiteResults.keys():
@@ -85,9 +93,10 @@ for line in sys.stdin:
           blackResults[opening] = [ prevCount + 1, prevScore + score, prevNumPerformanceRating + 1, prevPerformanceRating + performanceRating ]
 
 if numOppRating > 0:
-   print("\n%d games: %d wins: %d draws: %d defeats" % (wins + draws + defeats, wins, draws, defeats))
-   print("Average Ratings: Mine = %4d Opponents = %4d: Rating change = %3.1f: My Performance Rating = %4d" % \
-         (sumMyRating/numMyRating,sumOppRating/numOppRating,sumRatingChange, totPerformanceRating/numPerformanceRating))
+   print ( "\nFor games between %s and %s " % (strMinDate, strMaxDate) )
+   print( "%d games: %d wins: %d draws: %d defeats" % (wins + draws + defeats, wins, draws, defeats) )
+   print( "Average Ratings: Mine = %4d Opponents = %4d: Rating change = %3.1f: My Performance Rating = %4d" % \
+         (sumMyRating/numMyRating,sumOppRating/numOppRating,sumRatingChange, totPerformanceRating/numPerformanceRating) )
 
 # Report on White Openings
 
