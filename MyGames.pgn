@@ -428,6 +428,7 @@ Score confused/lost at this stage because both players very short of time
 [WhiteECF "1849"]
 [BlackECF "1811"]
 [Opening "Grunfeld"]
+[Variation "Exchange"]
 [Result "1-0"]
 
 1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. Nc3 d5 5. cxd5 Nxd5 6. e4 Nxc3 7. bxc3 c5
@@ -450,6 +451,7 @@ Score confused at this point
 [WhiteECF "1750"]
 [BlackECF "1811"]
 [Opening "Grunfeld"]
+[Variation "Exchange"]
 [Result "1-0"]
 [Board "1"]
 
@@ -513,6 +515,7 @@ Bb5 Nf6 9. Qf3 Bd7 10. Nce4 Ne5 11. Nxf6+ exf6 12. Bxd7+ Nxd7 13. Ne4 Qb6
 [WhiteECF "2022"]
 [BlackECF "1811"]
 [Opening "Grunfeld"]
+[Variation "Exchange"]
 [Result "1-0"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 c5 7. Bc4 Bg7 8. Ne2 Nc6
@@ -859,6 +862,7 @@ Score confused at this stage
 [Black "David Robson"]
 [Result "1-0"]
 [Opening "Grunfeld"]
+[Variation "Russian System"]
 [WhiteECF "181"]
 [BlackECF "151"]
 [ECO "D97"]
@@ -3331,4 +3335,46 @@ Bd2 Nxd2 9. Qxd2 Qf6 10. O-O Bd7 11. Rfe1 O-O-O 12. Qe3 Rdf8 13. a3 Bd6 14.
 Ne5 Bxe5 15. dxe5 Qh4 16. Ne2 d4 17. Qg3 Qh6 18. b4 Rf7 19. b5 Ne7 20. Nxd4
 Rhf8 21. Re2 Nd5 22. Nb3 Nf4 23. Rd2 Nxd3 24. Qxd3 Rf5
 1-0
+
+[Event "Cowley 1 v Oxford University 1"]
+[Site "Cowley"]
+[Date "2012.02.27"]
+[Round "-"]
+[White "Nicole Miranda"]
+[Black "David Robson"]
+[WhiteECF "153"]
+[BlackECF "143"]
+[Opening "French"]
+[Variation "Advance"]
+[Result "0-1"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Be2 cxd4 7. cxd4 Nh6 8.
+Nc3 Nf5 9. Na4 Qa5+ 10. Kf1 Bd7 11. Bd2 Bb4 12. Bxb4 Qxb4 13. a3 Qe7 14.
+Rc1 b6 15. Nc3 f6 16. g4 Nh6 17. Nb5 O-O 18. Qd2 fxe5 19. Nxe5 Nxe5 20.
+dxe5 Nxg4 21. Bxg4 Bxb5+ 22. Ke1 Rac8 23. Rg1 Qd7 24. Rg3 Rxc1+ 25. Qxc1
+Rc8 26. Qg5 Rc6 27. h4 Qc7 28. Kd1 Ba4+ 29. b3 Bb5 30. h5 h6 31. Qd2 Qxe5
+32. Re3 Qa1+
+0-1
+
+[Event "Oxford City 1 v Cowley 1"]
+[Site "Oxford City"]
+[Date "2012.02.13"]
+[Round "-"]
+[White "David Robson"]
+[Black "Phil Haywood"]
+[Opening "Alekhine"]
+[Variation "Four pawns"]
+[WhiteECF "143"]
+[BlackECF "173"]
+[Result "1/2-1/2"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. f4 g6 6. Nf3 Bg7 7. Nc3 O-O 8.
+Be3 Be6 9. b3 c5 10. dxc5 N6d7 11. cxd6 exd6 12. Rc1 dxe5 13. Bd3 Nc6 14.
+O-O Qa5 15. Qe1 Nc5 16. Bb1 Rad8 17. Nb5 Qxe1 18. Nxe1 b6 19. Nc7 Bc8 20.
+f5 Nd4 21. Bxd4 Rxd4 22. Nf3 Rdd8 23. Nd5 e4 24. Ne1 Bd4+ 25. Kh1 Bb7 26.
+Rd1 Bxd5 27. Rxd4 Bb7 28. Rxd8 Rxd8 29. fxg6 hxg6 30. Nc2 f5 31. Ne3 Nd3
+32. Kg1 Kf7 33. Rd1 Ke6 34. h4 Ke5 35. g3 Kd4 36. Nc2+ Kc3 37. Kf1 Rg8 38.
+Ne1 Ne5 39. Ng2 g5 40. Kf2 gxh4 41. Nxh4 Rf8 42. Ke3 Ng4+ 43. Kf4 Bc8 44.
+Rf1
+1/2-1/2
 
