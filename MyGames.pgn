@@ -182,7 +182,6 @@ cxd5 14. Qf3+ Bf6 15. Nxh7+ Kg8 16. Nxf6+ gxf6 17. Qxf6
 [WhiteECF "1814"]
 [BlackECF "1573"]
 [Result "1-0"]
-[Opening "Vienna"]
 
 1. e4 e5 2. Nc3 Nf6 3. f4 exf4 4. e5 Nd5 5. Nxd5 c6 6. Nxf4 Qg5 7. d4 d6 8.
 Nf3 Qe7 9. Qe2 d5 10. Bd2 Na6 11. c3 h6 12. Qe3 g5 13. Nh5
@@ -886,8 +885,9 @@ Qh4 35. Qf7 1-0
 [Black "Ryan Cheung"]
 [WhiteECF "151"]
 [BlackECF "147"]
-[Result "0-1"]
 [Opening "Vienna"]
+[Variation "Oxford"]
+[Result "0-1"]
 
 1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. fxe5 Nxe4 5. d3 Nxc3 6. bxc3 d4 7. Nf3 Nc6
 8. Be2 Bc5 9. O-O O-O 10. Qe1 Bg4 11. Qg3 Qd7 12. Kh1 f6 13. exf6 Rxf6 14.
@@ -1038,6 +1038,7 @@ winning} Qxc3 30. Nxc3 1/2-1/2
 [ECO "C29"]
 [TimeControl "5400"]
 [Opening "Vienna"]
+[Variation "Oxford"]
 
 1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. fxe5 Nxe4 5. d3 Nxc3 6. bxc3 Be7 7. Nf3 O-O 
 8. Be2 f6 9. d4 fxe5 10. Nxe5 Nd7 11. Nxd7 Bxd7 12. Bf3 c6 13. O-O Bd6 14. 
@@ -1295,6 +1296,7 @@ Bc5 30. Qc3 Bb4 {30 .. d4    Draw offered by White and accepted} 1/2-1/2
 [ECO "C29"]
 [TimeControl "0"]
 [Opening "Vienna"]
+[Variation "Oxford"]
 
 1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. fxe5 Nxe4 5. d3 Nxc3 6. bxc3 d4 7. Nf3 c5 8. 
 Be2 Be7 9. O-O O-O 10. Qe1 Nc6 11. Qg3 Kh8 12. Kh1 dxc3 13. Bf4 Be6 14. Ng5 
@@ -1572,6 +1574,7 @@ Nf8 22. Ra3 Nh7 23. Qb2 Bd1 24. Qd2 Bb3 25. Bf3 Bf8 26. Bg4 f5 27. exf5 gxf5
 [White "David Robson"]
 [Black "Paul Girdlestone"]
 [Opening "Vienna"]
+[Variation "Oxford"]
 [WhiteECF "164"]
 [BlackECF "188"]
 [Result "0-1"]
@@ -2028,6 +2031,7 @@ Re8 33. Qe3 d5 34. c3 g3 35. h3 Nf2+
 [BlackECF "139"]
 [Result "1-0"]
 [Opening "Vienna"]
+[Variation "Oxford"]
 
 1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. fxe5 Nxe4 5. d3 Nxc3 6. bxc3 c5 7. Nf3 Nc6 8. Be2 Be7 9. O-O O-O 10. Qe1 d4 11. Qg3 dxc3 12. Bh6 g6 13. Bxf8 Bxf8 14.  Qf4 Be7 15. Qc4 Nd4 16. Bd1 Nxf3+ 17. Bxf3 Qd4+ 18. Qxd4 cxd4 19. Rab1 Rb8 20. Bd5 Be6 21. Bb3 b5 22. Rf4 Bg5 23. Rf3 Be7 24. Rbf1 Rf8 25. h3 a5 26.  Kf2 Bxb3 27. axb3 a4 28. bxa4 bxa4 29. Ra1 a3 30. Kg3 Rb8 { Draw offered } 31. Kf4 Rb2 32. Rf2 f5 33. exf6 Bxf6 34. Rxa3 Rb1 35. Kg4 Be7 36. Ra8+
 1-0
@@ -3020,6 +3024,7 @@ Qa5 Qa4 21. Nxb6+
 [WhiteECF "143"]
 [BlackECF "146"]
 [Opening "Vienna"]
+[Variation "Oxford"]
 [Result "1-0"]
 
 1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. fxe5 Nxe4 5. d3 Nxc3 6. bxc3 d4 7. Nf3 dxc3
@@ -3377,4 +3382,100 @@ Rd1 Bxd5 27. Rxd4 Bb7 28. Rxd8 Rxd8 29. fxg6 hxg6 30. Nc2 f5 31. Ne3 Nd3
 Ne1 Ne5 39. Ng2 g5 40. Kf2 gxh4 41. Nxh4 Rf8 42. Ke3 Ng4+ 43. Kf4 Bc8 44.
 Rf1
 1/2-1/2
+
+[Event "Cowley 3 v Wantage 1"]
+[Site "Cowley"]
+[Date "2012.02.06"]
+[Round "-"]
+[White "Simon Richards"]
+[Black "David Robson"]
+[WhiteECF "145"]
+[BlackECF "143"]
+[Opening "French"]
+[Variation "Kings Indian Attack"]
+[Result "1-0"]
+
+1. e4 e6 2. d3 c5 3. Nf3 d5 4. Nbd2 Nc6 5. g3 Nf6 6. Bg2 Be7 7. O-O b6 8.
+e5 Nd7 9. Re1 O-O 10. Nf1 f6 11. exf6 Nxf6 12. Bh3 e5 13. Bxc8 Qxc8 14.
+Nxe5 Nxe5 15. Rxe5 Bd6 16. Re1 Qh3 17. f4 Ng4 18. Qf3 Rf5 19. Qg2 Qxg2+ 20.
+Kxg2 d4 21. Bd2 Kf7 22. Re2 h5 23. Rae1 Rf6 24. h3 Nh6 25. Nh2 Rd8 26. Nf3
+Kf8 27. Ng5 Kg8 28. Ne4 Re6 29. Nxd6 Rexd6 30. Re7 R6d7 31. R7e5 g6 32. Re6
+Rd6 33. Re7 R8d7 34. Rxd7 Rxd7 35. Kf3 Kf7 36. g4 Rd8 37. f5 hxg4+ 38. hxg4
+Ng8 39. Bg5 Rd7 40. Kf4 gxf5 41. gxf5 Nf6 42. Bxf6 Kxf6 43. Re6+ Kf7 44.
+Ke5 b5 45. Rf6+ Ke8 {score confusedfrom here}
+1-0
+
+[Event "Oxford City 3 v Cowley 3"]
+[Site "Oxford City"]
+[Date "2012.01.30"]
+[Round "-"]
+[White "David Robson"]
+[Black "Simon King"]
+[WhiteECF "148"]
+[BlackECF "152"]
+[Opening "Vienna"]
+[Result "1/2-1/2"]
+
+1. e4 e5 2. Nc3 Bc5 3. f4 d6 4. Nf3 Nc6 5. Bb5 Bd7 6. d3 Nge7 7. Na4 Bb6 8.
+Nxb6 axb6 9. O-O O-O 10. f5 Nd4 11. Nxd4 exd4 12. Bc4 b5 13. Bb3 c5 14. Bg5
+Qe8 15. Qh5 Kh8 16. Rf4 Ng8 17. f6 g6 18. Qxh7+ Kxh7 19. Rh4+ Nh6 20. Rxh6+
+Kg8 21. Rxg6+ { I offered a draw, thinking that I needed the perpetual  to draw, but in fact I am still  winning!}
+1/2-1/2
+
+[Event "Cowley 1 v Cowley 2"]
+[Site "Cowley"]
+[Date "2012.01.23"]
+[Round "-"]
+[White "David Robson"]
+[Black "Heather Laing"]
+[WhiteECF "148"]
+[BlackECF "161"]
+[Opening "Vienna"]
+[Variation "Oxford"]
+[Result "0-1"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. fxe5 Nxe4 5. d3 Nxc3 6. bxc3 d4 7. Nf3 c5
+8. Be2 Be7 9. O-O O-O 10. Qe1 f6 11. Qg3 Kh8 12. exf6 gxf6 13. Kh1 Nc6 14.
+c4 Bd6 15. Qf2 Qc7 16. Qh4 Qe7 17. Bh6 Rg8 18. Rae1 Rg6 19. Nxd4 Rxh6 20.
+Qxh6 Nxd4 21. Bh5 Nf5 22. Rxe7 Nxh6 23. Re8+ Kg7 24. Bf3 Rb8 25. Bd5 Bd7
+26. Re3 Be5 27. Bf3 Nf5 28. Ree1
+0-1
+
+[Event "MSCB1 v Cowley 1"]
+[Site "Magdalen College School"]
+[Date "2012.01.09"]
+[Round "-"]
+[White "Matthew Daggitt"]
+[Black "David Robson"]
+[WhiteECF "174"]
+[BlackECF "148"]
+[Opening "French"]
+[Variation "Advance"]
+[Result "1-0"]
+
+1. e4 e6 {+0.18/9 5} 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. a3 c4 7.
+Nbd2 f6 8. b3 cxb3 9. Nxb3 Bd7 10. Bd3 Be7 11. O-O Nh6 12. exf6 Bxf6 13.
+Nc5 Na5 14. Rb1 Qc7 15. Qe2 O-O-O 16. Ba6 Bc6 17. Qxe6+ Bd7 18. Nxb7 Nxb7
+19. Qxd5 Bc6 20. Qc5 Kb8 21. Bf4
+1-0
+
+[Site "Witney"]
+[Date "2011.12.12"]
+[Round "-"]
+[White "Jonathan Kennedy"]
+[Black "David Robson"]
+[WhiteECF "172"]
+[BlackECF "148"]
+[Opening "French"]
+[Variation "Exchange"]
+[Result "1-0"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nc3 Bb4 5. Bd3 Nc6 6. Be3 Nf6 7. Ne2 Bg4
+8. O-O O-O 9. f3 Bh5 10. Bg5 Be7 11. Nf4 Bg6 12. Bxg6 hxg6 13. a3 Nh7 14.
+Bxe7 Nxe7 15. Qd2 Nf6 16. Nd3 Nf5 17. Ne5 c6 18. Nd1 Qb6 19. c3 Rae8 20.
+Kh1 Re7 21. Nf2 Rfe8 22. Nfd3 Nd7 23. Nxd7 Rxd7 24. Rae1 Rde7 25. Rxe7 Rxe7
+26. g4 Ne3 27. Rf2 Nc4 28. Qd1 Kf8 29. Re2 Qd8 30. Qe1 b6 31. a4 Rxe2 32.
+Qxe2 a5 33. b3 Nd6 34. Qe5 f6 35. Qe6 Qe7 36. Qxe7+ Kxe7 37. h4 Nf7 38. Kg2
+Nd6 39. Kg3 Ke6 40. Kf2 Kf7
+1-0
 
