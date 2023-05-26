@@ -15,7 +15,7 @@ Nd8 15. Qe2 c5 16. bxc6 Bxc6 17. O-O Ba3 18. Ne1 Nb7 19. Nc2 Bb2 20. Rab1
 Bxc3 21. Ne3 Bb4 22. Ng4 Be7 23. Rfc1 Ba4 24. Nxh6 Rh8 25. Ng4 Kf8 26. Nd2
 Na5 27. Ba6 Bc6 28. Rc3 Ke8 29. Rf3 Rh4 30. Rg3 Qd8 31. Nf3 Rh8 32. Nf6+
 Bxf6 33. exf6 Qxf6 34. Nxg5 Kf8 35. Qd2 Ke7 36. Rf3 Qh6 37. Rxf7+ Kd6 38.
-Qf4+
+Qf4+ {rest of score lost in time scramble}
 1-0
 
 [Event "Oxford City 2 v Cowley 2"]
@@ -1055,8 +1055,8 @@ from here on in, or maybe even earlier. White resigned on move 48} 0-1
 [Round "-"]
 [White "Philip Hayward"]
 [Black "David Robson"]
-[WhiteECF "151"]
-[BlackECF "185"]
+[WhiteECF "185"]
+[BlackECF "151"]
 [Opening "English"]
 [Variation "Anglo-Grunfeld"]
 [Result "1-0"]
@@ -1942,8 +1942,8 @@ Score confused from here on
 [White "Andrew Webb"]
 [Black "David Robson"]
 [Opening "East Indian Defence"]
-[WhiteECF "147"]
-[BlackECF "130"]
+[WhiteECF "130"]
+[BlackECF "147"]
 [Result "1/2-1/2"]
 
 1. d4 Nf6 2. Nf3 g6 3. Nbd2 d5 4. b4 Bg7 5. e3 O-O 6. Be2 a5 7. b5 c5 8.
@@ -3459,6 +3459,7 @@ Nc5 Na5 14. Rb1 Qc7 15. Qe2 O-O-O 16. Ba6 Bc6 17. Qxe6+ Bd7 18. Nxb7 Nxb7
 19. Qxd5 Bc6 20. Qc5 Kb8 21. Bf4
 1-0
 
+[Event "Witney 1 v Cowley 1"]
 [Site "Witney"]
 [Date "2011.12.12"]
 [Round "-"]
@@ -3478,4 +3479,80 @@ Kh1 Re7 21. Nf2 Rfe8 22. Nfd3 Nd7 23. Nxd7 Rxd7 24. Rae1 Rde7 25. Rxe7 Rxe7
 Qxe2 a5 33. b3 Nd6 34. Qe5 f6 35. Qe6 Qe7 36. Qxe7+ Kxe7 37. h4 Nf7 38. Kg2
 Nd6 39. Kg3 Ke6 40. Kf2 Kf7
 1-0
+
+[Event "Cowley 1 v Banbury 1"]
+[Site "Cowley"]
+[Date "2011.12.05"]
+[Round "-"]
+[White "Nick Martin"]
+[Black "David Robson"]
+[WhiteECF "140"]
+[BlackECF "148"]
+[Opening "French"]
+[Variation "Exchange"]
+[Result "1-0"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. a3 c4 7. g3 Bd7 8. Bg2
+f6 9. exf6 Nxf6 10. O-O Bd6 11. Re1 O-O 12. Nbd2 Na5 13. Ne5 Rae8 14. Rb1
+Nb3 15. Ndxc4 dxc4 16. Nxc4 Qc7 17. Nxd6 Qxd6 18. Qxb3 Bc6 19. Bf4 Qd7 20.
+Bxc6 Qxc6 21. Re2 Nh5 22. Bd2 Qf3 23. Rf1 Nf4 24. Bxf4 Rxf4 25. d5 Rf6 26.
+Qxb7 Rh6 27. Qd7 Qh5 28. f4 Rf8 29. dxe6 Qg4 30. Qd5 Re8 31. e7+ Kh8 32.
+Qd7 Qh5 33. Rfe1 Qf7 34. Qd8
+1-0
+
+[Event "Bicester 1 v Cowley 1"]
+[Site "Bicester"]
+[Date "2011.11.29"]
+[Round "-"]
+[White "Iain Morton"]
+[Black "David Robson"]
+[WhiteECF "153"]
+[BlackECF "148"]
+[Opening "Trompowsky"]
+[Result "1-0"]
+
+1. d4 Nf6 2. Bg5 c5 3. d5 Qb6 4. Bxf6 Qxf6 5. Nc3 g6 6. Rb1 Bg7 7. Nf3 Qb6
+8. Qd3 d6 9. e4 O-O 10. Be2 Bg4 11. O-O Nd7 12. h3 Bxf3 13. Qxf3 Qa5 14. a3
+a6 15. Nd1 b5 16. c3 c4 17. Ne3 Nc5 18. g3 Qc7 19. Bd1 a5 20. Bc2 Rfb8 21.
+Qe2 Ra6 22. Rfe1 Rab6 23. a4 bxa4 24. Nxc4 R6b7 25. Ra1 Qd7 26. Kg2 Kf8 27.
+Qd1 Nb3 28. Ra3 Qb5 29. Bxb3 axb3 30. Nxa5 Ra7 31. Rxb3 Rxa5 32. Rxb5 Raxb5
+33. Re2 Bf6 34. Qc1 Kg7 35. f4 Kg8
+1-0
+
+[Event "Cowley 2 v Banbury 1"]
+[Site "Cowley"]
+[Date "2011.11.01"]
+[Round "-"]
+[White "Mal Waddell"]
+[Black "David Robson"]
+[Opening "Two Knights Tango"]
+[WhiteECF "145"]
+[BlackECF "148"]
+[Result "0-1"]
+
+1. d4 Nf6 2. c4 Nc6 3. Nc3 e5 4. d5 Ne7 5. e4 Ng6 6. Be3 Bb4 7. Bd3 O-O 8.
+Ne2 Ng4 9. Bd2 Bc5 10. Nd4 exd4 11. Na4 d6 12. b4 b5 13. bxc5 bxa4 14. cxd6
+Qxd6 15. Qxa4 Bd7 16. Qb3 Qb6 17. Qa3 N4e5 18. Be2 Rfb8 19. Rc1 Qb2 20. Qa5
+Qb6 21. Qa3 a5 22. f4 Ng4 23. f5 N6e5 24. h3 Nf6 25. Qg3 d3 26. Bd1 Nxe4
+27. Qf4 Nxd2 28. Kxd2 Qb2+ 29. Ke1 Re8 30. Kf1 d2 31. Rc2 Qd4 32. Bf3 Rab8
+33. g3 Rb1+ 34. Kg2 Rxh1 35. Kxh1 Nxf3 36. Qxf3 Re1+ 37. Kg2 Qg1#
+0-1
+
+[Event "Cowley 1 v Cowley 2"]
+[Site "Cowley"]
+[Date "2011.11.24"]
+[Round "-"]
+[White "David Robson"]
+[Black "Anna Wang"]
+[WhiteECF "148"]
+[BlackECF "166"]
+[Opening "Sicilian"]
+[Variation "Alapin"]
+[Result "1/2-1/2"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 cxd4 5. cxd4 Nc6 6. Nf3 e6 7. Nc3 Qd8
+8. Bd3 Nf6 9. O-O Be7 10. Re1 O-O 11. Bg5 Nd5 12. Bxe7 Ncxe7 13. Re5 Nc6
+14. Bxh7+ Kxh7 15. Ng5+ Kg6 16. Nxe6 fxe6 17. Qh5+ Kf6 18. Nxd5+ exd5 19.
+Qf3+
+1/2-1/2
 
