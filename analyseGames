@@ -93,7 +93,7 @@ for line in sys.stdin:
           blackResults[opening] = [ prevCount + 1, prevScore + score, prevNumPerformanceRating + 1, prevPerformanceRating + performanceRating ]
 
 if numOppRating > 0:
-   print ( "\nFor games between %s and %s " % (strMinDate, strMaxDate) )
+   print ( "\nFor games between %s and %s. " % (strMinDate, strMaxDate), end = '' )
    print( "%d games: %d wins: %d draws: %d defeats" % (wins + draws + defeats, wins, draws, defeats) )
    print( "Average Ratings: Mine = %4d Opponents = %4d: Rating change = %3.1f: My Performance Rating = %4d" % \
          (sumMyRating/numMyRating,sumOppRating/numOppRating,sumRatingChange, totPerformanceRating/numPerformanceRating) )
