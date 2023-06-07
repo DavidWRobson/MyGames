@@ -143,6 +143,7 @@ Both players had stopped recording from here on. Black eventually achieved Phili
 [WhiteECF "1450"]
 [BlackECF "1812"]
 [Opening "Sicilian"]
+[Variation "Kings Indian Attack"]
 [Result "0-1"]
 
 1. e4 c5 2. Be2 Nc6 3. d3 Nf6 4. f4 d6 5. Nf3 g6 6. O-O Bg7 7. Qe1 Bg4 8.
@@ -3618,8 +3619,8 @@ Nc4 26. Rxe8 Rxe8+ 27. Kf2 Nxb2 28. Rh1 Nd3+
 [Round "-"]
 [White "Mike Duck"]
 [Black "David Robson"]
-[WhiteECF "157"]
-[BlackECF "131"]
+[WhiteECF "131"]
+[BlackECF "157"]
 [Opening "French"]
 [Variation "Irregular"]
 [Result "1-0"]
@@ -3666,4 +3667,105 @@ a5
 Bf4 Qe7 15. f3 e5 16. Bxc6 exf4 17. Bd5+ Kh8 18. Qxf4 c6 19. fxe4 fxe4 20.
 Qxe4 Qg5+ 21. Rd2 Bf5 22. Qf3 Bg6
 0-1
+
+[Event "Cowley 1 v Wantage 1"]
+[Site "Cowley"]
+[Date "2011.01.31"]
+[Round "-"]
+[White "David Robson"]
+[Black "George Spalding"]
+[WhiteECF "157"]
+[BlackECF "136"]
+[Opening "Vienna"]
+[Variation "Oxford"]
+[Result "0-1"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. fxe5 Nxe4 5. d3 Nxc3 6. bxc3 Nc6 7. Nf3 Bg4
+8. d4 Be7 9. Rb1 Rb8 10. Bd3 O-O 11. O-O Qd7 12. Qe1 Bf5 13. Qg3 Bxd3 14.
+cxd3 Qe6 15. Bf4 Nd8 16. Rb2 b6 17. Nh4 Bxh4 18. Qxh4 Qg6 19. Rf3 Ne6 20.
+Bc1 f5 21. Rg3 Qf7 22. Rf2 c5 23. Rff3 cxd4 24. cxd4 Rbc8 25. Ba3 Rfe8 26.
+Rh3 g6 27. Qf2 Ng5 28. Qe3 Nxh3+ 29. Rxh3 Rc3
+{
+Score confused around here
+}
+30. Rf3 Rec8 31. Rf2
+0-1
+
+[Event "Cowley 2 v Cowley 1"]
+[Site "Cowley"]
+[Date "2011.01.24"]
+[Round "-"]
+[White "Pawel Cichy"]
+[Black "David Robson"]
+[WhiteECF "152"]
+[BlackECF "157"]
+[Opening "French"]
+[Variation "Exchange"]
+[Result "0-1"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nf3 Bf5 5. Bd3 Bxd3 6. Qxd3 Nf6 7. Bg5
+Be7 8. Nbd2 Nbd7 9. O-O O-O 10. Rfe1 c6 11. Ne5 Nxe5 12. Rxe5 Qd7 13. Rae1
+Bd8 14. c3 Qd6 15. Bxf6 Bxf6 16. R5e2 Qd7 17. Nf3 Rae8 18. Ne5 Qc7 19. Ng4
+Qd7 20. Nxf6+ gxf6 21. Qg3+ Kh8 22. Qf4 Re6 23. Rxe6 fxe6 24. Qg4 Re8 25.
+h3 Qf7 26. f4 Qg8 27. Qf3 Qg6 28. f5 exf5 29. Rxe8+ Qxe8 30. Qxf5 Qe1+ 31.
+Kh2 Qe7 32. Kg3 Qe3+ 33. Qf3 Qg5+ 34. Kh2 Kg7 35. Qg3 Kg6 {Score confusedaround here}
+0-1
+
+[Event "Witney 1 v Cowley 1"]
+[Site "Witney"]
+[Date "2011.01.10"]
+[Round "-"]
+[White "David Robson"]
+[Black "Mark Hannon"]
+[WhiteECF "157"]
+[BlackECF "185"]
+[Opening "Sicilian"]
+[Variation "Alapin"]
+[Result "0-1"]
+
+1. e4 c5 2. c3 e5 3. d4 exd4 4. cxd4 cxd4 5. Nf3 Nc6 6. Nxd4 Nf6 7. Nc3 Bb4
+8. Qd3 d5 9. exd5 Qxd5 10. Nxc6 Qxc6 11. Bd2 O-O 12. Qc4 Re8+ 13. Be3 Nd5
+14. Qxc6 bxc6 15. Kd2 Bf5 16. Rc1 Rad8 17. Ke2 Bg4+ 18. Ke1 Nxc3
+0-1
+
+[Event "Cowley 1 v Oxford City 1"]
+[Site "Cowley"]
+[Date "2011.11.01"]
+[Round "-"]
+[White "David Robson"]
+[Black "Karlmarx Rajangam"]
+[WhiteECF "157"]
+[BlackECF "176"]
+[Opening "Sicilian"]
+[Variation "Alapin"]
+[Result "1/2-1/2"]
+
+1. e4 c5 2. c3 d6 3. d4 cxd4 4. cxd4 e6 5. Nc3 a6 6. Nf3 Nf6 7. Bd3 Be7 8.
+O-O Nc6 9. a3 O-O 10. Qe2 e5 11. dxe5 dxe5 12. h3 Be6 13. Rd1 Qb6 14. Bg5
+Rfe8 15. b4 Bb3 16. Bc2 Bxc2 17. Qxc2 Rac8 18. Bxf6 Bxf6 19. Qb3 Na5 20.
+Nd5 Nxb3 21. Nxb6 Nxa1 22. Nxc8 Nc2 23. Nd6 Rd8 24. Rc1 Rxd6 25. Rxc2 g6
+26. Rc7 b6 27. Ra7 b5 28. Kf1 h6 29. Ke2 Kg7 30. Nd2 Rc6 31. Kd3 Bg5 32.
+Nf3 Kf6 33. Nxg5 hxg5 34. Ra8
+1/2-1/2
+
+[Site "Wantage"]
+[Date "2010.10.19"]
+[Round "-"]
+[White "David Robson"]
+[Black "Paul Paxton-Doggett"]
+[Opening "Alekhine"]
+[Variation "Four pawns"]
+[WhiteECF "157"]
+[BlackECF "153"]
+[Result "1/2-1/2"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. f4 dxe5 6. fxe5 Nc6 7. Be3 Bf5 8.
+Nc3 e6 9. Nf3 Be7 10. Be2 O-O 11. O-O f6 12. Qe1 Nb4 13. Rd1 Nc2 14. Qf2
+Nxe3 15. Qxe3 Qc8 16. Nh4 fxe5 17. Nxf5 exf5 18. Qxe5 Bf6 19. Qf4 c5 20. d5
+g6 21. Kh1 Re8 22. Qd2 a6 23. Rf3 Qd8 24. Re1 Bd4 25. Rh3
+{
+Score confused around here
+}
+
+1/2-1/2
 
