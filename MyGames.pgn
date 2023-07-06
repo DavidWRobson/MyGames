@@ -3864,3 +3864,45 @@ Rxe1+ 19. Rxe1 Qg6 20. Nxf5 Qxf5 21. Qg3+ Kf8 22. Qxc7 Re8 23. Rxe8+ Kxe8
 Qd4 30. Ng3 Kg5 31. Qxa6 h5 32. Qa3 Kh6 33. Qe3+
 1-0
 
+[Event "Wantage 2 v Cowey 2"]
+[Site "Wantage"]
+[Date "2010.02.16"]
+[Round "-"]
+[White "George Spalding"]
+[Black "David Robson"]
+[WhiteECF "141"]
+[BlackECF "156"]
+[Opening "French"]
+[Variation "Winawer"]
+[Result "1-0"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Ne2 dxe4 5. a3 Bxc3+ 6. Nxc3 Nc6 7. Bb5 Ne7
+8. Nxe4 O-O 9. c3 e5 10. Be3 exd4 11. cxd4 Bf5 12. Ng3 Bg6 13. O-O Qd6 14.
+Qa4 a6 15. Bxc6 Nxc6 16. Rac1 Ne7 17. Bd2 Nc6 18. Bc3 Qd5 19. Rfe1 Rad8 20.
+Qd1 Rd7 21. Qd2 Rfd8 22. Qf4 Qd6 23. Qe3 h6 24. f4 Qd5 25. Qf2 Ne7 26. Re5
+Qc6 27. Rce1 Nc8 28. f5 f6 29. Re6 Qd5 30. fxg6 Nd6 31. Nf5 Kf8 32. Nxd6
+cxd6 33. Qe3
+1-0
+
+[Event "Cowley 2 v Oxford City 2"]
+[Site "Cowley"]
+[Date "2010.02.08"]
+[Round "-"]
+[White "Raphael Ouvard"]
+[Black "David Robson"]
+[WhiteECF "125"]
+[BlackECF "156"]
+[Opening "French"]
+[Variation "Advance"]
+[Result "0-1"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Be2 cxd4 7. cxd4 Nh6 8.
+O-O Nf5 9. Be3 Qxb2 10. Nbd2 Ncxd4 11. Bxd4 Nxd4 12. Nxd4 Qxd4 13. Bb5+ Bd7
+14. Bxd7+ Kxd7 15. Qb3 Qb4 16. Qd3 b6 17. Qa6 Rc8 18. Rfd1 Bc5 19. Nb3 Rc7
+20. Qe2 Qf4 21. g3 Qf5 22. Nd4 Bxd4 23. Rxd4 Rhc8 24. Rad1 Rc2 25. Qb5+ Ke7
+26. Qb4+ R8c5 27. Rf4 Qxe5 28. Re1 Qc3 29. Qxc3 R5xc3 30. a4 Ra3 31. Rd4
+Kf8 32. Re3 Rxe3 33. fxe3 Rc4 34. Kf2 Ke7 35. Ke2 Kd6 36. Kd3 Kc5 37. Rf4
+Rxf4 38. gxf4 Kb4 39. e4 dxe4+ 40. Kxe4 Kxa4 41. Ke5 b5 42. f5 exf5 43.
+Kxf5 h5 {score confused here but black checkmated on move 48}
+0-1
+
