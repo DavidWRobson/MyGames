@@ -3930,6 +3930,7 @@ gxf4 b6 39. a4 a5+ 40. Kc3 Ke6 41. b3 Kf5 42. Bg3 Ba6
 
 1/2-1/2
 
+[Event "Cowley 2 v Oxford University 2 - Frank Wood Shield"]
 [Site "Cowley"]
 [Date "2010.01.25"]
 [Round "-"]
@@ -4056,4 +4057,47 @@ Game got confused around here.  Black lost on time on move 54
 }
 
 1-0
+
+[Event "Oxford City 2 v Cowley 2"]
+[Site "Oxford City"]
+[Date "2009.10.26"]
+[Round "-"]
+[White "David Robson"]
+[Black "Phil Hayward"]
+[WhiteECF "156"]
+[BlackECF "182"]
+[Opening "Sicilian"]
+[Variation "Alapin"]
+[Result "1/2-1/2"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 e6 5. Nf3 Nf6 6. Be3 cxd4 7. cxd4 Bd7
+8. Nc3 Qa5 9. a3 Bd6 10. Bd3 a6 11. O-O Bc6 12. h3 Nbd7 13. Re1 O-O 14. b4
+Qd8 15. Bg5 Qb8 16. Rc1 b5 17. Qe2 Qb7 18. Ne4 Bxe4 19. Bxe4 Nxe4 20. Qxe4
+Qxe4 21. Rxe4 Rac8 22. Ree1 h6 23. Be3 Nb6 24. Nd2 a5 25. Ne4 Be7 26. Rxc8
+Rxc8 27. bxa5 Nc4 28. Nc5 Nxa3 29. Ra1 b4 30. a6 Ra8 31. Bd2 Nc2 32. Rb1
+Nxd4 33. Bxb4 Nc2 34. Nd3 Nxb4 35. Nxb4 Bxb4 36. Rxb4 Rxa6 37. Rb7 g5 38.
+g3 Kg7 39. Kg2 Ra3 40. Rc7 Kg6 41. Rb7 f6 42. Rb8 Ra2 43. Rc8 h5 44. Rg8+
+{
+Score confused around here
+}
+
+1/2-1/2
+
+[Event "Didcot 1 v Cowley 2"]
+[Site "Didcot"]
+[Date "2009.10.12"]
+[Round "-"]
+[White "Geoff Jackson"]
+[Black "David Robson"]
+[WhiteECF "89"]
+[BlackECF "156"]
+[Opening "French"]
+[Variation "King's Knight"]
+[Result "0-1"]
+
+1. e4 e6 2. Nf3 d5 3. e5 c5 4. b3 Nc6 5. Bb5 Bd7 6. c4 dxc4 7. Bxc4 Nge7 8.
+d4 cxd4 9. Nxd4 Nxe5 10. O-O Nxc4 11. bxc4 Nc6 12. Nxc6 Bxc6 13. Qxd8+ Rxd8
+14. Nc3 Bb4 15. Bb2 Rd2 16. Rab1 O-O 17. Rfd1 Rfd8 18. a3 Bxc3 19. Bxc3
+Rxd1+ 20. Rxd1 Rxd1+
+0-1
 
