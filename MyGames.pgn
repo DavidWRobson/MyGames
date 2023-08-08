@@ -1251,8 +1251,8 @@ is better} Rd4 25. Qc2 {?? Qc3 =} Qxc2 26. Nxc2 Rd1+ 0-1
 [White "William Thomas"]
 [Black "David Robson"]
 [Result "0-1"]
-[WhiteECF "152"]
-[BlackECF "122"]
+[WhiteECF "132"]
+[BlackECF "152"]
 [ECO "A48"]
 [Opening "Grunfeld"]
 [TimeControl "5400+90"]
@@ -2558,7 +2558,7 @@ Score is confused
 [White "David Robson"]
 [Black "Leif Dixon"]
 [Opening "Alekhine"]
-[Variation "Four pawns"]
+[Variation "Four Pawns"]
 [WhiteECF "149"]
 [BlackECF "160"]
 [Result "1/2-1/2"]
@@ -3371,9 +3371,9 @@ Rc8 26. Qg5 Rc6 27. h4 Qc7 28. Kd1 Ba4+ 29. b3 Bb5 30. h5 h6 31. Qd2 Qxe5
 [Date "2012.02.13"]
 [Round "-"]
 [White "David Robson"]
-[Black "Phil Haywood"]
+[Black "Philip Hayward"]
 [Opening "Alekhine"]
-[Variation "Four pawns"]
+[Variation "Four Pawns"]
 [WhiteECF "143"]
 [BlackECF "173"]
 [Result "1/2-1/2"]
@@ -3772,7 +3772,7 @@ Nf3 Kf6 33. Nxg5 hxg5 34. Ra8
 [White "David Robson"]
 [Black "Paul Paxton-Doggett"]
 [Opening "Alekhine"]
-[Variation "Four pawns"]
+[Variation "Four Pawns"]
 [WhiteECF "157"]
 [BlackECF "153"]
 [Result "1/2-1/2"]
@@ -4063,7 +4063,7 @@ Game got confused around here.  Black lost on time on move 54
 [Date "2009.10.26"]
 [Round "-"]
 [White "David Robson"]
-[Black "Phil Hayward"]
+[Black "Philip Hayward"]
 [WhiteECF "156"]
 [BlackECF "182"]
 [Opening "Sicilian"]
@@ -4100,4 +4100,131 @@ d4 cxd4 9. Nxd4 Nxe5 10. O-O Nxc4 11. bxc4 Nc6 12. Nxc6 Bxc6 13. Qxd8+ Rxd8
 14. Nc3 Bb4 15. Bb2 Rd2 16. Rab1 O-O 17. Rfd1 Rfd8 18. a3 Bxc3 19. Bxc3
 Rxd1+ 20. Rxd1 Rxd1+
 0-1
+
+[Event "Cowley 1 v City 1"]
+[Site "Cowley"]
+[Date "2009.11.05"]
+[Round "-"]
+[White "David Robson"]
+[Black "Mike March"]
+[WhiteECF "156"]
+[BlackECF "165"]
+[Opening "Sicilian"]
+[Variation "Alapin"]
+[Result "1-0"]
+
+1. e4 c5 {+0.14/9 4} 2. c3 d5 3. exd5 Qxd5 4. d4 e6 5. Nf3 Nf6 6. Bd3 Nc6
+7. O-O cxd4 8. cxd4 Be7 9. Nc3 Qd6 10. a3 O-O 11. Be3 b6 12. Rc1 Bb7 13.
+Bb1 Rac8 14. Qd3 Rfd8 15. Rfd1 Qb8 16. Qe2 Qa8 17. b4 a5 18. b5 Nb8 19. a4
+Nbd7 20. Ne1 Nd5 21. Bd2 Bf6 22. Qd3 Nf8 23. Ne4 Be7 24. Nf3 Nf6 25. Nxf6+
+Bxf6 26. Rxc8 Rxc8 27. Ne1 Rd8 28. Be3 e5 29. Qc3 Rc8 30. Qd3 e4 31. Qa3
+Bd5 32. Bc2 Qb7 33. Bb3 Ne6 34. Qa2 Rd8 35. Nc2 g6 36. h3 Bxb3 37. Qxb3
+{
+Black lost on time, mainly because he arrived late
+}
+
+1-0
+
+[Event "Oxford City 3 v Cowley 2"]
+[Site "Oxford City"]
+[Date "2009.03.23"]
+[Round "-"]
+[White "Tamil Matilal"]
+[Black "David Robson"]
+[WhiteECF "84"]
+[BlackECF "129"]
+[Opening "English"]
+[Variation "Agincourt Defense"]
+[Result "0-1"]
+
+1. Nf3 Nf6 2. c4 e6 3. g3 c6 4. Bg2 d5 5. b3 Nbd7 6. Bb2 Bd6 7. d4 O-O 8.
+Nbd2 Re8 9. Ne5 Qc7 10. f4 b6 11. e4 Bb7 12. O-O Rad8 {Nxe4 is better} 13. Rc1 Qb8 {again Nxe4 is better} 14. Nxf7
+Kxf7 15. e5 Be7 16. exf6 Nxf6 17. Nf3 Kg8 18. Ng5 Bf8 19. Bh3 Bc8 20. cxd5
+cxd5 21. Re1 Qd6 22. f5 exf5 23. Re5 g6 24. Qe2 Bh6 25. Rxc8 Rxc8 26. Ne6
+Ne4 27. Nf4 Rxe5 28. dxe5 Qc5+ 29. Kf1 Qc2 30. Qxc2 Rxc2 31. Nd3 Rd2 32.
+Bc1 Rd1+ 33. Ke2 Rxc1 34. Nxc1 Bxc1 35. Kd3 Kf7 36. g4 Nf2+ 37. Kc2 Nxh3
+0-1
+
+[Event "Cowley 2 v MBCS 1"]
+[Site "Cowley"]
+[Date "2009.03.02"]
+[Round "-"]
+[White "David Robson"]
+[Black "Matthew Daggitt"]
+[WhiteECF "129"]
+[BlackECF "138"]
+[Opening "French"]
+[Variation "Tarrasch"]
+[Result "0-1"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Ngf3 Nf6 6. c3 Bd6 7. dxc5 Bxc5
+8. Nb3 Bb6 9. Bb5+ Nc6 10. Qe2+ Be6 11. Be3 O-O 12. O-O Re8 13. Nfd4 Qd6
+14. Qf3 Bc7 15. g3 Bg4 16. Qg2 Qd7 17. Rfe1 a6 18. Nc5 Qc8 19. Nxb7
+0-1
+
+[Event "Wantage 2 v Cowley 2"]
+[Site "Wantage"]
+[Date "2009.02.24"]
+[Round "-"]
+[White "David Robson"]
+[Black "George Spalding"]
+[WhiteECF "129"]
+[BlackECF "123"]
+[Opening "Vienna"]
+[Variation "Oxford"]
+[Result "1/2-1/2"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. fxe5 Nxe4 5. d3 Nxc3 6. bxc3 Nc6 7. Nf3 Be7
+8. d4 Bf5 9. Be2 O-O 10. O-O Be4 11. Rb1 Rb8 12. Bd3 Bxd3 13. Qxd3 Na5 14.
+Bf4 Nc4 15. Qf5 Qc8 16. Qh5 Qe6 17. Bg5 Bxg5 18. Nxg5 Qg6 19. Qxg6 hxg6 20.
+Rf2 f6 21. Ne6 Rf7 22. exf6 gxf6 23. Nf4 c6 24. Nxg6 Re8 25. Rbf1 Kg7 26.
+Nf4 Ne3
+{
+Score confused around here
+}
+27. Rf3
+1/2-1/2
+
+[Event "Oxford City 1 v Cowley 1"]
+[Site "Oxford City"]
+[Date "2009.01.26"]
+[Round "-"]
+[White "David Robson"]
+[Black "Karl Biswas"]
+[Opening "Caro Kann"]
+[Variation "Gunderam Attack"]
+[WhiteECF "133"]
+[BlackECF "129"]
+[Result "1-0"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. c5 e5 6. Nc3 exd4 7. Qxd4 Nc6
+8. Bb5 Bd7 9. Bxc6 bxc6 10. Nf3 Qa5 11. b4 Qa6 12. Ne5 Be6 13. a4 Be7 14.
+Rb1 Rc8 15. Bd2 O-O 16. b5 cxb5 17. axb5 Qa3 18. c6 Qc5 19. Be3 Qxd4 20.
+Bxd4 Bd6 21. Ra1 Bb8 22. O-O Ne4 23. Rfc1 Nd2 24. Ra3 Bxe5 25. Bxe5 Nc4 26.
+Rxa7 Nxe5 27. Na4 Ra8 28. b6 Nc4 29. Rxa8 Rxa8 30. b7 Rb8 31. Nc5 Nd6 32.
+c7 Rxb7 33. Nxb7 Nc8 34. Rc6 Kf8 35. Nd6 Ke7 36. Nxc8+ Bxc8 37. Kf1 Kd7 38.
+Rc1 d4 39. Ke2 Ba6+ 40. Kd2 Kc8 41. g3 Kd7 42. h4 f5 43. h5 g6 44. Rc5 d3
+45. f3 Kc8 46. hxg6 hxg6 47. Rc6 Bb7 48. Rxg6 Bxf3 49. Rg7 Be4 50. Re7 Bc6
+51. Kxd3 Bd7 52. Kd4 Kxc7 53. Ke5
+1-0
+
+[Event "Cowley 2 v Bicester 1"]
+[Site "Cowley"]
+[Date "2009.01.12"]
+[Round "-"]
+[White "David Robson"]
+[Black "Marcus Harvey"]
+[WhiteECF "129"]
+[BlackECF "131"]
+[Opening "French"]
+[Variation "Advance"]
+[Result "1-0"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. Qg4 cxd4 5. Nf3 Nc6 6. Bd3 Qc7 7. Qg3 Nb4 8.
+O-O Nxd3 9. cxd3 Ne7 10. h4 Nf5 11. Qf4 Be7 12. Bd2 f6 13. Rc1 Qb6 14. exf6
+Bxf6 15. g4 Nxh4 16. Nxh4 Bxh4 17. g5 Qxb2 18. Qd6 Bd7 19. Re1 Qxa1 20. Qa3
+Rf8 21. Rd1 Rxf2 22. Nc3 Qxd1+ 23. Nxd1 Rxd2 24. Qb3 Rc8 25. Qb1 Rcc2 26.
+g6 hxg6 27. a3 e5 28. a4 Rg2+ 29. Kh1 Rh2+ 30. Kg1 Rcg2+ 31. Kf1 Bh3 32.
+Qb5+ Kf8 33. Nf2 Rxf2+ 34. Kg1 Rfg2+
+1-0
 
