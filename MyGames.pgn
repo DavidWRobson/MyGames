@@ -1,5 +1,26 @@
-[Event "Cowley 3 v Cowley 2"]
+[Event "Cowley 2 v Cumnor 2"]
 [Site "Rose Hill Methodist Church, Rose Hill, Oxford"]
+[Date "2023.10.09"]
+[Round "-"]
+[White "Man Chiu Hsin"]
+[Black "David Robson"]
+[WhiteECF "1772"]
+[BlackECF "1813"]
+[Opening "Larsen"]
+[Result "0-1"]
+
+1. b3 d5 2. Bb2 Nf6 3. f4 Bf5 4. Nf3 e6 5. e3 Be7 6. Be2 O-O 7. Nc3 h6 8.
+O-O c5 9. Na4 Nc6 10. Ne5 Rc8 11. Bd3 Ne4 12. Nxc6 Rxc6 13. Nc3 Nxc3 14.
+Bxc3 Bxd3 15. cxd3 Bf6 16. Qc2 Qe7 17. Rac1 Rd8 18. Bxf6 Qxf6 19. Rf3 b6
+20. Qc3 Qe7 21. d4 Rdc8 22. Rff1 Qc7 23. Qb2 c4 24. Rc2 c3 25. dxc3 Rxc3
+26. Rxc3 Qxc3 27. Qxc3 Rxc3 28. Kf2 Rc2+ 29. Kf3 Rxa2 30. Rc1 Kf8 31. h4 h5
+32. g4 hxg4+ 33. Kxg4
+{
+Score confused around here
+}
+
+0-1
+[Event "Cowley 3 v Cowley 2"]
 [Date "2023.09.21"]
 [Round "-"]
 [White "David Robson"]
