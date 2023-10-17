@@ -1,3 +1,24 @@
+[Event "Cowley 2 v Banbury 2"]
+[Site "Rose Hill Methodist Church, Rose Hill, Oxford"]
+[Date "2023.10.16"]
+[Round "-"]
+[White "Francesco Poderico"]
+[Black "David Robson"]
+[WhiteECF "1664"]
+[BlackECF "1813"]
+[Opening "Caro Kann"]
+[Variation "Exchange"]
+[Result "0-1"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nc6 5. c3 Qc7 6. g3 e6 {? e5 is much better} 7. Bf4 Qb6 8.
+Qb3 Qxb3 9. axb3 Nge7 10. Bd6 Bd7 11. f4 Rc8 12. Nf3 g6 13. Nbd2 a6 14. O-O
+Bg7 15. Ne5 f6 16. Nxc6 Nxc6 17. Rfe1 Kf7 18. Nf3 Rhe8 19. b4 Nd8 20. b5
+axb5 21. Ra5 Nc6 22. Rxb5 Nd8 23. Ra5 Bf8 24. Bxf8 Kxf8 25. Rea1 Nc6 26.
+R5a3 Kg7 27. Kf2 Kf7 28. Ke2 e5 29. fxe5 fxe5 30. dxe5 Bg4 31. Kd2 Bxf3 32.
+Rf1 Nxe5 33. Be2 Kg7 34. Bxf3 Nc4+ 35. Kd3 Nxa3 36. bxa3 Rf8 37. Bg4 Rxc3+
+38. Kxc3 Rxf1 39. Kd4 Ra1
+0-1
+
 [Event "Cowley 2 v Cumnor 2"]
 [Site "Rose Hill Methodist Church, Rose Hill, Oxford"]
 [Date "2023.10.09"]
