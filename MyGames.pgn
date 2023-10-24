@@ -1,3 +1,4 @@
+[Event "Didcot 2 v Cowley 2"]
 [Site "Didcot"]
 [Date "2023.10.23"]
 [Round "-"]
@@ -9,7 +10,7 @@
 [Variation "Exchange"]
 [Result "0-1"]
 
-1. Nf3 d5 2. e4 c6 3. exd5 cxd5 4. d4 Nf6 5. Bd3 Bg4 6. c3 e6 7. Bf4 Be7 8.
+1. Nf3 d5 2. e4 c6 3. exd5 cxd5 4. d4 Nf6 5. Bd3 Bg4 6. c3 e6 7. Bf4 Be7 {Aronian beat Nakamura with 7. ... Nc6} 8.
 Bxb8 Bxf3 9. gxf3 Qxb8 10. Qa4+ Nd7 11. Nd2 a6 12. Qc2 g6 13. O-O-O O-O 14.
 h4 Nf6 15. Rdg1 Nh5 16. Kb1 b5 17. Nf1 Nf4 18. h5 Nxd3 19. hxg6 fxg6 20.
 Qxd3 Qe8 21. Qe3 Qf7 22. Rh6 Qf5+ 23. Ka1 Rf7 24. a3 a5 25. f4 Qxf4 26.
