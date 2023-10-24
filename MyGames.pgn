@@ -1,3 +1,23 @@
+[Site "Didcot"]
+[Date "2023.10.23"]
+[Round "-"]
+[White "Andrew Robins"]
+[Black "David Robson"]
+[WhiteECF "1847"]
+[BlackECF "1813"]
+[Opening "Caro Kann"]
+[Variation "Exchange"]
+[Result "0-1"]
+
+1. Nf3 d5 2. e4 c6 3. exd5 cxd5 4. d4 Nf6 5. Bd3 Bg4 6. c3 e6 7. Bf4 Be7 8.
+Bxb8 Bxf3 9. gxf3 Qxb8 10. Qa4+ Nd7 11. Nd2 a6 12. Qc2 g6 13. O-O-O O-O 14.
+h4 Nf6 15. Rdg1 Nh5 16. Kb1 b5 17. Nf1 Nf4 18. h5 Nxd3 19. hxg6 fxg6 20.
+Qxd3 Qe8 21. Qe3 Qf7 22. Rh6 Qf5+ 23. Ka1 Rf7 24. a3 a5 25. f4 Qxf4 26.
+Qxe6 Qxh6 27. Ne3 b4 28. Nxd5 Qf8 29. f4 Rd8 30. f5 Rd6 31. Nxe7+ Qxe7 32.
+Qc8+ Rd8 33. Qc4 bxc3 34. fxg6 cxb2+ 35. Kxb2 hxg6 36. Rxg6+ Kf8 37. Rg2
+Rb8+
+0-1
+
 [Event "Cowley 2 v Banbury 2"]
 [Site "Rose Hill Methodist Church, Rose Hill, Oxford"]
 [Date "2023.10.16"]
