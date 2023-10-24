@@ -10,7 +10,7 @@
 [Variation "Exchange"]
 [Result "0-1"]
 
-1. Nf3 d5 2. e4 c6 3. exd5 cxd5 4. d4 Nf6 5. Bd3 Bg4 6. c3 e6 7. Bf4 Be7 {Aronian beat Nakamura with 7. ... Nc6} 8.
+1. Nf3 d5 2. e4 { Tennison Gambit  } c6 3. exd5 cxd5 4. d4 {Now transposed to a Caro Kann Exchange } Nf6 5. Bd3 Bg4 6. c3 e6 7. Bf4 Be7 {Aronian beat Nakamura with 7. ... Nc6} 8.
 Bxb8 Bxf3 9. gxf3 Qxb8 10. Qa4+ Nd7 11. Nd2 a6 12. Qc2 g6 13. O-O-O O-O 14.
 h4 Nf6 15. Rdg1 Nh5 16. Kb1 b5 17. Nf1 Nf4 18. h5 Nxd3 19. hxg6 fxg6 20.
 Qxd3 Qe8 21. Qe3 Qf7 22. Rh6 Qf5+ 23. Ka1 Rf7 24. a3 a5 25. f4 Qxf4 26.
@@ -4340,4 +4340,65 @@ Rf4 Ng4 15. h3 Nf2+ 16. Rxf2 Qxf2 17. Nxd4 Qxd4 18. Bc2 O-O 19. Nf3 Qxd1+
 Score confused around here
 }
 0-1
+
+[Event "Cowley 1 v Wantage 1"]
+[Site "Cowley"]
+[Date "2008.12.09"]
+[Round "-"]
+[White "David Robson"]
+[Black "Paul Paxton-Doggett"]
+[WhiteECF "129"]
+[BlackECF "138"]
+[Opening "Alekhine"]
+[Variation "Four Pawns Attack"]
+[Result "1/2-1/2"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. f4 dxe5 6. fxe5 Nc6 7. Be3 Bf5 8.
+Nc3 e6 9. Nf3 f6 10. Be2 Qd7 11. O-O Be7 12. Qe1 Nb4 13. Rd1 Nc2 14. Qd2
+Nxe3 15. Qxe3 O-O 16. a3 c6 17. Ne4 Bxe4 18. Qxe4 f5 19. Qf4 h6 20. h4 Qd8
+21. h5 Qe8 22. Nh4 Bxh4 23. Qxh4 Qd8 24. Qg3 Qg5 25. Rf3 Qxh5 26. Kf2 Qg5
+27. Qh3 Kh8 28. Rh1 Rf7 29. b3 Re8 30. a4 Nd7 31. c5 b6 32. b4 Qd2 33. Rd3
+Qxb4 34. Bh5 Ree7 35. Bxf7 Rxf7 36. Qh5 Re7 37. cxb6 axb6 38. Qh4 Nf8 39.
+Rg3
+{
+=
+}
+
+[Event "Cowley 2 v Oxford City 2"]
+[Site "Cowley"]
+[Date "2008.12.08"]
+[Round "-"]
+[White "David Robson"]
+[Black "John Yates"]
+[WhiteECF "129"]
+[BlackECF "130"]
+[Opening "French"]
+[Variation "Rubenstein"]
+[Result "1-0"]
+
+1. e4 e6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Bd3 Ngf6 6. Nf3
+Nxe4 7. Bxe4 Nf6 8. Bd3 Be7 9. Bf4 a6 10. Ne5 c5 11. c3 Bd7 12. O-O Rc8 13.
+Qe2 b5 14. Rad1 Bc6 15. dxc5 Nd5 16. Be3 Ba8 17. Qg4 Bf6 18. Qg3 Qc7 19.
+Bd4 Rd8 20. Rfe1 h6 21. a3 Ne7 22. Qg4 Bd5 23. b4 Nc6 24. Nf3 Bxf3 25. Qxf3
+Nxd4 26. cxd4 Bxd4 27. Rxe6+ Kf8 28. Rxa6
+1-0
+
+[Event "MBCS/1 v Cowley 2"]
+[Site "Magdalen College School"]
+[Date "2008.11.26"]
+[Round "-"]
+[White "David Robson"]
+[Black "John Place"]
+[WhiteECF "129"]
+[BlackECF "131"]
+[Opening "Sicilian"]
+[Variation "Alapin"]
+[Result "1/2-1/2"]
+
+1. e4 c5 {+0.12/9 6} 2. c3 d5 3. exd5 Qxd5 4. d4 Nc6 5. Nf3 Bg4 6. Be2 e6
+7. O-O Nf6 8. Be3 cxd4 9. cxd4 Bb4 10. a3 Ba5 11. Nc3 Bxc3 12. bxc3 O-O 13.
+Rb1 b6 14. Re1 Qa5 15. Qb3 Rac8 16. h3 Bxf3 17. Bxf3 Ne7 18. Bd2 Ng6 19.
+Rb2 Qf5 20. Qa4 Rc7 21. Rd1 Nh4 22. Be2 Ne4 23. Bf1 Nxc3 24. Bxc3 Rxc3 25.
+Qxa7 Qe4
+1/2-1/2
 
