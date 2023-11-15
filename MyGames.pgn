@@ -1,3 +1,50 @@
+[Event "Wantage 1 v Cowley 1"]
+[Site "Wantage"]
+[Date "2023.11.14"]
+[Round "-"]
+[White "David Robson"]
+[Black "Andrew Robbings"]
+[WhiteECF "1847"]
+[BlackECF "1979"]
+[Opening "French"]
+[Variation "Advance"]
+[Result "0-1"]
+
+1. e4 e6 2. d4 d5 3. e5 Qd7 4. Bd3 b6 5. Qe2 a5 6. Nf3 Ba6 7. O-O h5 8. Bg5
+Be7 9. Nbd2 Bxd3 10. Qxd3 h4 11. h3 Bxg5 12. Nxg5 Ne7 13. Rfe1 Nf5 14. Nf1
+Nc6 15. c3 Nce7 16. Ne3 c5 17. Rad1 c4 18. Qe2 Rb8 19. a3 b5 20. Ra1 Qd8
+21. Nf3 Rb7 22. Ra2 g6 23. Nh2 Nh6 24. Nhg4 Neg8 25. Qf3 Nxg4 26. Nxg4 Qg5
+27. Raa1 Qf5 28. Qxf5 gxf5 29. Nh2 Ne7 30. Nf3 Ng6 31. Re3 f4 32. Re2 Ke7
+33. Kh2 Rhb8 34. Ree1 b4 35. axb4 axb4 36. Rec1 bxc3 37. bxc3 Rb2 38. Ra7+
+R8b7 39. Rca1 Kf8 40. Rxb7 Rxb7 41. Rc1 Rb2 42. Kg1 Kg7 43. Nh2 Nf8 44. Nf3
+Ng6 45. Kf1 Kh6 46. Ne1 Kg5 47. Rc2 Rb3 48. Ke2 Kf5 49. Nf3 f6 50. exf6
+Kxf6 51. Kd2 e5 52. dxe5+ Nxe5 53. Nxe5 Kxe5 54. Ke2 Ke4 55. g3 fxg3 56.
+fxg3 hxg3 57. h4 Rb1 58. Rd2 g2
+0-1
+
+[Event "Oxford University 1 v Cowley 1"]
+[Site "Magdalen College, Oxford"]
+[Date "2023.11.13"]
+[Round "-"]
+[White "Astharva Parulekar"]
+[Black "David Robson"]
+[WhiteECF "1702"]
+[BlackECF "1847"]
+[Opening "Caro Kann"]
+[Variation "Exchange"]
+[Result "1/2-1/2"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nc6 5. c3 Qc7 6. h3 e6 7. Nf3 Bd6 8.
+Be3 Nf6 9. Nbd2 Bd7 10. Qc2 h6 11. a3 Na5 12. b4 Nc4 13. Bxc4 dxc4 14. Rd1
+O-O 15. Ne5 b5 16. Nxd7 Qxd7 17. Ne4 Nxe4 18. Qxe4 Qc7 19. O-O a6 20. f4
+Rae8 21. Rde1 Qd7 22. Qf3 Be7 23. Qg4 Kh7 24. Rd1 Qd5 25. Rfe1 Bf6 26. Bf2
+Qd8 27. Qf3 Qd5
+{
+=
+}
+
+1/2-1/2
+
 [Event "Didcot 2 v Cowley 2"]
 [Site "Didcot"]
 [Date "2023.10.23"]
@@ -5,7 +52,7 @@
 [White "Andrew Robins"]
 [Black "David Robson"]
 [WhiteECF "1847"]
-[BlackECF "1813"]
+[BlackECF "1822"]
 [Opening "Caro Kann"]
 [Variation "Exchange"]
 [Result "0-1"]
@@ -26,7 +73,7 @@ Rb8+
 [White "Francesco Poderico"]
 [Black "David Robson"]
 [WhiteECF "1664"]
-[BlackECF "1813"]
+[BlackECF "1822"]
 [Opening "Caro Kann"]
 [Variation "Exchange"]
 [Result "0-1"]
@@ -47,7 +94,7 @@ Rf1 Nxe5 33. Be2 Kg7 34. Bxf3 Nc4+ 35. Kd3 Nxa3 36. bxa3 Rf8 37. Bg4 Rxc3+
 [White "Man Chiu Hsin"]
 [Black "David Robson"]
 [WhiteECF "1772"]
-[BlackECF "1813"]
+[BlackECF "1822"]
 [Opening "Larsen"]
 [Result "0-1"]
 
@@ -4423,4 +4470,22 @@ Score confused around here
 }
 
 0-1
+
+[Event "Cowley 2 v Wantage 2"]
+[Site "Cowley"]
+[Date "2008.11.10"]
+[Round "-"]
+[White "Martin E Ashford"]
+[Black "David Robson"]
+[WhiteECF "125"]
+[BlackECF "129"]
+[Opening "Bogo Indian"]
+[Result "1-0"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 Bb4+ 4. Bd2 Qe7 5. Nc3 O-O 6. e3 d6 7. Bd3 e5 8.
+dxe5 dxe5 9. e4 Bg4 10. O-O a5 11. h3 Bh5 12. a3 Rd8 13. Qe2 Bc5 14. Nd5
+Nxd5 15. cxd5 c6 16. Bc4 Qf6 17. g4 Bg6 18. Bg5 Qd6 19. Bxd8 Qxd8 20. Nxe5
+Nd7 21. Nxg6 hxg6 22. dxc6 bxc6 23. Rad1 Qe7 24. Rd2 Rb8 25. Rfd1 Qe5 26.
+Rxd7 Rxb2 27. R7d2 Qg3+ 28. Kf1 Qxh3+ 29. Ke1 Qh1+ 30. Qf1 Qxe4+
+1-0
 
