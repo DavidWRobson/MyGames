@@ -1,3 +1,28 @@
+[Event "Witney 1 v Cowley 1"]
+[Site "Ducklington Hall"]
+[Date "2023.11.20"]
+[Round "-"]
+[White "David Robson"]
+[Black "David Hacket"]
+[WhiteECF "1847"]
+[BlackECF "2053"]
+[Opening "Sicilian"]
+[Variation "Alapin"]
+[Result "1/2-1/2"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 e6 5. Bc4 Nb6 6. Bb3 Nc6 7. Nf3 d6 8.
+Qe2 d5 9. Bg5 f6 10. exf6 gxf6 11. Bh4 c4 12. Bc2 Be7 13. Nbd2 Qc7 14. b3
+cxb3 15. axb3 Nxd4 16. Nxd4 Qxc3 17. Qh5+ Kd8 18. O-O Qxd4 19. Nf3 Qb4 20.
+Qf7 Rf8 21. Qxh7 Bd7 22. Rfd1 e5 23. Bf5 Qd6 24. Rdc1 Rc8 25. Bg3 d4 26.
+Be4 Rxc1+ 27. Rxc1 Bc6 28. Bxc6 bxc6 29. Qe4 Qd5 30. Qc2 c5 31. Ra1 Nc8 32.
+h4 Bd6 33. Nd2 f5 34. f3 Qg8 35. Bh2 Qg7 36. Nc4 e4 37. Bxd6 d3 38. Be5
+Qxe5 39. Nxe5 dxc2 40. Rc1 Re8 41. f4
+{
+Both sidesdown to last three minutes.  After a few more moves, Black offered the draw
+}
+
+1/2-1/2
+
 [Event "Wantage 1 v Cowley 1"]
 [Site "Wantage"]
 [Date "2023.11.14"]
@@ -3021,7 +3046,7 @@ Score confused around here
 [Date "2013.12.09"]
 [Round "-"]
 [White "David Robson"]
-[Black "Dave Hackett"]
+[Black "David Hackett"]
 [WhiteECF "148"]
 [BlackECF "183"]
 [Opening "Sicilian"]
@@ -4330,8 +4355,8 @@ Score confused around here
 [Black "Karl Biswas"]
 [Opening "Caro Kann"]
 [Variation "Gunderam Attack"]
-[WhiteECF "133"]
-[BlackECF "129"]
+[WhiteECF "129"]
+[BlackECF "133"]
 [Result "1-0"]
 
 1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. c5 e5 6. Nc3 exd4 7. Qxd4 Nc6
@@ -4349,13 +4374,13 @@ Rc1 d4 39. Ke2 Ba6+ 40. Kd2 Kc8 41. g3 Kd7 42. h4 f5 43. h5 g6 44. Rc5 d3
 [Site "Cowley"]
 [Date "2009.01.12"]
 [Round "-"]
-[White "David Robson"]
-[Black "Marcus Harvey"]
-[WhiteECF "129"]
-[BlackECF "131"]
+[White "Marcus Harvey"]
+[Black "David Robson"]
+[WhiteECF "131"]
+[BlackECF "129"]
 [Opening "French"]
 [Variation "Advance"]
-[Result "1-0"]
+[Result "0-1"]
 
 1. e4 e6 2. d4 d5 3. e5 c5 4. Qg4 cxd4 5. Nf3 Nc6 6. Bd3 Qc7 7. Qg3 Nb4 8.
 O-O Nxd3 9. cxd3 Ne7 10. h4 Nf5 11. Qf4 Be7 12. Bd2 f6 13. Rc1 Qb6 14. exf6
@@ -4487,5 +4512,67 @@ dxe5 dxe5 9. e4 Bg4 10. O-O a5 11. h3 Bh5 12. a3 Rd8 13. Qe2 Bc5 14. Nd5
 Nxd5 15. cxd5 c6 16. Bc4 Qf6 17. g4 Bg6 18. Bg5 Qd6 19. Bxd8 Qxd8 20. Nxe5
 Nd7 21. Nxg6 hxg6 22. dxc6 bxc6 23. Rad1 Qe7 24. Rd2 Rb8 25. Rfd1 Qe5 26.
 Rxd7 Rxb2 27. R7d2 Qg3+ 28. Kf1 Qxh3+ 29. Ke1 Qh1+ 30. Qf1 Qxe4+
+1-0
+
+[Event "Bicester 2 v Cowley 3"]
+[Site "Bicester"]
+[Date "2008.10.28"]
+[Round "-"]
+[White "David Robson"]
+[Black "Paul Trewhela"]
+[WhiteECF "129"]
+[BlackECF "119"]
+[Opening "Vienna"]
+[Result "0-1"]
+
+1. e4 e5 2. Nc3 Bc5 3. f4 exf4 4. Nf3 Be7 5. Bc4 Bh4+ 6. Kf1 d6 7. d4 Be6
+8. Be2 Nd7 9. Nxh4 Qxh4 10. d5 Ngf6 11. dxe6 fxe6 12. Qe1 Qg5 13. Qf2 Ng4
+14. Qxf4 Qxf4+ 15. Bxf4 O-O 16. Bxg4 Rxf4+ 17. Bf3 Ne5 18. Ke2 c6 19. b3 d5
+20. Raf1 d4 21. Na4 Nd7 22. g3 Rf7 23. Bg4 Re7 24. Rf2 b5 25. Nb2 Nf6 26.
+Bf3 e5 27. Nd3 Rf8 28. h3 c5 29. Bg2 Nd7 30. Rf5 c4 31. Rg5
+0-1
+
+[Event "Cowley 2 v Witney 1"]
+[Site "Witney"]
+[Date "2008.10.14"]
+[Round "-"]
+[White "David Robson"]
+[Black "Johannes Lindvall"]
+[WhiteECF "129"]
+[BlackECF "164"]
+[Opening "French"]
+[Variation "Tarrasch"]
+[Result "1/2-1/2"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. c3 c5 6. Bd3 Nc6 7. Ne2 f6 8.
+exf6 Nxf6 9. Nf3 cxd4 10. cxd4 Qb6 11. O-O Bd6 12. Nc3 O-O 13. Re1 Bd7 14.
+Bg5 Kh8 15. Bc2 Ne7 16. Qd3 Ng6 17. h4 Rae8 18. Bxf6 Rxf6 19. h5 Nf8 20.
+Ng5 Rf5 21. Nxh7 Rxh5 22. Nxf8 Rxf8 23. Re3 Qd8 24. Rh3 Qg5 25. Re1 Bf4 26.
+Rxh5+ Qxh5 27. g3 Bd6 28. Kg2 Qf5 29. Qe2 Qg5
+{
+Score confused here.  Game drawn on the 36th move.
+}
+
+1/2-1/2
+
+[Event "Bicester 1 v Cowley 2"]
+[Site "Bicester"]
+[Date "2008.10.07"]
+[Round "-"]
+[White "Marcus Harvey"]
+[Black "David Robson"]
+[WhiteECF "131"]
+[BlackECF "129"]
+[Opening "French"]
+[Variation "Advance"]
+[Result "1-0"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. Qg4 Nc6 5. Nf3 cxd4 6. Bd3 Qc7 7. O-O Bd7 8.
+Re1 Nge7 9. Nxd4 Ng6 10. Nb5 Qb8 11. Bxg6 hxg6 12. Bf4 Qd8 13. N1c3 a6 14.
+Nd6+ Bxd6 15. exd6
+{
+Game score confused here
+}
+
 1-0
 
