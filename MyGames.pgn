@@ -1,3 +1,29 @@
+[Event "Cowley 2 v Witney 2"]
+[Site "Cowley"]
+[Date "2024.01.08"]
+[Round "-"]
+[White "Matt Holmes"]
+[Black "David Robson"]
+[WhiteECF "1837"]
+[BlackECF "1813"]
+[Opening "Slav"]
+[Variation "Exchange"]
+[Result "1-0"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 c6 4. cxd5 cxd5 5. Nc3 a6 6. Bf4 Nc6 7. Rc1 Bf5
+8. e3 e6 9. Qb3 Ra7 10. Be2 Be7 11. O-O O-O 12. Ne5 Nxe5 13. Bxe5 b5 14. a4
+b4 15. Nb1 Bd6 16. Rc6 Bxe5 17. dxe5 Nd7 18. f4 a5 19. Nd2 Rc7 20. Rfc1
+Rxc6 21. Rxc6 Qb8 22. Qd1 Rc8 23. Qc1 Nb6 ?! 24. Nb3 Qb7 ?? { Should have played 24 ... Rxc6 25. Qxc6 Nc4 26. Bxc4 dc} ]25. Rxc8+ Qxc8 26.
+Qxc8+ Nxc8 27. Nxa5 Bc2 28. b3 Kf8 29. Kf1 Ke7 30. Ke1 Kd7 31. Kd2 Be4 32.
+Bb5+ Kc7 33. Nc6 Bxg2 34. Nxb4 Na7 35. Be8 f6 36. exf6 gxf6 37. Kc3 e5 38.
+fxe5 fxe5 39. Bf7 Kd6 40. Nd3 Be4 41. Nf2 Bf3 42. b4 Nc8 43. a5 Na7 44. Be8
+Be2
+{
+White won in the following time scramble
+}
+
+1-0
+
 [Event "Oxfordshire A v Berkshire A"]
 [Site "Cumnor Old School"]
 [Date "2023.12.02"]
@@ -105,7 +131,7 @@ fxg3 hxg3 57. h4 Rb1 58. Rd2 g2
 [Round "-"]
 [White "Astharva Parulekar"]
 [Black "David Robson"]
-[WhiteECF "1702"]
+[WhiteECF "1861"]
 [BlackECF "1847"]
 [Opening "Caro Kann"]
 [Variation "Exchange"]
@@ -4627,4 +4653,29 @@ Game score confused here
 }
 
 1-0
+
+[Event "Cowley 1 v Oxford City 1"]
+[Site "Cowley"]
+[Date "2008.10.06"]
+[Round "-"]
+[White "David Robson"]
+[Black "John Yates"]
+[WhiteECF "129"]
+[BlackECF "130"]
+[Opening "French"]
+[Variation "Tarrasch"]
+[Result "1-0"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 cxd4 8.
+cxd4 Qb6 9. Nf3 Be7 10. O-O Nf8 11. Nc3 Bd7 12. Be3 h6 13. a3 Nh7 14. Qd2
+a6 15. b4 Na7 16. Rfb1 Nb5 17. Na4 Qd8 18. Nc5 Bc6 19. Rc1 Ng5 20. Nxg5
+hxg5 21. a4 Nc7 22. Qb2 g4 23. Qe2 Bxc5 24. Rxc5 Rh5 25. Qxg4 Qh4 26. Qxh4
+Rxh4 27. g3 Rh8 28. Kg2 Kd7 29. Rac1 Rhc8 30. b5 axb5 31. axb5 Nxb5 32.
+Bxb5 Bxb5 33. Rxb5 Rxc1 34. Bxc1 Rb8 35. Ba3 Kc6
+{
+Score confused around here
+}
+
+1-0
+
 
