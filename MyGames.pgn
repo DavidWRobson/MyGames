@@ -1,3 +1,20 @@
+[Event "Oxfordshire v Hampshire"]
+[Site "Cumnor Village Hall"]
+[Date "2024.02.17"]
+[White "Kevin Steele"]
+[Black "David Robson"]
+[WhiteECF "1776"]
+[BlackECF "1837"]
+[Opening "Caro Kann"]
+[Variation "Exchange"]
+[Result "0-1"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c3 Qc7 5. Nf3 Nc6 6. Be2 Bg4 7. Nbd2 Nf6
+8. O-O e6 9. Re1 Bd6 10. Nf1 Ne4 11. Ng5 Bxe2 12. Nxe6 Bxd1 13. Nxc7+ Bxc7
+14. Rxd1 Kd7 15. Ne3 Ne7 16. f3 Nf6 17. Nc2 h6 18. Nb4 Rhe8 19. Bd2 Nf5 20.
+g3 Re2 21. Nd3 g5 22. Rac1 Rae8 23. Nc5+ Kc8 24. Nb3 Nd6 25. Rc2 Nc4 26.
+Nc1 Rxd2 27. Rdxd2 Nxd2 28. b3 Nxf3+ 29. Kf2 g4
+
 [Event "Cowley 2 v Witney 2"]
 [Site "Cowley"]
 [Date "2024.01.08"]
@@ -4677,5 +4694,4 @@ Score confused around here
 }
 
 1-0
-
 
