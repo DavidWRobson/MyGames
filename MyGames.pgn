@@ -1,3 +1,22 @@
+[Site "Abingdon School"]
+[Date "2024.02.26"]
+[Round "-"]
+[White "David Robson"]
+[Black "Alex Fortana"]
+[WhiteECF "1837"]
+[BlackECF "1548"]
+[Opening "Vienna"]
+[Result "0-1"]
+
+1. e4 e5 2. Nc3 Nc6 3. f4 Bc5 4. Nf3 d6 5. Bb5 Bg4 6. h3 Bxf3 7. Qxf3 Nf6
+8. Na4 Bb6 9. Nxb6 axb6 10. d3 O-O 11. Bxc6 bxc6 12. fxe5 Nd7 13. exd6 Ne5
+14. Qg3 cxd6 15. O-O Re8 16. Bh6 Ng6 17. Bg5 Qd7 18. a3 Re5 19. Be3 c5 20.
+Rf2 d5 21. Bf4 Re6 22. exd5 Qxd5 23. Bd2 Rae8 24. Raf1 Ne5 25. Bc3 Rg6 26.
+Qh4 f6 27. Qf4 Nf7 28. Qa4 Nd6 29. Re1 Rxe1+ 30. Bxe1 b5 31. Qf4 h6 32. Re2
+c4 33. Rd2 Qc6 34. d4 Nf7 35. Re2 Ng5 36. Kh2 f5 37. h4 Ne6 38. Qxf5 Nxd4
+39. Qf2 Nxe2 40. Qxe2 Re6 41. Qf2 Qd6+ 42. Kg1 Qd1
+0-1
+
 [Event "Oxfordshire v Hampshire"]
 [Site "Cumnor Village Hall"]
 [Date "2024.02.17"]
@@ -14,6 +33,8 @@
 14. Rxd1 Kd7 15. Ne3 Ne7 16. f3 Nf6 17. Nc2 h6 18. Nb4 Rhe8 19. Bd2 Nf5 20.
 g3 Re2 21. Nd3 g5 22. Rac1 Rae8 23. Nc5+ Kc8 24. Nb3 Nd6 25. Rc2 Nc4 26.
 Nc1 Rxd2 27. Rdxd2 Nxd2 28. b3 Nxf3+ 29. Kf2 g4
+
+0-1
 
 [Event "Cowley 2 v Witney 2"]
 [Site "Cowley"]
