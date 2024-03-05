@@ -1,3 +1,21 @@
+[Event "Cowley 2 v Didcot 2"]
+[Site "Cowley"]
+[Date "2024.03.04"]
+[Round "-"]
+[White "John Harvey"]
+[Black "David Robson"]
+[WhiteECF "1696"]
+[BlackECF "1827"]
+[Opening "Kings Indian Attack"]
+[Variation "Wahls Defence"]
+[Result "0-1"]
+
+1. Nf3 d5 2. g3 Nf6 3. Bg2 g6 4. d3 Bg7 5. O-O O-O 6. Re1 c5 7. Nbd2 Nc6 8.
+e4 e6 9. exd5 exd5 10. Nb3 b6 11. c3 h6 12. Qc2 Bf5 13. Qd1 Qd7 14. Nh4 Bg4
+15. Nf3 Rae8 16. Rxe8 Rxe8 17. Bd2 Qf5 18. d4 Ne4 19. Be3 g5 20. Rc1 c4 21.
+Nbd2 Nxd2 22. Bxd2 Re6 23. Be3 Rf6 24. Nh4 gxh4
+1-0
+
 [Event "Banbury 1 v  Cowley 1"]
 [Site "Banbury"]
 [Date "2024.02.29"]
@@ -4443,6 +4461,26 @@ Ne4 27. Nf4 Rxe5 28. dxe5 Qc5+ 29. Kf1 Qc2 30. Qxc2 Rxc2 31. Nd3 Rd2 32.
 Bc1 Rd1+ 33. Ke2 Rxc1 34. Nxc1 Bxc1 35. Kd3 Kf7 36. g4 Nf2+ 37. Kc2 Nxh3
 0-1
 
+[Event "Oxford City 2 v Cowley 2"]
+[Site "Oxford City"]
+[Date "2009.03.16"]
+[Round "-"]
+[White "David Robson"]
+[Black "Karlmarx Rajangam"]
+[WhiteECF "129"]
+[BlackECF "UNG"]
+[Opening "Sicilian"]
+[Variation "Alapin"]
+[Result "1-0"]
+
+1. e4 c5 2. c3 d6 3. d4 cxd4 4. cxd4 a6 5. Nf3 Nf6 6. Nc3 e6 7. Bd3 Be7 8.
+O-O b5 9. a3 Bb7 10. Qe2 O-O 11. Rd1 Nfd7 12. Bf4 f6 13. Rac1 e5 14. Be3
+Qe8 15. Bb1 Qh5 16. Ba2+ Kh8 17. Nd5 Bd8 18. Qd3 Qg4 19. h3 Qh5 20. Rc3 Nc6
+21. Rdc1 exd4 22. Nxd4 Nc5 23. Qc2 Nxd4 24. Bxd4 Na4 25. Rg3 Rc8 26. Qd2
+Nc5 27. Qe3 Qe8 28. Re1 Ne6 29. Bc3 Nc7 30. Qd4 Ne6 31. Qe3 Bxd5 32. exd5
+Nc5 33. Bb1 Qf7 34. Qf4
+1-0
+
 [Event "Cowley 2 v MBCS 1"]
 [Site "Cowley"]
 [Date "2009.03.02"]
@@ -4734,5 +4772,24 @@ Bxb5 Bxb5 33. Rxb5 Rxc1 34. Bxc1 Rb8 35. Ba3 Kc6
 Score confused around here
 }
 
+1-0
+
+[Event "MCSB/1 v Cowley "]
+[Site "Magdalene College School"]
+[Date "2008.04.01"]
+[Round "-"]
+[White "Mike Kimber"]
+[Black "David Robson"]
+[Opening "Two Knights Tango"]
+[Variation "3 e3"]
+[WhiteECF "140"]
+[BlackECF "122"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 Nc6 3. e3 e5 4. d5 Ne7 5. Bd3 Ng6 6. Nc3 Bb4 7. Bd2 d6 8.
+Qa4+ Qd7 9. Qxb4 Qg4 10. g3 e4 11. Be2 Qf5 12. Nb5 Kd8 13. Nd4 Qd7 14. Qb5
+Qe7 15. g4 Ne5 16. Nh3 Nfd7 17. f4 exf3 18. Nxf3 Nc5 19. Nf2 a5 20. Nxe5
+Qxe5 21. Bxa5 Qxe3 22. Bd2 Qe5 23. Bf4 Qe7 24. Qb4 Bxg4 25. Qd2 Bf3 26. Rf1
+Nb3 27. Qe3 Qxe3 28. Bxe3 Bxe2 29. Rb1
 1-0
 
