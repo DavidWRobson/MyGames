@@ -1,3 +1,22 @@
+[Event "Cumnor 2 v Cowley 2"]
+[Site "Cumnor"]
+[Date "2024.04.04"]
+[Round "-"]
+[White "David Robson"]
+[Black "Man Chiu Hsin"]
+[WhiteECF "1807"]
+[BlackECF "1786"]
+[Opening "Owen's"]
+[Result "0-1"]
+
+1. e4 b6 2. d4 Bb7 3. Bd3 e6 4. Nf3 c5 5. c3 d5 6. e5 Nc6 7. a3 Rc8 8. Bf4
+Nge7 9. h4 cxd4 10. cxd4 f5 11. exf6 gxf6 12. Qe2 Kf7 13. Nc3 Ng6 14. Be3
+Bd6 15. g3 h5 16. O-O Rg8 17. Kh1 Bb8 18. Rae1 e5 19. Bxg6+ Rxg6 20. Rd1
+Ne7 21. Ne1 Rg4 22. Qd3 Qg8 23. Ng2 e4 24. Qd2 Nf5 25. Ne2 Ba6 26. Rg1 Bxe2
+27. Qxe2 Bxg3 28. Qa6 Bb8 29. Qb7+ Ke6 30. Nf4+ Bxf4 31. Rxg4 hxg4 32. Bxf4
+Nxh4 33. Qxa7 Qh8 34. Qxb6+ Kf5 35. Bg3 Nf3+
+0-1
+
 [Event "Banbury 2 v Cowley 2"]
 [Site "Banbury"]
 [Date "2024.03.28"]
