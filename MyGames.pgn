@@ -1,3 +1,23 @@
+[Event "Cowley 2 v Wantage 1"]
+[Site "Cowley"]
+[Date "2024.04.29"]
+[Round "-"]
+[White "David Robson"]
+[Black "Andrew Robbings"]
+[WhiteECF "1809"]
+[BlackECF "1947"]
+[Opening "French"]
+[Variation "Two Knights"]
+[Result "0-1"]
+
+1. e4 e6 2. Nf3 d5 3. Nc3 Nf6 4. e5 Ng8 5. d4 Qd7 6. Be3 b6 7. Bd3 Ba6 8.
+Ne2 h5 9. c3 Bxd3 10. Qxd3 h4 11. h3 Ne7 12. Bg5 Nf5 13. Qd2 c5 14. a3 Nc6
+15. Qf4 Be7 16. Bxe7 Ncxe7 17. O-O c4 18. a4 Ng6 19. Qg5 Qe7 20. a5 b5 21.
+Ra2 a6 22. Raa1 Qxg5 23. Nxg5 Rb8 24. Rfb1 Ke7 25. Nc1 Nf4 26. Na2 f6 27.
+Nf3 Rh6 28. Nb4 Ra8 29. Kh1 Kd7 30. Rg1 Ne7 31. Ne1 fxe5 32. dxe5 Nc6 33.
+Nxc6 Kxc6 34. Rb1 Rf8 35. Nf3 Nd3 36. Rgf1 Kd7 37. Ng1 Rf5
+0-1
+
 [Event "Oxfordshire League"]
 [Site "Witney"]
 [Date "2024.04.15"]
@@ -137,6 +157,7 @@ Nxd6 27. e4 Qg5 28. exd5 exd5 29. Rce1 Re8 30. Qb3 f4 {?? fxg4 is better} 31. Re
 Kf8 33. Re6
 1-0
 
+[Event "Abingdon School v  Cowley 2"]
 [Site "Abingdon School"]
 [Date "2024.02.26"]
 [Round "-"]
@@ -4893,4 +4914,25 @@ Qe7 15. g4 Ne5 16. Nh3 Nfd7 17. f4 exf3 18. Nxf3 Nc5 19. Nf2 a5 20. Nxe5
 Qxe5 21. Bxa5 Qxe3 22. Bd2 Qe5 23. Bf4 Qe7 24. Qb4 Bxg4 25. Qd2 Bf3 26. Rf1
 Nb3 27. Qe3 Qxe3 28. Bxe3 Bxe2 29. Rb1
 1-0
+
+[Event "Cowley 2 v Wantage 2"]
+[Site "Cowley"]
+[Date "2008.03.10"]
+[Round "-"]
+[White "Martin E Ashford"]
+[Black "David Robson"]
+[Opening "Nimzo Indian"]
+[Variation "Leningrad"]
+[WhiteECF "121"]
+[BlackECF "122"]
+[Result "0-1"]
+
+1. c4 Nf6 2. Nc3 e6 3. d4 Bb4 4. Bg5 h6 5. Bh4 g5 6. Bg3 Ne4 7. Qc2 f5 8.
+Be5 Rh7 9. f3 Bxc3+ 10. bxc3 Nf6 11. e3 Nc6 12. Bg3 d6 13. Bd3 b6 14. Ne2
+Qd7 15. O-O-O Ba6 16. e4 fxe4 17. fxe4 e5 18. c5 Bxd3 19. Qxd3 O-O-O 20. d5
+Na5 21. Rhf1 Nh5 22. Be1 Qa4 23. Qc2 Qa3+ 24. Kb1 Qxc5 25. g3 Nc4 26. Qc1
+Ne3 27. Bf2 Qb5+ 28. Ka1 Nxf1 29. c4 Qd7 30. Rxf1 Rf8 31. Be3 Rxf1 32. Qxf1
+Rf7 33. Qd1 Qh3 34. Qa4 Qf1+ 35. Nc1 Ng7 36. Qxa7 Qxc4 37. Qa3 Ne8 38. Kb1
+Qxe4+ 39. Ka1 Qxd5
+0-1
 
