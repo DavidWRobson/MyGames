@@ -1,5 +1,21 @@
 [Event "Cowley 2 v Wantage 1"]
 [Site "Cowley"]
+[Date "2024.10.10"]
+[Round "-"]
+[White "David Robson"]
+[Black "Hamish Sloan"]
+[WhiteECF "1794"]
+[BlackECF "1508"]
+[Opening "Sicilian"]
+[Variation "Alapin"]
+[Result "1-0"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 cxd4 5. cxd4 Nf6 6. Nf3 Nc6 7. Nc3 Qa5 8. Bc4 {??  8.d5 was better} e6 9. O-O Nd5 10. Bd2 Qd8 11. Re1 Be7 12. Rc1 O-O 13. a3 Bf6 14. Ne2 Nb6 15. Be3 Nxc4 16. Rxc4 Ne7 17. Ng3 Nd5 18. Ne4 Bd7 19. Qb3 Bc6 20. Ne5 Bxe5 21. dxe5 Nxe3 22. Qxe3 Bxe4 23. Rxe4 f5 24. exf6 Qxf6
+{Opponent's phone went off for the second time in the game.  I claimed the game}
+1-0
+
+[Event "Cowley 2 v Wantage 1"]
+[Site "Cowley"]
 [Date "2024.04.29"]
 [Round "-"]
 [White "David Robson"]
@@ -2907,7 +2923,7 @@ Be2 Be7 9. Qd2 h6 10. O-O-O Nc6 11. h3 b5 12. f3 Rc8 13. g4 Na5 14. Nd5 Nc4
 [Black "David Robson"]
 [WhiteECF "140"]
 [BlackECF "151"]
-[Opening "Sicilian"]
+[Opening "English"]
 [Result "1/2-1/2"]
 
 1. c4 Nf6 2. Nc3 d5 3. cxd5 Nxd5 4. g3 g6 5. Bg2 Nb6 6. Nf3 Bg7 7. O-O O-O
@@ -4938,7 +4954,7 @@ Qxe4+ 39. Ka1 Qxd5
 
 [Event "Oxfordshire v Buckinghamshire"]
 [Site "?"]
-[Date "2008.03.0?"]
+[Date "2008.03.00"]
 [Round "-"]
 [White "David Robson"]
 [Black "Gordon Birch"]
