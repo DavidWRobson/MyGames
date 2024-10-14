@@ -1,3 +1,21 @@
+[Event "Cowkey 2 v Banbury 2"]
+[Site "Cowley"]
+[Date "2024.10.14"]
+[White "David Robson"]
+[Black "Arthur Hibbit"]
+[WhiteECF "1794"]
+[BlackECF "1669"]
+[Opening "Pirc"]
+[Variation "Hippopotamus"]
+[Result "1-0"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Nf3 Nd7 5. Be3 e6 6. Qd2 h6 7. Be2 b6 8.
+O-O-O Bb7 9. h3 Ne7 10. Rhe1 a6 11. Kb1 b5 12. Bd3 Nb6 13. d5 Nc4 14. Bxc4
+bxc4 15. dxe6 fxe6 16. Bd4 e5 17. Be3 Bc6 18. Qe2 Bb5 19. a4 Bd7 20. Qxc4
+Qb8 21. Nd2 a5 22. Nb3 Qb4 23. Qxc7 Nc8 24. Nb5 Bf8 25. Qb7 Qxa4 26. Nc7+
+Ke7 27. Nxa8 Qc6 28. Qxc6 Bxc6 29. Nc7 Bxe4 30. f3 Bb7 31. Nxa5
+1-0
+
 [Event "Cowley 2 v Wantage 1"]
 [Site "Cowley"]
 [Date "2024.10.10"]
