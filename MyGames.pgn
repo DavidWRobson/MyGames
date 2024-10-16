@@ -4983,3 +4983,83 @@ Qxe4+ 39. Ka1 Qxd5
 
 1. e4 g5 2. d4 h6 3. Nc3 Bg7 4. Be3 d6 5. Bd3 Nf6 6. f3 Nbd7 7. Nge2 c5 8. Qd2 a6 9. a4 Qc7 10. Ng3 e6 11. a5 b5 12. axb6 Nxb6 13. dxc5 dxc5 14. Qf2 Nfd7 15. f4 gxf4 16. Bxf4 Be5 17. O-O Bxf4 18. Qxf4 Qxf4 19. Rxf4 Bb7 20. Nh5 Ke7 21. Raf1 Raf8 22. Re1 Rhg8 23. Ng3 Kd8 24. e5 Rg5 25. Be4 Bxe4 26. Rfxe4 Kc7 27. Kf2 f5 28. exf6 Rxf6+ 29. Kg1 e5 30. R4e3 Re6 31. Nce4 Rg8 32. Nf2 Nc4 33. Rb3 Nd6 34. Ra3 Nf7 35. Nd3 Reg6 36. Rea1 Kb7 37. Ra5 Rc6 38. Ne4 Rgc8 39. R1a3 Nd6 40. Nxd6+ Rxd6 41. Rc3 Rdc6 42. Kf2 Kb6 43. Ra4 Ka7 44. Ke3 Nb6 45. Re4 Nd5+ 46. Kd2 Nxc3 47. Kxc3 Re8 48. Kc4 Kb6 49. Kd5 Rce6 50. Nxe5  {Score confused here or earlier.}
 0-1
+
+[Event "Cowley 2 v Oxford City 3"]
+[Site "Oxford City"]
+[Date "2008.02.25"]
+[Round "-"]
+[White "David Robson"]
+[Black "Lucy Smith"]
+[WhiteECF "122"]
+[BlackECF "121"]
+[Opening "Sicilian"]
+[Variation "Alapin"]
+[Result "1-0"]
+
+1. e4 c5 2. c3 d6 3. d4 cxd4 4. cxd4 a6 5. Nf3 e6 6. Bd3 Be7 7. O-O Nf6 8.
+Nc3 h6 9. Qe2 O-O 10. Rd1 Qc7 11. Bf4 Nh5 12. Be3 Nf6 13. Rac1 Qd8 14. h3
+Re8 15. e5 Nh7 16. Bf4 d5 17. Bb1 Nc6 18. Qd3 Nf8 19. Re1 Ng6 20. Bg3 Bd7
+{
+=
+}
+21. h4 Nb4 22. Qd2 Nxh4 23. a3 Nc6 24. Re3 Ng6 25. Ne2 Bg5 26. Nxg5 Qxg5
+27. Qd3 Nf8 28. Bf4 Qg6 29. Qd2 f5 30. exf6 Qxf6 31. Bd6 Ne7 32. Be5 Qg5
+33. Rg3 Qxd2 34. Rxg7+ Kh8 35. Rg5#
+1-0
+
+[Event "Bicester 1 v Cowley 2"]
+[Site "Bicester"]
+[Date "2008.02.12"]
+[Round "-"]
+[White "David Robson"]
+[Black "Iain Morton"]
+[WhiteECF "122"]
+[BlackECF "129"]
+[Opening "Sicilian"]
+[Variation "Alapin"]
+[Result "1-0"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 e6 5. Nf3 Nc6 6. Bd3 Nf6 7. O-O Be7 8.
+Re1 O-O 9. a3 c4 10. Bf1 Bd6 11. Nbd2 b5 12. a4 Ba6 13. b3 cxb3 14. axb5
+Bxb5 15. c4 Qh5
+{
+Score confused here.  I went on to win in 32 moves
+}
+
+1-0
+
+[Event "Cowley 2 v Wantage 1"]
+[Site "Cowley"]
+[Date "2008.01.28"]
+[Round "-"]
+[WhiteECF "122"]
+[BlackECF "158"]
+[Opening "Sicilian"]
+[Variation "Alapin"]
+[White "David Robson"]
+[Black "Andrew Walden"]
+[Result "0-1"]
+
+1. e4 c5 2. c3 d5 3. exd5 Nf6 4. d4 Qxd5 5. Nf3 Nc6 6. Be2 Bg4 7. Be3 cxd4
+8. cxd4 e6 9. Nc3 Qd6 10. O-O Be7 11. h3 Bh5 12. Nb5 Qb8 13. Rc1 O-O 14. a3
+Rd8 15. Qd2 Nd5 16. Nc3 Bg6 17. Rfd1 Bf6 18. Bb5 Nce7 19. Qe2 Nf4 20. Qc4
+Nfd5 21. Ba4 Bh5 22. Qe2 Nf4 23. Qd2 Nxh3+ 24. gxh3 Bxf3 25. Re1 Nf5 26.
+Bf4 e5 27. Bh2 Rxd4 28. Qc2 g6 29. Nb5 Bc6
+0-1
+
+[Event "Cowley 2 v MCS 1"]
+[Site "Cowley"]
+[Date "2007.12.10"]
+[Round "-"]
+[White "Eric Ward"]
+[Black "David Robson"]
+[WhiteECF "127"]
+[BlackECF "122"]
+[Opening "English"]
+[Result "1-0"]
+
+1. c4 Nf6 2. g3 e6 3. Bg2 d5 4. cxd5 exd5 5. d4 Be7 6. Nf3 c6 7. O-O O-O 8.
+Bf4 Bf5 9. Qa4 Qb6 10. Nbd2 Nbd7 11. Nh4 Bg4 12. f3 Be6 13. e4 Rfd8 14. Be3
+Ne8 15. Qc2 Nd6 16. Kh1 Bxh4 17. gxh4 Rdc8 18. Rg1 Qa5 19. Bf1 c5 20. Nb3
+cxd4 21. Qg2
+1-0
