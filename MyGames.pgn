@@ -1,4 +1,97 @@
-[Event "Cowkey 2 v Banbury 2"]
+[Event "Witney Tournament 2024"]
+[Site "Cokethorpe School"]
+[Date "2023.11.03"]
+[Round "5"]
+[White "David Robson"]
+[Black "Aden Kennedy"]
+[WhiteECF "1804"]
+[BlackECF "1463"]
+[Opening "Modern"]
+[Variation "Pterodactyl"]
+[Result "0-1"]
+
+1. e4 g6 {+0.15/9 7} 2. d4 Bg7 3. Nc3 c5 4. dxc5 Qa5 5. Bd2 Qxc5 6. Bd3 d6
+7. Nf3 Nf6 8. Be3 Qc7 9. Qd2 Bd7 10. h3 Nc6 11. O-O O-O 12. Rfe1 Rad8 13.
+Rad1 Rfe8 14. a3 Qc8 15. Bc4 b6 16. Bh6 Qb7 17. Bxg7 Kxg7 18. Qe2 Qb8 19.
+Ba2 Bc8 20. Ng5 e6 21. f4 h6 22. Nf3 Bb7 23. Rf1 Qc8 24. Qe3 Ne7 25. Nd4
+Nc6 26. Rf2 Nxd4 27. Rxd4 Qb8 28. Rfd2 e5 29. R4d3 Ba6 30. fxe5 dxe5 31.
+Rxd8 Rxd8 32. Rf2 Rd7 33. Qf3 Rd6 34. Nd5 Qd8 35. Qg3 Nxe4 36. Qxe5+ Nf6
+37. Nb4 Bb7 38. Nd3 Bc6  {Score confused around here, if not earlier}
+0-1
+
+[Event "Witney Tournament 2024"]
+[Site "Cokethorpe School"]
+[Date "2023.11.02"]
+[Round "4"]
+[White "Lawrence Spencer"]
+[Opening "Caro Kann"]
+[Variation "Exchange"]
+[WhiteECF "1735"]
+[BlackECF "1804"]
+[Black "David Robson"]
+[Result "1/2-1/2"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nc6 5. c3 Qc7 6. h3 e5 7. dxe5 Qxe5+
+8. Qe2 Nf6 9. Bf4 Qxe2+ 10. Nxe2 Bc5 11. Nd2 O-O 12. O-O Re8 13. Nb3 Bb6
+14. Ned4 a6 15. Rae1 Bd7 16. Nxc6 bxc6 17. Bg5 Bd8 18. Rxe8+ Bxe8 19. Re1
+Kf8 20. Be3 Be7 21. Bc5 Bxc5 22. Nxc5 a5 23. Bc2 Rb8 24. b3
+1/2-1/2
+
+[Event "Witney Tournament 2024"]
+[Site "Cokethorpe School"]
+[Date "2023.11.02"]
+[Round "3"]
+[White "David Robson"]
+[Black "Gary Hogan"]
+[WhiteECF "1804"]
+[BlackECF "1725"]
+[Opening "Caro Kann"]
+[Variation "King's Indian"]
+[Result "1/2-1/2"]
+
+1. e4 c6 2. Nf3 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Qe2 Nxe4 6. Qxe4 Be6 7. Be2
+Bd5 8. Qf4 Nd7 9. O-O Bxf3 10. Bxf3 g6 11. d4 Nf6 12. Re1 Bg7 13. c3 O-O
+14. Qh4 e6 15. Bg5 Qe7 16. Re3 Rfd8 17. Be2 Rd5 18. b4 a6 19. Bc4 h6 20.
+Bxf6 Bxf6 21. Qg4 Rg5 22. Qf3 Rf5 23. Qd1 h5 24. Qc2 Rd8 25. Rd1 Kg7 26. a3
+Bg5
+1/2-1/2
+
+[Event "Witney Tournament 2024"]
+[Site "Cokethorpe School"]
+[Date "2023.11.02"]
+[Round "2"]
+[White "Matthiew Phillips"]
+[Black "David Robson"]
+[WhiteECF "1649"]
+[BlackECF "1804"]
+[Opening "Caro Kann"]
+[Variation "King's Indian"]
+[Result "0-1"]
+
+1. e4 c6 2. d3 d5 3. Nf3 Bg4 4. Be2 e6 5. Ne5 Bxe2 6. Qxe2 dxe4 7. Qxe4 Nf6
+8. Qe2 Bd6 9. Ng4 Nbd7 10. Bg5 Qb6 11. Bxf6 Nxf6 12. Nxf6+ gxf6 13. c3
+O-O-O 14. b4 Rdg8 15. O-O Rg5 16. d4 Qc7 17. g3 h5 18. Nd2 f5 19. Nf3 Rg7
+20. a4 h4 21. Ne5 hxg3 22. fxg3 f6 23. Nc4 Bxg3 24. Qxe6+ Kb8 25. Rf3 Bxh2+
+26. Kf2 Bg3+ 27. Kg1 Be1+ 28. Kf1 Rh1+ 29. Ke2 Re7 30. Qxe7 Qxe7+ 31. Re3
+Qf7 32. Nd6 Qh5+ 33. Kd3 Bf2 34. Rxh1 Qxh1 35. Re7 Qf3+ 36. Kc4 Qd5+
+0-1
+
+[Event "Witney Tournament 2024"]
+[Site "Cokethorpe School"]
+[Date "2023.11.02"]
+[Round "1"]
+[White "David Robson"]
+[Black "Paul Gardiner"]
+[WhiteECF "1804"]
+[BlackECF "1615"]
+[Opening "Caro Kann"]
+[Variation "Two Knights"]
+[Result "1-0"]
+
+1. e4 c6 2. Nf3 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Qe2 Nbd7 6. Nd6#
+1-0
+
+[Event "Cowley 2 v Banbury 2"]
 [Site "Cowley"]
 [Date "2024.10.14"]
 [White "David Robson"]
@@ -184,8 +277,8 @@ Nbd2 Nxd2 22. Bxd2 Re6 23. Be3 Rf6 24. Nh4 gxh4
 [Result "1-0"]
 
 1. c4 c6 2. d4 d5 3. Nc3 Nf6 4. Nf3 a6 5. cxd5 cxd5 6. Bg5 Ne4 7. Bf4 Nxc3 {?? Nc6 is better}
-8. bxc3 Nc6 9. e3 Bf5 10. Be2 e6 11. O-O Be7 12. h3 O-O 13. a4 Qa5 14. Qb3
-Ra7 15. Rfc1 Rc8 16. Ra2 Qd8 17. Qd1 Na5 18. g4 Bg6 19. Ne5 f6 20. Nxg6
+8. bxc3 Nc6 9. e3 Bf5 10. Be2 e6 11. O-O Be7 {or Na5 to stop c4?} 12. h3 O-O 13. a4 Qa5 { Rc8 is better} 14. Qb3
+Ra7 15. Rfc1 Rc8 16. Ra2 Qd8 17. Qd1 Na5 18. g4 Bg6 19. Ne5 f6 {?} 20. Nxg6
 hxg6 21. Bd3 Kf7 22. Kg2 Bd6 23. Re2 Nc4 24. Qc2 f5 25. f3 Raa8 26. Bxd6
 Nxd6 27. e4 Qg5 28. exd5 exd5 29. Rce1 Re8 30. Qb3 f4 {?? fxg4 is better} 31. Re5 Qf6 32. Qxd5+
 Kf8 33. Re6
@@ -196,7 +289,7 @@ Kf8 33. Re6
 [Date "2024.02.26"]
 [Round "-"]
 [White "David Robson"]
-[Black "Alex Fortana"]
+[Black "Alex Fontana"]
 [WhiteECF "1837"]
 [BlackECF "1548"]
 [Opening "Vienna"]
