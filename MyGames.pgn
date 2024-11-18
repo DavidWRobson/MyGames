@@ -29,13 +29,7 @@ Kb8 20. g3 Qc6 21. Re3 Re8 22. d5 Qd7 23. Nd4 Ne5 24. Rxe5
 [Result "0-1"]
 
 {Something funny about his rating.  His standard rating is 1463K but his rapid rating is 1917A}
-1. e4 g6 {+0.15/9 7} 2. d4 Bg7 3. Nc3 c5 4. dxc5 Qa5 5. Bd2 Qxc5 6. Bd3 d6
-7. Nf3 Nf6 8. Be3 Qc7 9. Qd2 Bd7 10. h3 Nc6 11. O-O O-O 12. Rfe1 Rad8 13.
-Rad1 Rfe8 14. a3 Qc8 15. Bc4 b6 16. Bh6 Qb7 17. Bxg7 Kxg7 18. Qe2 Qb8 19.
-Ba2 Bc8 20. Ng5 e6 21. f4 h6 22. Nf3 Bb7 23. Rf1 Qc8 24. Qe3 Ne7 25. Nd4
-Nc6 26. Rf2 Nxd4 27. Rxd4 Qb8 28. Rfd2 e5 29. R4d3 Ba6 30. fxe5 dxe5 31.
-Rxd8 Rxd8 32. Rf2 Rd7 33. Qf3 Rd6 34. Nd5 Qd8 35. Qg3 Nxe4 36. Qxe5+ Nf6
-37. Nb4 Bb7 38. Nd3 Bc6  {Score confused around here, if not earlier}
+1.e4 g6 2.d4 Bg7 3.Nc3 c5 4.dxc5 Qa5 5.Bd2 Qxc5 6.Bd3 d6 7.Nf3 Nf6 8.Be3 Qc7 9.Qd2 Bd7 10.h3 Nc6 11.O-O O-O 12.Rfe1 Rad8 13.Rad1 Rfe8 14.a3 Qb8 15.Bc4 b6 16.Bh6 Qc8 17.Bxg7 Kxg7 18.Qe2 Qb8 19.Ba2 Bc8 20.Ng5 e6 21.f4 h6 22.Nf3 Bb7 23.Rf1 Qc8 24.Qe3 Ne7 25.Nd4 Nc6 26.Rf2 Nxd4 27.Rxd4 Qb8 28.Rfd2 e5 29.R4d3 {Ra4 was better} Ba6 30.fxe5 dxe5 31.Rxd8 Rxd8 32.Rf2 Rd4 33.Qf3 {Rxf6 was better} Rd6 34.Nd5 Qd8 35.Qg3 Nxe4 36.Qxe5+ Nf6 37.Nb4 Bb7 38.Nd3 Bd5 39.Rxf6 Qxf6 {Bxd5 was better}
 0-1
 
 [Event "Witney Tournament 2024"]
@@ -5175,3 +5169,27 @@ Bf4 Bf5 9. Qa4 Qb6 10. Nbd2 Nbd7 11. Nh4 Bg4 12. f3 Be6 13. e4 Rfd8 14. Be3
 Ne8 15. Qc2 Nd6 16. Kh1 Bxh4 17. gxh4 Rdc8 18. Rg1 Qa5 19. Bf1 c5 20. Nb3
 cxd4 21. Qg2
 1-0
+
+[Event "Didcot 1 v Cowley 2"]
+[Site "Didcot"]
+[Date "2007.12.02"]
+[Round "-"]
+[White "Gary Reynolds"]
+[Black "David Robson"]
+[WhiteECF "118"]
+[BlackECF "122"]
+[Opening "Two Knights Tango"]
+[Variation "3 Nc3"]
+[Result "1-0"]
+[Result "0-1"]
+
+1. d4 Nf6 2. c4 Nc6 3. Nc3 e5 4. d5 Ne7 5. e4 Ng6 6. Be2 Bb4 7. Qc2 O-O 8.
+Bg5 h6 9. Be3 d6 10. a3 Bxc3+ 11. bxc3 Nh4 12. Bf3 b6 13. g3 Nxf3+ 14. Nxf3
+Bh3 15. Ng1 Bg2 16. f3 Bxh1 17. Qf2 Qd7 18. a4 a5 19. Kd2 Nxe4+ 20. fxe4
+Bxe4 21. h3 Qf5 22. g4 Qxf2+ 23. Bxf2 f5 24. gxf5 Rxf5 25. Ke3 Bc2 26. Bh4
+g5 27. Bg3 Raf8 28. Kd2 Bb3 29. Kd3 Rf1 30. Rxf1 Rxf1 31. Ne2 Rd1+ 32. Ke4
+Bxc4 33. Ke3 Bxe2 34. Kxe2 Rg1 35. Bf2 Rg2 36. Kf3 Rxf2+ 37. Kxf2 Kg7 38.
+Kg3 Kg6 39. Kg4 h5+ 40. Kg3 Kf5 41. Kf3 g4+ 42. hxg4+ hxg4+ 43. Kg3 e4 44.
+c4 e3 45. Kg2 Kf4 46. Kf1 Kf3
+0-1
+
