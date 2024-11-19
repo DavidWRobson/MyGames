@@ -1,3 +1,22 @@
+[Event "Cowley 2 v Oxford City 2"]
+[Site "Rosehill Methodist Church"]
+[Date "2024.11.18"]
+[Round "-"]
+[White "Tony Weir"]
+[Black "David Robson"]
+[Opening "Caro Kann"]
+[Variation "Exchange"]
+[WhiteECF "1913"]
+[BlackECF "1804"]
+[Result "0-1"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nc6 5. c3 Qc7 6. Ne2 Bg4 7. O-O Nf6
+8. Qe1 e6 9. f3 Bh5 10. Qh4 Bd6 {Bg6 is better, or possibly Rb8} 11. Bg5 Bg6 12. Bxg6 fxg6 13. Bxf6 gxf6 14.
+Qxf6 Kd7 15. Qh4 Raf8 16. Nd2 Ne7 17. Ng3 g5 18. Qh3 h5 19. Rae1 Rf6 20.
+Ne2 Rfh6 21. g3 Nf5 22. Nc1 g4 23. Qg2 h4 24. fxg4 hxg3 25. gxf5 Rxh2 26.
+fxe6+ Kc6 27. Qf3 Qh7 28. Qg4 Rxd2
+0-1
+
 [Event "Cowley 2 v Cumnor 2"]
 [Site "Rosehill Methodist Church"]
 [Date "2024.11.11"]
