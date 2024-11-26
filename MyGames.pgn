@@ -1,3 +1,27 @@
+[Event "Cowley 2 v Abingdon School"]
+[Site "Rosehill Methodist Church"]
+[Date "2024.11.25"]
+[Round "-"]
+[white "David Robson"]
+[Black "Warit Chirakranont"]
+[Opening "Modern"]
+[Variation "150 Attack"]
+[WhiteECF "1804"]
+[BlackECF "1745"]
+[Result "1-0"]
+
+1. e4 g6 {+0.15/8 6} 2. d4 Bg7 3. Nf3 d6 4. Be3 Nc6 5. Be2 e5 6. c3 f5 7.
+exf5 gxf5 8. dxe5 Nxe5 9. Nxe5 Bxe5 10. Bb5+ {Nd2 was better} c6 11. Qh5+ Kf8 12. Bd3 f4 13.
+Bd2 Qe7 14. O-O Be6 15. Na3 Bf7 16. Qf3 Nf6 17. Rfe1 {?? Bxf4 was better} Rg8 18. Bxf4 Bd5 19.
+Qe2 {?? Blunder, Be4 was fine} Qg7 {Blunder, Rxg2+ wins} 20. Bg3 h5 21. f4 h4 22. fxe5 hxg3 23. h3 dxe5 24. Qxe5 Re8 25.
+Qd6+ Re7 26. Rf1 Rh8 {Blunder} 27. Qxf6+ Qxf6 28. Rxf6+ Kg7 29. Rg6+ Kf8 30. Rf1+ Ke8 31. Rxg3 Bxa2 32.
+Rgf3 Kd8 33. R3f2 Rg8 34. Bc4 Bxc4 35. Nxc4 Rgg7 36. g4 Rh7 37. Kg2 b5 38.
+Nd2 Kc7 39. Rf6 Re2+ 40. R1f2 Ree7 41. Nf3 Re3 42. Ng5 Rg7 43. Ne6+ Rxe6
+44. Rxe6 Kd7 45. Rff6 c5 46. Ra6 Ke7 47. Rh6 c4 48. Rxa7+ Kf8 49. Rh8+ Rg8
+50. Ra8+ Kf7 51. Rhxg8 b4 
+{Score confused around here; won in 56 moves}
+1-0
+
 [Event "Cowley 2 v Oxford City 2"]
 [Site "Rosehill Methodist Church"]
 [Date "2024.11.18"]
@@ -56,11 +80,11 @@ Kb8 20. g3 Qc6 21. Re3 Re8 22. d5 Qd7 23. Nd4 Ne5 24. Rxe5
 [Date "2024.11.03"]
 [Round "4"]
 [White "Lawrence Spencer"]
+[Black "David Robson"]
 [Opening "Caro Kann"]
 [Variation "Exchange"]
 [WhiteECF "1735"]
 [BlackECF "1804"]
-[Black "David Robson"]
 [Result "1/2-1/2"]
 
 1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nc6 5. c3 Qc7 6. h3 e5 7. dxe5 Qxe5+
@@ -78,7 +102,7 @@ Kf8 20. Be3 Be7 21. Bc5 Bxc5 22. Nxc5 a5 23. Bc2 Rb8 24. b3
 [WhiteECF "1804"]
 [BlackECF "1725"]
 [Opening "Caro Kann"]
-[Variation "King's Indian"]
+[Variation "Two Knights"]
 [Result "1/2-1/2"]
 
 1. e4 c6 2. Nf3 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Qe2 Nxe4 6. Qxe4 Be6 7. Be2
@@ -332,7 +356,7 @@ Kf8 33. Re6
 14. Qg3 cxd6 15. O-O Re8 16. Bh6 Ng6 17. Bg5 Qd7 18. a3 Re5 19. Be3 c5 20.
 Rf2 d5 21. Bf4 Re6 22. exd5 Qxd5 23. Bd2 Rae8 24. Raf1 Ne5 25. Bc3 Rg6 26.
 Qh4 f6 27. Qf4 Nf7 28. Qa4 Nd6 29. Re1 Rxe1+ 30. Bxe1 b5 31. Qf4 h6 32. Re2
-c4 33. Rd2 Qc6 34. d4 Nf7 35. Re2 Ng5 36. Kh2 f5 37. h4 Ne6 38. Qxf5 Nxd4
+c4 33. Rd2 Qc6 34. d4 Nf7 35. Re2 Ng5 36. Kh2 f5 37. h4 Ne6 38. Qxf5 {??} Nxd4
 39. Qf2 Nxe2 40. Qxe2 Re6 41. Qf2 Qd6+ 42. Kg1 Qd1
 0-1
 
