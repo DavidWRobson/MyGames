@@ -1,3 +1,27 @@
+[Event "Cowley 1 v Didcot 1"]
+[Site "Rosehill Mehodist Church"]
+[Date "2024.11.28"]
+[Round "-"]
+[White "Victor Csajka"]
+[Black "David Robson"]
+[Opening "Caro Kann"]
+[Variation "Advance"]
+[SubVariation "Botvinnik-Carls"]
+[WhiteECF "1718"]
+[BlackECF "1804"]
+[Result "1/2-1/2"]
+
+1. e4 c6 2. d4 d5 3. e5 c5 4. Nf3 Bg4 5. c3 cxd4 6. cxd4 e6 7. Bb5+ Nc6 8.
+Qa4 Qb6 {Stockfish prefers Ne7} 9. Bd2 a6 10. Nc3 Ne7 11. Rc1 Rc8 12. Bd3 Bxf3 13. gxf3 Qxd4 14.
+Qxd4 Nxd4 15. f4 Ng6 {Stockfish prefers Nf3+ and exchanging the black squared bishop}
+16. Be3 Nc6 17. Na4 Bb4+ 18. Ke2 O-O {d4 is better} 19. Bxg6 hxg6 20.
+Bc5 Bxc5 21. Nxc5 Rc7 22. Rc3 Rfc8 23. Rhc1 Nb4 24. Nxb7 Rxc3 25. Rxc3 Rxc3 {?? Should have played Nxa2, Rxc7, Nxc1+
+I looked at this, but didn't see that it was a check}
+26. bxc3 Nc6 27. Nc5 a5 28. Kd3 Kf8 29. a3 g5 30. Ke3 Ke8 31. a4 Nd8 32.
+Nd3 gxf4+ 33. Kxf4 Ke7 34. h4 f6 35. h5 Kf7 36. f3 Ke7 37. Nc5 Nc6 38. Nd3
+Nd8 39. Nc5
+1/2-1/2
+
 [Event "Cowley 2 v Abingdon School"]
 [Site "Rosehill Methodist Church"]
 [Date "2024.11.25"]
@@ -2121,7 +2145,7 @@ position} 1/2-1/2
 [Result "1/2-1/2"]
 [Opening "Richter–Veresov Attack"]
 [WhiteECF "164"]
-[BlackECF "164"]
+[BlackECF "161"]
 [ECO "A45"]
 [TimeControl "0"]
 
