@@ -1,3 +1,25 @@
+[Event "Watlington v Cowley 2"]
+[Site "Watlington"]
+[Date "2024.12.05"]
+[Round "-"]
+[White "Ben Woolf"]
+[Black "David Robson"]
+[Opening "Caro Kann"]
+[Variation "Advance"]
+[SubVariation "Botvinnik-Carls"]
+[WhiteECF "1657"]
+[BlackECF "1793"]
+[Result "1/2-1/2"]
+
+1. e4 c6 2. d4 d5 3. e5 c5 4. dxc5 e6 5. a3 Nc6 6. f4 {?} Bxc5 7. b4 Bxg1 8.
+Rxg1 Qh4+ {?} 9. g3 Qe7 { ? Qd8 is better} 10. Be3 b6 11. Nc3 Nh6 12. Bf2 O-O 13. Ne2 f6 14. Nd4
+Bb7 {? Apparantly Nxe5 is better for black} 15. Nxc6 Bxc6 16. Bd4 f5 {?? My original intention, fe is OK for black} 
+17. c3 Qb7 18. Bd3 Nf7 19. g4 Nh6 20. g5 Nf7
+21. g6 Nh6 22. gxh7+ Kxh7 23. Qh5 Qf7 24. Qg5 Rac8 25. Kd2 Ba4 26. Be2 Be8
+27. Rg3 Rc7 28. Rag1 Qe7 29. R1g2 Kh8 30. Rg1 Kh7 31. R1g2
+{Here I offered a draw as my White was repeating moves, and ge accepted, despite being +2.3 }
+1/2-1/2
+
 [Event "Cowley 1 v Didcot 1"]
 [Site "Rosehill Mehodist Church"]
 [Date "2024.11.28"]
@@ -2270,7 +2292,7 @@ Score confused around here
 [Variation "Alapin"]
 [Result "0-1"]
 [WhiteECF "164"]
-[BlackECF "UNG"]
+[BlackECF "192"]
 [ECO "B22"]
 [TimeControl "0"]
 
@@ -4797,7 +4819,7 @@ Bc1 Rd1+ 33. Ke2 Rxc1 34. Nxc1 Bxc1 35. Kd3 Kf7 36. g4 Nf2+ 37. Kc2 Nxh3
 [White "David Robson"]
 [Black "Karlmarx Rajangam"]
 [WhiteECF "129"]
-[BlackECF "UNG"]
+[BlackECF "173"]
 [Opening "Sicilian"]
 [Variation "Alapin"]
 [Result "1-0"]
@@ -5286,7 +5308,7 @@ Qg5#
 
 [Event "Cowley 2 v Wantage 2"]
 [Site "Cowley"]
-[Date "2024.11.30"]
+[Date "2007.11.30"]
 [Round "-"]
 [White "David Robson"]
 [Black "Stephen Morris"]
@@ -5327,7 +5349,7 @@ Rxe8+ Bxe8 27. Ne4 Qe6 28. Ba2 Bc6 29. Nxf6+ gxf6 30. Kf2 Kg7 31. Bb1 Be8
 
 [Event "Oxford City 3 v Cowley 2"]
 [Site "Oxford City"]
-[Date "2024.10.29"]
+[Date "2007.10.29"]
 [Round "-"]
 [White "David Robson"]
 [Black "Bernard Rawlings"]
