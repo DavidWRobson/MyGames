@@ -5365,3 +5365,41 @@ Re3 Rac8 15. Rae1 Ne5 16. Rh3 Qc5 17. Nf3 Nxf3+ 18. Rxf3 Rc7 19. Rh3 h5 20.
 Rhe3 Ng4 21. Rg3 Ne5 22. Qe3
 1/2-1/2
 
+[Event "Cowley 2 v Wantage 3"]
+[Site "Cowley"]
+[Date "2007.10.23"]
+[Round "-"]
+[White "Ian Spence"]
+[Black "David Robson"]
+[WhiteECF "97"]
+[BlackECF "122"]
+[Opening "Two Knights Tango"]
+[Variation "3 Nc3"]
+[Result "0-1"]
+
+1. d4 Nf6 2. c4 Nc6 3. Nc3 e5 4. dxe5 Nxe5 5. e4 Bc5 6. h3 d6 7. Bg5 Be6 {? h6 was better, 
+otherwise 8. f4 etc} 
+8. b3 h6 9. Bh4 Bb4 10. Ne2 g5 11. Bg3 Nxe4 12. Qc2 Bf5 13. Bxe5 dxe5 14. Rd1
+Qf6 15. Qc1 Nxc3 16. Nxc3 e4 17. Kd2 Qd4+ {0-0-0 was better}
+0-1
+
+[Event "Wantage 1 v Cowley 2"]
+[Site "Wantage"]
+[Date "2007.10.16"]
+[Round "-"]
+[White "David Robson"]
+[Black "Clive Walley"]
+[WhiteECF "122"]
+[BlackECF "153"]
+[Opening "Sicilian"]
+[Variation "Alapin"]
+[Result "1/2-1/2"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. Nf3 Nc6 6. Bc4 Nb6 7. Bb3 d6 8.
+exd6 Qxd6 9. O-O Bf5 10. cxd4 e6 11. Nc3 Rd8 12. Be3 Be7 13. Qe2 Bf6 14. d5
+Bxc3 15. dxc6 Bd3 16. Rfd1 Bxe2 17. Rxd6 Rxd6 18. cxb7 Kd7 19. bxc3 Bxf3
+20. gxf3 Kc6 21. Bf4 e5 22. Bxe5 Rg6+ 23. Kf1 Kxb7 24. Bxf7 Rc6 25. Rb1 Kc8
+26. Bxg7 Rd8 27. Bd4 Rf8 28. Bh5 Rh6 29. Bg4+ Kb7 30. Bg7 Rhf6 31. Re1 Rxf3
+32. Bxf8 Rxf8 33. Re7+ Kb8 34. Rxh7 Nd5 35. c4 Ne3+ 36. Ke2 Nxg4
+1/2-1/2
+
