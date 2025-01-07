@@ -1,3 +1,27 @@
+[Event "Cowley 2 v Witney 2"]
+[Site "Cowley"]
+[Date "2025.01.06"]
+[Round "-"]
+[White "David Robson"]
+[Black "Derek Edwards"]
+[Opening "Pirc"]
+[Variation "150 Attack"]
+[WhiteECF "1804"]
+[BlackECF "1762"]
+[Result "1/2-1/2"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Be3 c6 5. Qd2 Qa5 6. Nf3 Nbd7 7. Bd3 Ng4 8.
+Bg5 h6 9. Bh4 Bg7 10. h3 {?? Bxe3! was better}  Ngf6 11. a3 e5 12. b4 Qc7 13. dxe5 dxe5 14. O-O
+Nb6 15. Nd1 Be6 16. Ne3 Rd8 17. Qe2 g5 18. Bg3 Nh5 19. Rad1 Nf4 20. Bxf4
+exf4 21. Nc4 {? Nf5 was better} Nxc4 22. Bxc4 O-O 23. Bxe6 fxe6 24. Qc4 Qf7 25. Nd4 Bxd4 26.
+Rxd4 e5 27. Qxf7+ Kxf7 28. Rdd1 Ke7 29. f3 Rxd1 30. Rxd1 Rd8 31. Rxd8 Kxd8
+32. Kf2 Kd7
+{
+=
+}
+
+1/2-1/2
+
 [Event "Watlington v Cowley 2"]
 [Site "Watlington"]
 [Date "2024.12.05"]
@@ -5418,4 +5442,26 @@ Bxc3 15. dxc6 Bd3 16. Rfd1 Bxe2 17. Rxd6 Rxd6 18. cxb7 Kd7 19. bxc3 Bxf3
 a3 a5 9. Bd2 O-O 10. Nb5 b6 11. Rd1 Qe7 12. Bc3 Ne4 13. cxd5 Nxc3 14. Nxc3
 Nd8 15. Bc4 Bb7 16. Ne4 Rc8 17. d6 Qd7 18. Ne5
 1-0
+
+[Event "Cowley 2 v Didcot 1"]
+[Site "Cowley"]
+[Date "2007.03.26"]
+[Round "-"]
+[White "Martin Sheridan"]
+[Black "David Robson"]
+[WhiteECF "131"]
+[BlackECF "119"]
+[Opening "Queen's Indian"]
+[Result "0-1"]
+
+1. d4 Nf6 2. Nf3 e6 3. h3 b6 4. Bf4 Ba6 5. Nbd2 d5 6. c3 Be7 7. Qc2 O-O 8.
+e3 c5 9. Bxa6 Nxa6 10. O-O Rc8 11. Qa4 Nb8 12. Qxa7 Nc6 13. Qa4 Qd7 14. Qd1
+Ra8 15. Re1 Ra6 16. dxc5 bxc5 17. Ne5 Nxe5 18. Bxe5 Qb5 19. Qc2 Nd7 20. Bg3
+c4 21. e4 Nc5 22. exd5 Nd3 23. Re4 Bf6 24. dxe6 Qxb2 25. exf7+ Kxf7 26. Qd1
+Bxc3 27. Qh5+ Kg8 28. Qd5+ Kh8 29. Rb1 Qxd2 30. Qf5 Raf6 31. Qd7 Nxf2 32.
+Qxd2 Bxd2 33. Rxc4 Be3 34. Bxf2 Rxf2 35. Kh1 Rxa2 36. Rg4 Raf2 37. Re1 Rf1+
+38. Rxf1 Rxf1+ 39. Kh2 Bg1+ 40. Kg3 Bf2+ 41. Kh2 Bc5 42. Re4 Bd6+ 43. g3 h6
+44. Kg2 Ra1 45. Rg4 Ra3 46. h4 Kh7 47. h5 Be7 48. Re4 Bf6 49. g4 Kg8 50.
+Kh2 Kf7 51. Kg2 Ba1 52. Rf4+ Ke6 53. Rf5 Be5
+0-1
 
