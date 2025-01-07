@@ -19,7 +19,6 @@ Rxd4 e5 27. Qxf7+ Kxf7 28. Rdd1 Ke7 29. f3 Rxd1 30. Rxd1 Rd8 31. Rxd8 Kxd8
 {
 =
 }
-
 1/2-1/2
 
 [Event "Watlington v Cowley 2"]
@@ -3442,7 +3441,7 @@ gxh7 Nxh7 27. Ng6+ Bxg6 28. Bxg6 Rf8 29. Rxf8
 [Date "2014.04.07"]
 [Round "-"]
 [White "David Robson"]
-[Black "Arthur Hibburt"]
+[Black "Arthur Hibbit"]
 [WhiteECF "154"]
 [BlackECF "161"]
 [Opening "Sicilian"]
@@ -5464,4 +5463,42 @@ Qxd2 Bxd2 33. Rxc4 Be3 34. Bxf2 Rxf2 35. Kh1 Rxa2 36. Rg4 Raf2 37. Re1 Rf1+
 44. Kg2 Ra1 45. Rg4 Ra3 46. h4 Kh7 47. h5 Be7 48. Re4 Bf6 49. g4 Kg8 50.
 Kh2 Kf7 51. Kg2 Ba1 52. Rf4+ Ke6 53. Rf5 Be5
 0-1
+
+[Event "Didcot 2 v Cowley 2"]
+[Site "Didcot"]
+[Date "2007.03.05"]
+[Round "-"]
+[White "David Robson"]
+[Black "Jamie Flynn"]
+[WhiteECF "119"]
+[BlackECF "UNG"]
+[Opening "Vienna"]
+[Result "1-0"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 d6 4. Nf3 Nc6 5. Bb5 Qe7 6. d3 Bd7 7. f5 a6 8.
+Bc4 Na7 9. Ng5 h6 10. Bxf7+ Kd8 11. Ne6+ Kc8 12. Nxf8 Rxf8 13. Bb3 c6 14.
+Be3 Qd8 15. Qd2 Nb5 16. h3 Nc7 17. Na4 d5 18. Nb6+ Kb8 19. Nxa8 Kxa8 20.
+Qa5 d4 21. Bd2 Ka7 22. Bb4 b6 23. Qxe5 Re8 24. Qg3 c5 25. Bd2 Bxf5 26.
+O-O-O Be6 27. Qxg7 Bxb3 28. axb3 Nh5 29. Qxh6 Ng3 30. Rhf1 Nxf1 31. Rxf1
+Re6 32. Qh7 Kb7 33. Rf7 Kc6 34. Bf4 Nb5 35. Qf5 Re8 36. Bg5 Qd6 37. Rf6
+1-0
+
+[Event "Cowley 2 v Bicester 1"]
+[Site "Bicester"]
+[Date "2007.02.19"]
+[Round "-"]
+[White "David Robson"]
+[Black "Iain Morton"]
+[WhiteECF "119"]
+[BlackECF "129"]
+[Opening "Sicilian"]
+[Variation "Alapin"]
+[Result "1-0"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 e6 5. Nf3 Nc6 6. Be3 cxd4 7. cxd4 Bb4+
+8. Nc3 Nf6 9. Bd3 O-O 10. O-O Qh5 11. h3 e5 12. Nxe5 Nxe5 13. Qxh5 Nxh5 14.
+dxe5 g6 15. Nd5 Ba5 16. b4 Bd8 17. Rfd1 Be6 18. Nf4 Nxf4 19. Bxf4 f6 20. a3
+Rc8 21. Rac1 Rxc1 22. Rxc1 fxe5 23. Bxe5 Bb6 24. Bg3 Rd8 25. Be4 Bd5 26.
+Bc7 Bxf2+ 27. Kxf2 Rf8+ 28. Bf3
+1-0
 
