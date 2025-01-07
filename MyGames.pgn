@@ -5502,3 +5502,59 @@ Rc8 21. Rac1 Rxc1 22. Rxc1 fxe5 23. Bxe5 Bb6 24. Bg3 Rd8 25. Be4 Bd5 26.
 Bc7 Bxf2+ 27. Kxf2 Rf8+ 28. Bf3
 1-0
 
+[Event "Edited game"]
+[Site "inspiron-15-5518"]
+[Date "2007.02.12"]
+[Round "-"]
+[White "John Rowlinson"]
+[Black "David Robson"]
+[WhiteECF "94"]
+[BlackECF "119"]
+[Opening "Two Knights Tango"]
+[Variation "3 Nf3"]
+[Result "0-1"]
+
+1. d4 Nf6 2. c4 Nc6 3. Nf3 e6 4. Nc3 Bb4 5. Bd2 O-O 6. e3 d5 7. cxd5 exd5
+8. Be2 h6 9. O-O Bf5 10. a3 Bd6 11. Nb5 Be7 12. Nc3 Re8 13. Rc1 Nb8 14. Qb3
+Bc8 15. Ne5 c6 16. Bd3 Bd6 17. f4 Qe7 18. Rce1 Qc7 19. Qc2 Nbd7 20. Qd1 Nf8
+21. h3 Be6 22. b4 Qc8 23. Qf3 Bf5 24. e4 Nxe4 25. Nxe4 dxe4 26. Bxe4 Bxe4
+27. Rxe4 Qf5 28. g4 Qf6 29. Rfe1 Red8 30. Bc3 Ne6 31. Qe3 Nc7 32. Qf2 Nd5
+33. Ba1 a5 34. Nc4 axb4 35. Nxd6 Qxd6 36. axb4 Qxb4 37. Qc2 Qa3 38. Kg2 Qa4
+39. Qd2 Nf6 40. Re5 Nd5 41. Qc1 Qa2+ 42. Kg3 Ra3+ 43. Kh4 Qf2+
+0-1
+
+[Event "MCS/B 1 v Cowley 2"]
+[Site "Magdalen College"]
+[Date "2007.01.16"]
+[Round "-"]
+[White "Malcolm Brindley"]
+[Black "David Robson"]
+[WhiteECF "115"]
+[BlackECF "119"]
+[Opening "Two Knights Tango"]
+[Variation "3 Nc3"]
+[Result "0-1"]
+
+1. d4 Nf6 2. c4 Nc6 3. Nc3 e5 4. d5 Ne7 5. e4 Ng6 6. Qc2 Bc5 7. Na4 Bb4+ 8.
+Nc3 O-O 9. f3 d6 10. Be3 a6 11. h4 h5 12. Bg5 Bd7 13. Be3 Re8 14. g3 Nf8
+15. Ne2 N8h7 16. O-O-O b5 17. cxb5 axb5  {Score confused around her}
+0-1
+
+[Event "Didcot 1 v Cowley 2"]
+[Site "Didcot"]
+[Date "2007.01.10"]
+[Round "-"]
+[White "David Robson"]
+[Black "Andrew Robins"]
+[WhiteECF "119"]
+[BlackECF "129"]
+[Opening "Scandinavian"]
+[Variation "2 ... Nf6"]
+[Result "1/2-1/2"]
+
+1. e4 d5 2. exd5 Nf6 3. c4 e6 4. dxe6 Bxe6 5. d4 Bb4+ 6. Bd2 Bxd2+ 7. Qxd2
+Qe7 8. Qe2 Nc6 9. Nf3 O-O-O 10. d5 Rd7 11. Nc3 Bg4 12. Qxe7 Rxe7+ 13. Kd2
+Bxf3 14. gxf3 Ne5 15. Kc2 Nxf3 16. Rd1 Kb8 17. Be2 Ne5 18. Rhg1 g6 19. b3
+Rhe8 20. Rg3 h5 21. Re3 Ned7 22. Kd2 Nc5 23. Bd3 Ng4 {Score confused here or earlier}
+1/2-1/2
+
