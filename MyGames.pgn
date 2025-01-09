@@ -5195,7 +5195,7 @@ Qxe4+ 39. Ka1 Qxd5
 [White "David Robson"]
 [Black "Gordon Birch"]
 [Opening "Basmaniac Defence"]
-[WhiteECF "149"]
+[WhiteECF "122"]
 [BlackECF "120"]
 [Result "0-1"]
 
@@ -5502,8 +5502,8 @@ Rc8 21. Rac1 Rxc1 22. Rxc1 fxe5 23. Bxe5 Bb6 24. Bg3 Rd8 25. Be4 Bd5 26.
 Bc7 Bxf2+ 27. Kxf2 Rf8+ 28. Bf3
 1-0
 
-[Event "Edited game"]
-[Site "inspiron-15-5518"]
+[Event "Oxford City 3 v Cowley 2"]
+[Site "Oxford City"]
 [Date "2007.02.12"]
 [Round "-"]
 [White "John Rowlinson"]
@@ -5557,4 +5557,46 @@ Qe7 8. Qe2 Nc6 9. Nf3 O-O-O 10. d5 Rd7 11. Nc3 Bg4 12. Qxe7 Rxe7+ 13. Kd2
 Bxf3 14. gxf3 Ne5 15. Kc2 Nxf3 16. Rd1 Kb8 17. Be2 Ne5 18. Rhg1 g6 19. b3
 Rhe8 20. Rg3 h5 21. Re3 Ned7 22. Kd2 Nc5 23. Bd3 Ng4 {Score confused here or earlier}
 1/2-1/2
+
+[Event "Cowley 2 v Didcot 2"]
+[Site "Cowley"]
+[Date "2006.12.04"]
+[Round "-"]
+[White "Jamie Flynn"]
+[Black "David Robson"]
+[WhiteECF "UNG"]
+[BlackECF "119"]
+[Opening "Two Knights Tango"]
+[Variation "3 Nc3"]
+[Result "0-1"]
+
+1. d4 Nf6 2. c4 Nc6 3. Nc3 e5 4. d5 Ne7 5. e4 Ng6 6. Nf3 Bb4 7. Qc2 O-O 8.
+h3 Bxc3+ 9. bxc3 d6 10. Be3 Nd7 11. g4 Qf6 12. Be2 Nf4 13. Rh2 b6 14. O-O-O
+Nxe2+ 15. Qxe2 Nc5 16. Bg5 Qg6 17. Re1 f6 18. Bd2 a6 19. Nh4 Qe8 20. Ng2
+Qa4 21. Kb2 b5 22. cxb5 axb5 23. Ra1 Nb3 24. axb3 Qxa1+ 25. Kc2 Qa2+ 26.
+Kd3 b4 27. Ke3 Qxb3 28. Qe1 Ra3 29. Kf3 bxc3 30. Bc1 Ra1 31. Qe3 Qd1+ 32.
+Kg3 Qxc1 33. Qe2 c2 34. Ne3 Qg1+ 35. Kh4 c1=Q 36. Rg2 Qh1 37. Nf5 {score confused around here}
+0-1
+
+[Event "Bicester 1 v Cowley 2"]
+[Site "Bicester"]
+[Date "2006.11.09"]
+[Round "-"]
+[White "Daniel Beckett"]
+[Black "David Robson"]
+[WhiteECF "84"]
+[BlackECF "119"]
+[Opening "French"]
+[Variation "Winawer"]
+[Result "0-1"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Ne2 dxe4 5. a3 Bxc3+ 6. Nxc3 Nc6 7. Be3 Nf6
+8. g3 e5 9. d5 Ne7 10. Bc4 Bg4 11. Qd2 Bf3 12. Rg1 O-O 13. Bg5 Ne8 14. Bxe7
+Qxe7 15. Be2 Nd6 16. Bxf3 exf3 17. O-O-O b5 18. h4 a5 19. Nb1 Rfb8 20. h5
+h6 21. g4 b4 22. g5 Ne4 23. Qe3 Nxg5 24. Rg4 Rb6 25. Rd3 Rab8 26. Rb3 Qd7
+27. Rc4 Qd6 28. Qc5 Qxc5 29. Rxc5 Rb5 30. Rxc7 Rxd5 31. Rd3 Rdb5 32. axb4
+Rxb4 33. b3 a4 34. Nd2 axb3 35. Rxb3 e4 36. Rxb4 Rxb4 37. c4 f5 38. c5 Nh3
+39. c6 Rb6 40. Nf1 Nxf2 41. Rc8+ Kf7 42. c7 Rc6+ 43. Kd2 f4 44. Rd8 Rxc7
+45. Rd4 Ke6 46. Ra4 e3+ 47. Nxe3 Rd7+
+0-1
 
