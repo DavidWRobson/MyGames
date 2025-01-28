@@ -5676,7 +5676,7 @@ Nf3 d6 9. Qc2 Bg4 10. g3 Bh3 11. Ng5 Bd7 12. h4 h6 13. h5 Ne7 14. Nh3 Qc8
 [Round "-"]
 [White "David Robson"]
 [Black "Ray Starkie"]
-[WhiteECF "121"]
+[WhiteECF "119"]
 [BlackECF "183"]
 [Opening "Sicilian"]
 [Variation "Alapin"]
@@ -5688,4 +5688,40 @@ Rad1 Rc8 15. Rfe1 e6 16. Bg5 Qa5 17. Ne5 Nb6 18. Bd2 b4 19. Nb1 Nbd5 20.
 Nd3 Qc7 21. Rc1 Qb8 22. Bg5 h6 23. Bh4 Nf4 24. Qd2 Nxg2 25. Bg3 Nxe1 26.
 Rxe1 Qa7 27. Qxb4 Nd5 28. Qd2 Qxd4 29. Rc1 h5 {Score confused here or earlier}
 0-1
+
+[Site "inspiron-15-5518"]
+[Date "2006.03.20"]
+[Round "-"]
+[White "David Robson"]
+[Black "Tim King"]
+[WhiteECF "119"]
+[BlackECF "121"]
+[Opening "Sicilian"]
+[Variation "Alapin"]
+[Result "1-0"]
+
+1. e4 c5 2. c3 d6 3. d4 cxd4 4. cxd4 Nf6 5. Nc3 e6 6. Nf3 a6 7. a4 Be7 8.
+Bd3 Nc6 9. Be3 Qc7 10. h3 Bd7 11. O-O O-O 12. Qe2 Rac8 13. Rac1 Qa5 14. Nd2
+d5 15. e5 Ne8 16. f4 f5 17. Kh1 g6 18. g4 Ng7 19. g5 Kh8 20. Qe1 Qb4 21.
+Nf3 Rg8 22. Rg1 Na5 23. Rg2 Nc4 24. Qe2 Nxe3 25. Qxe3 Bxa4 26. h4 Bd7 27.
+Re2 Bb5
+1-0
+
+[Site "Cowley"]
+[Date "2006.03.13"]
+[Round "-"]
+[White "David Robson"]
+[Black "Stephen Burns"]
+[WhiteECF "139"]
+[BlackECF "121"]
+[ECO "B13"]
+[Opening "Caro Kann"]
+[Variation "Panov"]
+[Result "1-0"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 6. Nf3 Bb4 7. Bd2 O-O 8.
+a3 Be7 9. c5 b6 10. b4 Ne4 11. Bd3 Nxd2 12. Qxd2 a5 13. Rb1 axb4 14. axb4
+bxc5 15. bxc5 Ba6 16. O-O Bxd3 17. Qxd3 Nc6 18. Rb6 Qd7 19. Rfb1 Rfb8 20.
+Ne5
+1-0
 
