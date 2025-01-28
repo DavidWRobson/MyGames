@@ -5673,7 +5673,7 @@ Nf3 d6 9. Qc2 Bg4 10. g3 Bh3 11. Ng5 Bd7 12. h4 h6 13. h5 Ne7 14. Nh3 Qc8
 [Event "Cowley Club Championship"]
 [Site "Cowley"]
 [Date "2006.05.22"]
-[Round "-"]
+[Round "Final"]
 [White "David Robson"]
 [Black "Ray Starkie"]
 [WhiteECF "119"]
@@ -5689,7 +5689,8 @@ Nd3 Qc7 21. Rc1 Qb8 22. Bg5 h6 23. Bh4 Nf4 24. Qd2 Nxg2 25. Bg3 Nxe1 26.
 Rxe1 Qa7 27. Qxb4 Nd5 28. Qd2 Qxd4 29. Rc1 h5 {Score confused here or earlier}
 0-1
 
-[Site "inspiron-15-5518"]
+[Event "Cowley 2 v Oxford City 2"]
+[Site "Cowley"]
 [Date "2006.03.20"]
 [Round "-"]
 [White "David Robson"]
@@ -5707,6 +5708,7 @@ Nf3 Rg8 22. Rg1 Na5 23. Rg2 Nc4 24. Qe2 Nxe3 25. Qxe3 Bxa4 26. h4 Bd7 27.
 Re2 Bb5
 1-0
 
+[Event "Cowley Club Championship"]
 [Site "Cowley"]
 [Date "2006.03.13"]
 [Round "-"]
