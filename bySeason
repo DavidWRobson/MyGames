@@ -1,0 +1,19 @@
+#!/bin/bash
+
+MAXYEAR=$[$(chessgames |cut -b 1-4 | sort -n | tail -1)+1]
+for YEAR in $(chessgames |cut -b 1-4 | sort  -u)
+do
+    LASTYEAR=$[$YEAR-1]
+    chessgames | egrep -q "^${LASTYEAR}.09|${LASTYEAR}.1|^${YEAR}.0[1-8]" &&\
+      (echo -e "\nSeason beginning autumn $LASTYEAR" ; echo "----------------------------"; \
+      chessgames | egrep "^${LASTYEAR}.09|^${LASTYEAR}.1|^${YEAR}.0[1-8]" | analyseGames)
+done
+
+if [ $YEAR -ne $MAXYEAR ]
+then
+    LASTYEAR=$[$MAXYEAR-1]
+    chessgames | egrep -q "^${LASTYEAR}.09|${LASTYEAR}.1|^${MAXYEAR}.0[1-8]" &&\
+      (echo -e "\nSeason beginning autumn $LASTYEAR" ; echo "----------------------------"; \
+      chessgames | egrep "^${LASTYEAR}.09|^${LASTYEAR}.1|^${MAXYEAR}.0[1-8]" | analyseGames)
+fi
+
