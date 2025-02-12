@@ -39,8 +39,8 @@ for line in sys.stdin:
     OppRating = line[50:54].strip()
     if not OppRating.isnumeric():
        OppRating= MyRating
-    RatingChange = line[55:61].strip()
-    opening = line[61:84]
+    RatingChange = line[60:65].strip()
+    opening = line[66:89]
     gameDate = int( line[0:10].replace('/','') )
 
     if gameDate > maxDate:
