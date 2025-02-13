@@ -1,3 +1,40 @@
+[Event "Oxford City 2 v Cowley 2"]
+[Site "Oxford City"]
+[Date "2005.12.12"]
+[Round "-"]
+[White "John Yates"]
+[Black "David Robson"]
+[WhiteECF "129"]
+[BlackECF "119"]
+[Opening "French"]
+[Variation "Tarrasch"]
+[Result "1-0"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Bd3 Nc6 5. c3 Bd6 6. Nf3 Nge7 7. O-O Bg4
+8. Bg5 f6 9. Bh4 Qd7 10. Nbd2 O-O-O 11. b4 Nf5 12. Bg3 Nxg3 13. fxg3 h5 14.
+Qc2 Ne7 15. Nh4 {score confused around here}
+1-0
+
+[Event "Cowley 2 v Didcot 2"]
+[Site "Cowley"]
+[Date "2006.01.30"]
+[Round "-"]
+[White "David Robson"]
+[Black "Peter Williams"]
+[WhiteECF "119"]
+[BlackECF "110"]
+[Opening "French"]
+[Variation "Tarrasch"]
+[Result "1/2-1/2"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Ngf3 c5 6. c3 Nc6 7. Bd3 Qb6 8.
+O-O cxd4 9. cxd4 Nxd4 10. Nxd4 Qxd4 11. Nf3 Qg4 12. h3 Qb4 13. a3 Qb6 14.
+Qa4 Be7 15. Qg4 g6 16. b4 a5 17. Be3 Qd8 18. Bb5 O-O 19. Bh6 f5 20. exf6
+Rxf6 21. h4 Rf5 22. Nd4 Nf6 23. Qe2 Rh5 24. Bg5 Ne4 25. Bxe7 Qxe7 26. g3 e5
+27. Nf3 Bg4 28. Qd3 Qf7 29. Nd2 Nxd2 30. Qxd2 Bh3 31. Rfc1 Rf8 32. Kh2 Be6
+33. Rf1 Rf5 34. Kg2 {score confused around here}
+1/2-1/2
+
 [Event "Kidlington U-125"]
 [Site "Exeter Hall, Kidlington"]
 [Date "2006.02.04"]
