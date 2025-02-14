@@ -13,7 +13,7 @@
 1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Be2 cxd4 7. cxd4 Nh6 8.
 Nc3 Nf5 9. Bb5 Bd7 10. Bxc6 bxc6 11. O-O Be7 12. b3 c5 13. Be3 O-O 14. dxc5
 Bxc5 15. Bxc5 Qxc5 16. Rc1 Rfc8 17. h3 Qb4 18. Qd2 a5 19. Rfe1 a4 20. bxa4
-Bxa4 21. Nxa4 Qxa4 22. Rxc8+ Rxc8 23. Rc1 Rb8
+Bxa4 21. Nxa4 Qxa4 22. Rxc8+ Rxc8 23. Rc1 Ra8 {score confused around here, won in 39}
 0-1
 
 [Event "MCS 1 v Cowley 2"]
@@ -311,6 +311,7 @@ Nd7+ Ke8 39. Nxb6 c4 40. Nd5 Ne4 41. f3 Nd2 42. Nc3 {Score confused}
 [WhiteECF "124"]
 [BlackECF "119"]
 [Opening "French"]
+[Variation "La Bourdonnais"]
 [Result "1-0"]
 
 1. e4 e6 2. f4 d5 3. exd5 exd5 {Score confused}
