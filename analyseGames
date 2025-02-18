@@ -113,7 +113,7 @@ if sumCount > 0:
           (int(100*sumScore/sumCount), sumScore, sumCount, sumPerf/sumPerfCount))
 for opening in whiteResults.keys():
     count, score, numPerf, totPerf  = whiteResults[opening]
-    print("%20s %3d%%    %4.1f out of %2d. Perf. Rating = %d" % (opening, int(100*score/count), score, count, totPerf/numPerf,))
+    print("%20s %3d%%    %4.1f out of %2d Perf. Rating = %d" % (opening, int(100*score/count), score, count, totPerf/numPerf,))
 
 # Report on Black Openings
 
@@ -129,5 +129,5 @@ if sumCount > 0:
           (int(100*sumScore/sumCount), sumScore, sumCount, sumPerf/sumPerfCount))
 for opening in blackResults.keys():
     count, score, numPerf, totPerf  = blackResults[opening]
-    print("%20s %3d%%    %4.1f out of %2d. Perf. Rating = %d" % (opening, int(100*score/count), score, count, totPerf/numPerf,))
+    print("%20s %3d%%    %4.1f out of %2d Perf. Rating = %d" % (opening, int(100*score/count), score, count, totPerf/numPerf,))
 
