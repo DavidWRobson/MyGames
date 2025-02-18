@@ -1,3 +1,41 @@
+[Event "Cowley 2 v North Oxford"]
+[Site "Cowley"]
+[Date "2005.04.04"]
+[Round "-"]
+[White "Eric Ward"]
+[Black "David Robson"]
+[Opening "English"]
+[WhiteECF "111"]
+[BlackECF "128"]
+[Result "0-1"]
+
+1. Nf3 Nf6 2. c4 e6 3. g3 d5 4. cxd5 exd5 5. Bg2 Bd6 6. Nc3 O-O 7. d4 c6 8.
+O-O Bg4 9. Bg5 h6 10. Bd2 Qb6 11. Na4 Qc7 12. Rc1 Nbd7 13. Qb3 Rfe8 14.
+Rfe1 a5 15. Nc3 Qb6 16. Qc2 Bxf3 17. Na4 Qa7 18. Bxf3 Qxd4 19. Be3 Qe5 20.
+Bf4 Qe7 21. Bxd6 Qxd6 22. Qb3 Qb4 23. Qc2 Ne5 24. Bg2 Re7 25. a3 Qd6 26.
+Rcd1 Qe6 27. Nc5 Qg4 28. Rc1 Nc4 29. Qb3 a4 30. e3 b6 31. Nd3 Ne4 32. Qb4
+Qd7 33. f3 c5
+0-1
+
+[Event "Didcot 1 v Cowley 1"]
+[Site "Didcot"]
+[Date "2005.04.13"]
+[Round "-"]
+[White "John Richards"]
+[Black "David Robson"]
+[Opening "English"]
+[WhiteECF "128"]
+[BlackECF "128"]
+[Result "0-1"]
+
+1. c4 Nf6 2. Nc3 e6 3. e4 d5 4. e5 d4 5. exf6 dxc3 6. fxg7 cxd2+ 7. Qxd2
+Qxd2+ 8. Bxd2 Bxg7 9. O-O-O Bd7 10. Bb4 Nc6 11. Ba3 O-O-O 12. Be2 Nd4 13.
+Bh5 Bc6 14. f3 Rd7 15. Bc5 Rhd8 16. Bxd4 Bxd4 17. Ne2 Bxb2+ 18. Kxb2 Rxd1
+19. Rxd1 Rxd1 20. Kc3 Be8 21. f4 Rf1 22. h4 Kd8 23. Bf3 Bc6 24. Bxc6 bxc6
+25. g3 c5 26. Kd2 Ke7 27. g4 Rh1 28. Ke3 Rxh4 29. Kf3 Rh1 30. Kg2 Ra1 31.
+Nc3 Rc1 32. Nb5 Rxc4 33. Kg3 Ra4 34. Nxc7 Kd7 35. Nb5 Kc6
+0-1
+
 [Event "Oxford City 3 vs Cowley 2"]
 [Site "Oxford City"]
 [Date "2005.10.03"]
@@ -196,7 +234,8 @@ Rxf6 21. h4 Rf5 22. Nd4 Nf6 23. Qe2 Rh5 24. Bg5 Ne4 25. Bxe7 Qxe7 26. g3 e5
 [Round "1"]
 [White "David J Gilbert"]
 [Black "David Robson"]
-[Opening "English"]
+[Opening "Caro Kann"]
+[Variation "Panov Botvinnik"]
 [WhiteECF "101"]
 [BlackECF "119"]
 [Result "1-0"]
@@ -216,7 +255,7 @@ Ke2 Be7 33. b5 Na5 34. Rc2 Kf8 35. Rb1 Bd6 36. Bd2 Ra8 37. Bb4 Ke7 38. Rc7+
 [White "David Robson"]
 [Black "James Pothecary"]
 [Opening "Caro Kann"]
-[Variation "Panov"]
+[Variation "Panov Botvinnik"]
 [WhiteECF "119"]
 [BlackECF "89"]
 [Result "1-0"]
@@ -336,7 +375,7 @@ Qxf6 8. e3 O-O 9. Bd3 d6 10. O-O e5 11. Nd2 Bf5 12. Bxf5 Qxf5 13. e4 Qf6
 [BlackECF "121"]
 [ECO "B13"]
 [Opening "Caro Kann"]
-[Variation "Panov"]
+[Variation "Panov Botvinnik"]
 [Result "1-0"]
 
 1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 6. Nf3 Bb4 7. Bd2 O-O 8.
@@ -3776,7 +3815,7 @@ Rhe1 Qf7 21. Bc4 Nd5 22. Be3 Nxe3 23. Rxd7 Kxd7 24. Rxe3 Qf4 25. Qxe6+ Kd8
 [BlackECF "156"]
 [ECO "B13"]
 [Opening "Caro Kann"]
-[Variation "Panov"]
+[Variation "Panov Botvinnik"]
 [TimeControl "0"]
 
 1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Bg5 dxc4 7. Nf3 Bg4 8. 
