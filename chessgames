@@ -194,8 +194,9 @@ for line in Lines:
               ratingIncrease = round(ECFchange( myRating, playerRating, result),1)
 
               if myRating != myOldRating:
+                 # There has been a change to my recorded rating, so use that as a base
                  myOldRating = myRating
-                 myInstantRating = float(myRating)
+                 myInstantRating = float(myRating) + float(ratingIncrease)
               else:
                  myInstantRating += float(ratingIncrease)
               
