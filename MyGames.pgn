@@ -1,3 +1,40 @@
+[Event "Wantage 2 vs Cowley 2"]
+[Site "Wantage"]
+[Date "2004.11.09"]
+[Round "-"]
+[White "David Robson"]
+[Black "Paul Paxton-Doggett"]
+[WhiteECF "148"]
+[BlackECF "147"]
+[Opening "Alekhine"]
+[Variation "Four Pawns Attack"]
+[Result "1/2-1/2"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. f4 dxe5 6. fxe5 Nc6 7. Be3 Bf5 8.
+Nf3 e6 9. Nc3 Be7 10. Be2 O-O 11. O-O f6 12. exf6 Bxf6 13. Qd2 Rf7 14. Rfd1
+Rd7 15. h3 Qe7 16. Qe1 Nb4 17. Rac1 Nc2 18. Qf2 Rad8 19. Ne5 Bxe5 20. dxe5
+Rxd1+ 21. Rxd1 Rxd1+ 22. Nxd1 Qf7 23. Qh4 Qe8 24. Bxb6 axb6 25. Nc3 Qd7 26.
+Bf3 c6 27. Kh2 Nd4 28. Be4 c5 29. Qf4 h6 30. g4 Bxe4 31. Nxe4 Qf7 {Score confused}
+1/2-1/2
+
+[Event "Didcot 2 vs Cowley 2"]
+[Site "Didcot"]
+[Date "2004.11.15"]
+[Round "-"]
+[White "Andrew Webb"]
+[Black "David Robson"]
+[WhiteECF "130"]
+[BlackECF "147"]
+[Opening "French"]
+[Variation "Exchange"]
+[Result "1-0"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. c4 c6 5. Nc3 Be7 6. Bd3 dxc4 7. Bxc4 Nf6
+8. Nge2 O-O 9. a4 Bf5 10. O-O Nbd7 11. Ng3 Bg6 12. f4 Nb6 13. Bb3 h6 14. f5
+Bh7 15. Be3 Nbd5 16. Bf2 Qd7 17. Qf3 Rad8 18. Rad1 Bb4 19. Kh1 Ne7 20. Bc2
+Rfe8 21. Bg1 Ned5 22. Nce4 Be7 23. Bf2 Nxe4 24. Nxe4 {Score confused}
+1-0
+
 [Event "Cowley 2 vs Oxford City 3"]
 [Site "Cowley"]
 [Date "2004.11.22"]
@@ -1705,7 +1742,7 @@ Nf3 Kf6 33. Nxg5 hxg5 34. Ra8
 [White "David Robson"]
 [Black "Paul Paxton-Doggett"]
 [Opening "Alekhine"]
-[Variation "Four Pawns"]
+[Variation "Four Pawns Attack"]
 [WhiteECF "157"]
 [BlackECF "153"]
 [Result "1/2-1/2"]
@@ -2067,7 +2104,7 @@ Ke5 b5 45. Rf6+ Ke8 {score confusedfrom here}
 [White "David Robson"]
 [Black "Philip Hayward"]
 [Opening "Alekhine"]
-[Variation "Four Pawns"]
+[Variation "Four Pawns Attack"]
 [WhiteECF "143"]
 [BlackECF "173"]
 [Result "1/2-1/2"]
@@ -2847,7 +2884,7 @@ f4 Bf6 27. Ne4 Be7 28. cxd4 g6 29. Bh3 Rxd4 30. Rce1 Bc5 31. Nf6+
 [White "David Robson"]
 [Black "Leif Dixon"]
 [Opening "Alekhine"]
-[Variation "Four Pawns"]
+[Variation "Four Pawns Attack"]
 [WhiteECF "149"]
 [BlackECF "160"]
 [Result "1/2-1/2"]
@@ -6254,9 +6291,9 @@ Nxa3 44. Rxa7 Nc2 45. Rb7
 [Result "1-0"]
 
 1. e4 c5 2. c3 g6 3. d4 cxd4 4. cxd4 d5 5. e5 a6 6. Nc3 Nc6 7. Be3 Nh6 8.
-Nge2 Nf5 9. Nf4 Nxe3 10. fxe3 e6 11. Be2 Bh6 12. O-O O-O 13. Qd2 b5 14. Nd1
+Nge2 Nf5 9. Nf4 {9. Qd2 is more accurate} Nxe3 10. fxe3 e6 11. Be2 Bh6 12. O-O O-O 13. Qd2 b5 14. Nd1
 Qb6 15. Rf3 Bb7 16. Nf2 Rfd8 17. Ng4 Bg7 18. Raf1 Nxe5 19. dxe5 d4 20. Rh3
-dxe3 21. Qxe3 Qxe3+ 22. Rxe3 Rd2 23. Bf3 Bxf3 24. Rexf3 Rxb2 25. Nd3 Rxa2
+dxe3 21. Qxe3 Qxe3+ 22. Rxe3 Rd2 23. Bf3 Bxf3 24. Rexf3 Rxb2 25. Nd3 {? a3 is better} Rxa2
 26. Rxf7 Rd8 27. Ra7 h5 28. Rff7 hxg4 29. Rxg7+ Kh8 30. Rgb7 Rf8 31. Rh7+
 1-0
 
