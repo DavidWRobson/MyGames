@@ -113,7 +113,7 @@ Rac1 { Score confused around here.  I won on move 35.  }
 0-1
 
 [Event "Cowley 2 v Didcot 2"]
-[Site "inspiron-15-5518"]
+[Site "Cowley"]
 [Date "2005.02.28"]
 [Round "-"]
 [White "Bernard Rowlings"]
@@ -6332,6 +6332,25 @@ Bxc6 bxc6 15. Rfe1 Rd8 16. Nf3 Rd7 17. Qd1 c5 18. Ne5 Rb7 19. g4 Be4 20. f3
 Bg6 21. Nxg6 hxg6 22. Re2 cxd4 23. cxd4 Qc4 24. Be5 Rc8 25. f4 Rb4 26. a3
 Rb3 27. Kg2 Bxe5 28. fxe5 Rcb8 {? g5 is better} 29. Rc1 Qb5 30. Rc5 Qb6 31. Rec2 Qa7 {?? Rxb2 is better} 32. Re2
 R8b5 {??} 33. Qc1 a5 {?? Checkmate is unavoidable} 34. Rc8+ Kh7 35. Rc7 Rb7 {Qb6 was best} 36. Rxb7 Qxb7 37. Rc2 Qb6 38. Qd2
-Qb5 39. Qf2 Qd3 {?? Checkmate is unavoidable] 40. Qh4+
+Qb5 39. Qf2 Qd3 {?? Checkmate is unavoidable} 40. Qh4+
 1-0
+
+[Event "Witney 2 v Cowley 2"]
+[Site "Ducklington Hall"]
+[Date "2025.05.12"]
+[Round "-"]
+[White "David Robson"]
+[Black "Daniel O'Byrne"]
+[WhiteECF "1791"]
+[BlackECF "1696"]
+[Opening "French"]
+[Variation "Two Knights"]
+[Result "1/2-1/2"]
+
+1. e4 e6 2. Nf3 d5 3. Nc3 Nf6 4. e5 Nfd7 5. d4 c5 6. Bg5 Qb6 7. dxc5 Bxc5
+8. Qd2 Nc6 9. Bb5 {? Stockfish recommends 0-0-0} d4 10. Bxc6 dxc3 11. Bxd7+ Bxd7 12. bxc3 Bb5 13. Nd4 Bc4
+14. Nb3 Ba3 15. Qd4 Qc6 16. f3 b6 17. Nd2 Ba6 18. Ne4 O-O 19. Rd1 h6 20.
+Be3 Rfc8 21. Kf2 Bb2 22. Bd2 {?? 22. Qb4+ Bxc3 23. Nxc3 Qxc3 24. Rd8!} Rd8 23. Qb4 Qb5 {? Be3 was better} 24. Qxb5 Bxb5 25. Rb1 Bc6 26.
+Rxb2 Bxe4 27. Be3 Bd5 28. a3 Rac8 29. Bd4
+1/2-1/2
 
