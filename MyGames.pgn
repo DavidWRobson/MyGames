@@ -1399,7 +1399,7 @@ Bc1 Rd1+ 33. Ke2 Rxc1 34. Nxc1 Bxc1 35. Kd3 Kf7 36. g4 Nf2+ 37. Kc2 Nxh3
 [SubVariation "Barmen"]
 [Result "1-0"]
 
-1. e4 c5 {+0.14/9 4} 2. c3 d5 3. exd5 Qxd5 4. d4 e6 5. Nf3 Nf6 6. Bd3 Nc6
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 e6 5. Nf3 Nf6 6. Bd3 Nc6
 7. O-O cxd4 8. cxd4 Be7 9. Nc3 Qd6 10. a3 O-O 11. Be3 b6 12. Rc1 Bb7 13.
 Bb1 Rac8 14. Qd3 Rfd8 15. Rfd1 Qb8 16. Qe2 Qa8 17. b4 a5 18. b5 Nb8 19. a4
 Nbd7 20. Ne1 Nd5 21. Bd2 Bf6 22. Qd3 Nf8 23. Ne4 Be7 24. Nf3 Nf6 25. Nxf6+
@@ -1744,18 +1744,6 @@ Score confused around here
 }
 1/2-1/2
 
-[Event "Didcot 1 v Cowley 1"]
-[Site "Didcot"]
-[Date "2010.11.29"]
-[White "Andrew Robins"]
-[Black "David Robson"]
-[WhiteECF "141"]
-[BlackECF "157"]
-[Opening "UNKNOWN"]
-[Result "1-0"]
-1. UNKNOWN {Score lost}
-1-0
-
 [Event "Witney 1 v Cowley 1"]
 [Site "Witney"]
 [Date "2011.01.10"]
@@ -1788,7 +1776,7 @@ Be7 8. Nbd2 Nbd7 9. O-O O-O 10. Rfe1 c6 11. Ne5 Nxe5 12. Rxe5 Qd7 13. Rae1
 Bd8 14. c3 Qd6 15. Bxf6 Bxf6 16. R5e2 Qd7 17. Nf3 Rae8 18. Ne5 Qc7 19. Ng4
 Qd7 20. Nxf6+ gxf6 21. Qg3+ Kh8 22. Qf4 Re6 23. Rxe6 fxe6 24. Qg4 Re8 25.
 h3 Qf7 26. f4 Qg8 27. Qf3 Qg6 28. f5 exf5 29. Rxe8+ Qxe8 30. Qxf5 Qe1+ 31.
-Kh2 Qe7 32. Kg3 Qe3+ 33. Qf3 Qg5+ 34. Kh2 Kg7 35. Qg3 Kg6 {Score confusedaround here}
+Kh2 Qe7 32. Kg3 Qe3+ 33. Qf3 Qg5+ 34. Kh2 Kg7 35. Qg3 Kg6 {Score confused around here}
 0-1
 
 [Event "Cowley 1 v Wantage 1"]
@@ -2024,7 +2012,7 @@ Nd6 39. Kg3 Ke6 40. Kf2 Kf7
 [Variation "Advance"]
 [Result "1-0"]
 
-1. e4 e6 {+0.18/9 5} 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. a3 c4 7.
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. a3 c4 7.
 Nbd2 f6 8. b3 cxb3 9. Nxb3 Bd7 10. Bd3 Be7 11. O-O Nh6 12. exf6 Bxf6 13.
 Nc5 Na5 14. Rb1 Qc7 15. Qe2 O-O-O 16. Ba6 Bc6 17. Qxe6+ Bd7 18. Nxb7 Nxb7
 19. Qxd5 Bc6 20. Qc5 Kb8 21. Bf4
@@ -4271,6 +4259,7 @@ Qxd7 Qxa5 38. Qd6+ Kg8 {??} 39. Qe7 1-0
 bxc6 7. Nxe4 Nf6 8. Qe2 Be7 9. Ne5 Qb6 10. O-O Ba6 11. Nc4 Bxc4 12. Qxc4 Qb4 
 13. Nxf6+ Bxf6 14. Qxb4 cxb4 15. c3 O-O {Score confused from here on.   Drawn 
 on move 31} 1/2-1/2
+
 [Event "Frank Wood Final - Cowley Countergambits v The Grunifeld Defence"]
 [Site "Rose Hill Methodist Church, Rose Hill, Oxford"]
 [Date "2019.05.27"]
@@ -4353,10 +4342,7 @@ Rxd1+ 27. Rxd1 Rc5 28. f4 g5 {Score confused after this} 0-1
 8. Qd2 Nc6 9. Bxc6 bxc6 10. Bh6 Nd5 11. h4 Rb8 12. Bxg7 Kxg7 13. h5 Qd6 14.
 Nf3 Qf6 15. hxg6 Qxg6 16. Ne5 Qe6 17. O-O-O Nxc3 18. Rxh7+ Kxh7 19. Rh1+
 Kg8 20. Qg5+ Qg6 21. Nxg6
-{
-Game score makes no sense from now on
-}
-
+{Game score makes no sense from now on}
 1-0
 
 [Event "Witney 1 v Cowley 1"]
@@ -4482,10 +4468,7 @@ c5 8. c3 cxd4 9. cxd4 Be7 10. O-O b6 11. Ne5 O-O 12. Nc6 Qc7 13. Nxe7+ Qxe7
 14. Bg5 Bb7 15. Re1 h6 16. Bh4 Rfd8 17. Re3 Qb4 18. Bxf6 gxf6 19. Qh5 Kf8
 20. Qxh6+ Ke7 21. Rae1 Qxd4 22. Bf5 Bd5 23. Qg7 Kd6 24. Qxf7 exf5 25. Qe7+
 Kc6 26. Rc1+ Kb5 27. a4+ Ka6 28. Qa3 Rac8 29. Rce1 Rc4 30. Qe7 Rdc8 31. a5
-{
-Game confused
-}
-
+{ Game confused }
 0-1
 
 [Event "Kidlington"]
@@ -4507,10 +4490,7 @@ Be3 Be6 9. a3 O-O 10. Qd2 d5 11. exd5 Nxd5 12. Nxd5 Qxd5 13. Bf3 e4 14.
 Qxd5 Bxd5 15. Be2 Nc6 16. O-O-O Bxb3 17. cxb3 b5 18. Rd7 Rfd8 19. Rhd1 Kf8
 20. Bg4 Rxd7 21. Bxd7 Ne5 22. Bf5 Rd8 23. Rxd8+ Bxd8 24. Bxe4 Ke7 25. Bc5+
 Ke6 26. g4 Nd7 27. Bb4 g6 28. f4 f5 29. Bf3 Bc7 30. Bd2 Nf6 31. Bb7
-{
-Score confused
-}
-
+{Score confused}
 1/2-1/2
 
 [Event "Kidlington"]
@@ -4572,9 +4552,7 @@ Rfc1 Qd7 15. Rc3 Qb7 16. Qd2 f6 17. exf6 Rxf6 18. Re1 Qd7 19. Bg5 Rf7 20.
 Rce3 Nd8 21. Ne5 Bxe5 22. Rxe5 Rc8 23. h4 Rc6 24. h5 gxh5 25. Qe2 Rf5 26.
 Bxe7 Rxe5 27. Qxe5 Qxe7 28. Re3 h4 29. Qxd5 exd5 30. Rxe7 a6 31. Re8+ Kf7
 32. Rxd8 Rc2 33. Rxd5 a5 34. Rb5 Rxb2 35. Rxb6
-{
-Score confused at this stage
-}
+{Score confused at this stage}
 1/2-1/2
 
 [Event "Banbury 1 v Cowley 1"]
@@ -4591,9 +4569,7 @@ Score confused at this stage
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f3 e5 7. Nb3 Be7 8.
 Be3 Be6 9. Qd2 O-O 10. O-O-O Nc6 
-{
-I was intending to follow Banad-Danner -Stary Smokovec 1981 here, and should have played a5
-}
+{I was intending to follow Banad-Danner -Stary Smokovec 1981 here, and should have played a5}
 11. g4 a5 12. Kb1 a4 13. Nc1 Ra5 14. g5
 Ne8 15. a3 Nc7 16. h4 Qb8 17. Bb6 Ra8 18. h5 f6 19. gxf6 Rxf6 20. Qg2 Ne8
 21. Rg1 Bf7 22. Nd5 Rh6 23. Nc7 Rxh5 24. Nxa8 Qxa8 25. Bb5 Rg5 26. Qf2 Rg6
@@ -4601,10 +4577,7 @@ Ne8 15. a3 Nc7 16. h4 Qb8 17. Bb6 Ra8 18. h5 f6 19. gxf6 Rxf6 20. Qg2 Ne8
 33. Bxf7+ Kxf7 34. Qc4+ Ke8 35. Qxa4 Kd7 36. Qxa5 Nxa5 37. b3 h6 38. Kb2
 Bf8 39. Nd5 Nh5 40. c4 Kc6 41. Nb4+ Kc7 42. Nd5+ Kc6 43. Nb4+ Kc7 44. Nd3
 Nc6 45. b4 Ng3
-{
-Score confused at this stage
-}
-
+{Score confused at this stage}
 1-0
 
 [Event "Cowley 1 v Cumnor 1"]
@@ -4745,7 +4718,6 @@ g3+ Kg5 1/2-1/2
 [Result "1-0"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 Ng4 7. Bg5 h6 8. Bh4 g5 9. Bg3 Bg7 10. Qd2 Nc6 11. Nb3 Be6 12. O-O-O Rc8 13. Nd5 Nce5 14. f3 Nf6 15. Ne3 Nc6 16. Nf5 Bxf5 17. exf5 Qd7 18. Bd3 Nh5 19. Be1 O-O 20. g4 Nf4 21. Bf1 Qc7 22. Qf2 a5 23. a4 Nb4 24. Rd2 Nfd5 25. Kb1 Nb6 26. h4 Be5
-
 {Score confused here.  Lost in 7 more moves}
 1-0
 
@@ -4926,7 +4898,6 @@ Bb5 Nf6 9. Qf3 Bd7 10. Nce4 Ne5 11. Nxf6+ exf6 12. Bxd7+ Nxd7 13. Ne4 Qb6
 20. Qc4 b6 21. f4 Qd5 22. d3 exf4 23. exf4 f5 24. Ng5 Rfe8 25. Rfe1 Qxc4
 1/2-1/2
 
-
 [Event "Cowley 2 v Didcot 2"]
 [Site "Rose Hill Methodist Church, Rose Hill, Oxford"]
 [Date "2022.10.24"]
@@ -4945,10 +4916,7 @@ Nb7 15. Nd4 Bxe2 16. Rxe2 a6 17. Nc6 Qc7 18. Ba3 Rfe8 19. Nxe7+ Kh8 20. d6
 Qd7 21. Nd5 Rad8 22. Nc7 Re5 23. f4 Rh5 24. e5 Qc6 25. e6 fxe6 26. Nxe6 Rd7
 27. Nxg7 Kxg7 28. Re7+ Kh6 29. Qd2 Nc5 30. f5+ g5 31. Rxd7 Nxd7 32. Re1 Rh4
 33. Re6+ Kh5 34. Qe2+ g4 35. Qe1 g3 36. h3
-{
-Black lost on time in a lost position
-}
-
+{Black lost on time in a lost position}
 1-0
 
 [Event "Didcot 1 v Cowley 2"]
@@ -4967,10 +4935,7 @@ Black lost on time in a lost position
 14. Bxd4 Qxd4 15. Rac1 Qe5 16. Rfd1 e6 17. Rd7 b5 18. Bb3 Rfc8 19. Rxc8+
 Rxc8 20. Qxf7+ Kh8 21. Qf3 Rc1+ 22. Bd1 Qf6 23. Qd3 Rc8 24. Rxa7 Rf8 25.
 Bf3 Qa1+ 26. Kh2 Qe5+ 27. g3 Qc5 28. Qa3 Qxf2+ 29. Bg2 Qe1
-{
-Score confused at this point
-}
-
+{Score confused at this point}
 1-0
 
 [Event "Cumnor 1 v Cowley 1"]
@@ -4992,10 +4957,7 @@ Kg3 g5 27. Be3 Ne5 28. Rd1 Rxd1 29. Bxd1 Neg6 30. Bc2 f6 31. a4 b5 32. Bxf4
 Nxf4 33. h4 Kc7 34. hxg5 fxg5 35. Kf3 Kd6 36. Ke4 Ng6 37. axb5 axb5 38. Bd3
 Kc5 39. b4+ Kc6 40. Kd4 Nf4 41. Bf1 Nd5 42. Bg2 Kd6 43. Bf3 e5+ 44. Kd3 Nf6
 45. Ke3 Ke6 46. Be2 Kd5
-{
-Score confused/lost at this stage because both players very short of time
-}
-
+{Score confused/lost at this stage because both players very short of time}
 1/2-1/2
 
 [Event "Cowley 2 v City 2"]
@@ -5054,11 +5016,7 @@ Rf8 26. Rxf8+ Bxf8 27. b4 Kd7 28. Kg1 Ke6 29. Kf2 Kd5 30. Ke3 Bh6+
 1. e4 d6 2. d4 g6 3. Nc3 Bg7 4. Be3 a6 5. Be2 b5 6. h4 h5 7. Nh3 Nd7 8. Qd2
 Bb7 9. Bd3 c5 10. d5 b4 11. Nd1 Ngf6 12. Ng5 Ne5 13. O-O O-O 14. Bf4 Nh7
 15. Be2 Nxg5 16. Bxg5 Qd7 17. Bh6 a5 18. Bxg7 Kxg7 19. Ne3 Ba6 20. Bxa6
-Rxa6
-{
-Black offers a draw
-}
-
+Rxa6 {Black offers a draw}
 1/2-1/2
 
 [Event "Oxfordshire v Buckinghamshire"]
@@ -5079,9 +5037,7 @@ Nb3 Qc6 21. Nd4 Nxd4 22. exd4 b5 23. Ne5 Qb6 24. Nd3 e6 25. Kf1 Bf8 26. a3
 a5 27. Qd2 Kh7 28. Rb1 b4 29. axb4 axb4 30. Nxb4 Bxb4 31. cxb4 Rc4 {Rc2 wins} 32. Qf4
 R8c7 33. h4 Rxb4 34. Kg2 Rxb2+ 35. Rxb2 Qxb2+ 36. Rd2 Qb7 37. g4 Rc4 38.
 Qf6 Qc7 39. Kh3 Kg8 40. h5 g5 41. Ra2 Qb8 42. Qxh6 Qd8 43. Rd2
-{
-White offers draw
-}
+{White offers draw}
 1/2-1/2
 
 [Event "Didcot 2 v  Cowley 2"]
@@ -5101,10 +5057,7 @@ Nc2 cxd4 9. Ncxd4 Nxd4 10. Qxd4 Nf6 11. Be3 Be7 12. O-O Qxd4 13. Bxd4 O-O
 14. h3 Bf5 15. Ne5 Be4 16. c4 Rac8 17. Rfd1 Bc6 18. b3 Ne4 19. Nxc6 bxc6
 20. g3 c5 21. Be5 Rfd8 22. Bf3 Bf6 23. Bxf6 Nxf6 24. Bb7 Rb8 25. Bxa6 Ne4
 26. Kf1 Kf8 27. Rxd8+ Rxd8
-{
-Following moves not recorded.  White lost in time scramble
-}
-
+{Following moves not recorded.  White lost in time scramble}
 0-1
 
 [Event "Kidlington"]
@@ -5166,14 +5119,7 @@ Bb3 d5 9. O-O Be7 10. a3 Bd7 11. Re1 Rc8 12. Nc3 a6 13. Qd3 Na7 14. Ne2 Bb5
 21. Nd2 b5 22. Nf3 Qb6 23. Bd2 Nxd2 24. Rxd2 Na5 25. Qd3 Nc4 26. Rc2 b4 27.
 axb4 Qxb4 28. Ra1 a5 29. Qc3 Qxc3 30. bxc3 Rb5 31. Nd2 Nxd2 32. Rxd2 a4 33.
 f4 a3 34. Kf2 Rc8 35. Ke3 Rb2 36. Ra2 Rcb8 37. Nc1 Rxa2 38. Rxa2 Rb2 39.
-Kd3
-{
-=
-}
-39... g5 40. g3 gxf4 41. gxf4 Bh4
-{
-score confused
-}
+Kd3 {=} 39... g5 40. g3 gxf4 41. gxf4 Bh4 {score confused}
 1/2-1/2
 
 [Event "Kidlington"]
@@ -5268,10 +5214,7 @@ Qxc7 Rd7 27. Qc8+ Kg7 28. e6 Qh5 29. Qc3+ Kf8 30. Qc8+ Kg7 31. Qc3+ Kh7 32.
 Qh3 fxe6 33. Qxh5+ gxh5 34. Re1 Kg7 35. Kf1 Kf6 36. Ke2 Kf5 37. g3 Nf6 38.
 Be3 a6 39. Kf3 Rd3 40. Ke2 Rb3 41. Rb1 Ne4 42. Bf2 Kg4 43. Ke1 Nxf2 44.
 Kxf2 Rxg3 45. Re1 Kxf4 46. Rxe6 Rb3 47. Kg1
-{
-Both players had stopped recording from here on. Black eventually achieved Philidor's drawing method
-}
-
+{Both players had stopped recording from here on. Black eventually achieved Philidor's drawing method}
 1/2-1/2
 
 [Event "Cowley 2 v Didcot 1"]
@@ -5288,11 +5231,7 @@ Both players had stopped recording from here on. Black eventually achieved Phili
 c3 Rb8 9. a4 b6 10. Qc2 Bb7 11. Re1 e6 12. Nb3 a5 13. h3 h6 14. Bf4 Rc8 15.
 g4 Nd7 16. Bd6 Re8 17. e5 Ne7 18. d4 Ba6 19. Qd2 Bc4 20. Nc1 Rc6 21. Bxe7
 Qxe7 22. Nd3 Rec8 23. Bf1 R6c7 24. Reb1 cxd4 25. cxd4 Bb3 26. Rc1 Bf8 27.
-Rc3
-{
-=
-}
-
+Rc3 {=}
 1/2-1/2
 
 [Event "Cowley Williwaws v Banbury Bruisers"]
@@ -5311,11 +5250,7 @@ Rc3
 20. Bxd4 Bf4+ 21. Kb1 c5 22. Qf3 Bh6 23. Bf2 c4 24. Bxb6 cxb3 25. Bd4 bxc2+
 26. Kxc2 Qb4 27. Qb3 Qxb3+ 28. Kxb3 Rfe8 29. Rhe1 a6 30. Kc3 Rd6 31. Re2
 Rde6 32. Kc4 Bf4 33. Rd3 Rc6+ 34. Kb3 a5 35. a4 Rd6 36. Rf3 Rxd4 37. Rxf4
-Rb4+ 38. Ka3 f6 39. Rf5 Kb6
-{
-Rest of game not recorded during time scramble 
-}
-
+Rb4+ 38. Ka3 f6 39. Rf5 Kb6 {Rest of game not recorded during time scramble}
 0-1
 
 [Event "Wantage 1 v Cowley 2"]
@@ -5400,10 +5335,7 @@ h5 32. Ng3 Rf4 33. Kd3 h4 34. Ne2 Rf5 35. Ke4 Ra5 36. Nc3 c5 37. Be5 b5 38.
 a3 b4 39. Nb1 Kb7 40. h3 Kc6 41. Rd3 Nxe5 42. Kxe5 bxa3 43. Nxa3 Ra4 44.
 Rd6+ Kc7 45. Rf6 Rb4 46. Rxa6 Rxb2 47. Ra7+ Kb6 48. Rxf7 Rb3 49. Rf6+ Ka5
 50. Nb5 Kb4 51. Nd6 Re3+ 52. Kd5 Rd3+ 53. Ke6 Rd1 54. Rf5
-{
-Score confused in time scramble around here
-}
-
+{Score confused in time scramble around here}
 1-0
 
 [Event "Cowley 2 v Cumnor 2"]
@@ -5421,12 +5353,9 @@ O-O c5 9. Na4 Nc6 10. Ne5 Rc8 11. Bd3 Ne4 12. Nxc6 Rxc6 13. Nc3 Nxc3 14.
 Bxc3 Bxd3 15. cxd3 Bf6 16. Qc2 Qe7 17. Rac1 Rd8 18. Bxf6 Qxf6 19. Rf3 b6
 20. Qc3 Qe7 21. d4 Rdc8 22. Rff1 Qc7 23. Qb2 c4 24. Rc2 c3 25. dxc3 Rxc3
 26. Rxc3 Qxc3 27. Qxc3 Rxc3 28. Kf2 Rc2+ 29. Kf3 Rxa2 30. Rc1 Kf8 31. h4 h5
-32. g4 hxg4+ 33. Kxg4
-{
-Score confused around here
-}
-
+32. g4 hxg4+ 33. Kxg4 {Score confused around here}
 0-1
+
 [Event "Cowley 2 v Banbury 2"]
 [Site "Rose Hill Methodist Church, Rose Hill, Oxford"]
 [Date "2023.10.16"]
@@ -5482,11 +5411,7 @@ Rb8+
 Be3 Nf6 9. Nbd2 Bd7 10. Qc2 h6 11. a3 Na5 12. b4 Nc4 13. Bxc4 dxc4 14. Rd1
 O-O 15. Ne5 b5 16. Nxd7 Qxd7 17. Ne4 Nxe4 18. Qxe4 Qc7 19. O-O a6 20. f4
 Rae8 21. Rde1 Qd7 22. Qf3 Be7 23. Qg4 Kh7 24. Rd1 Qd5 25. Rfe1 Bf6 26. Bf2
-Qd8 27. Qf3 Qd5
-{
-=
-}
-
+Qd8 27. Qf3 Qd5 {=}
 1/2-1/2
 
 [Event "Wantage 1 v Cowley 1"]
@@ -5530,10 +5455,7 @@ Qf7 Rf8 21. Qxh7 Bd7 22. Rfd1 e5 23. Bf5 Qd6 24. Rdc1 Rc8 25. Bg3 d4 26.
 Be4 Rxc1+ 27. Rxc1 Bc6 28. Bxc6 bxc6 29. Qe4 Qd5 30. Qc2 c5 31. Ra1 Nc8 32.
 h4 Bd6 33. Nd2 f5 34. f3 Qg8 35. Bh2 Qg7 36. Nc4 e4 37. Bxd6 d3 38. Be5
 Qxe5 39. Nxe5 dxc2 40. Rc1 Re8 41. f4
-{
-Both sidesdown to last three minutes.  After a few more moves, Black offered the draw
-}
-
+{Both sidesdown to last three minutes.  After a few more moves, Black offered the draw}
 1/2-1/2
 
 [Event "Oxford City 2 v Cowley 2"]
@@ -5580,10 +5502,7 @@ Rh4 50. Kc3 Ra4 51. Rd4 Ra1 52. Rb4 Rc1+ 53. Kd4 Kc7 54. d6+ Kc8 55. Kd5
 Re1 56. Re4 Rd1+ 57. Kc4 Rc1+ 58. Kd4 Rd1+ 59. Ke3 Rd5 60. Re8+ Kd7 61.
 Re7+ Kc8 62. Rc7+ Kb8 63. Ke4 Rd1 64. Ke5 Re1+ 65. Kf6 Rf1+ 66. Ke6 Re1+
 67. Kd5
-{
-score confused  here, but I resigned around move 71 with 4 seconds remaining
-}
-
+{score confused  here, but I resigned around move 71 with 4 seconds remaining}
 1-0
 
 [Event "Cowley 2 v Witney 2"]
@@ -5605,11 +5524,7 @@ Qb7 ?? { Should have played 24 ... Rxc6 25. Qxc6 Nc4 26. Bxc4 dc} ]25. Rxc8+ Qxc
 Qxc8+ Nxc8 27. Nxa5 Bc2 28. b3 Kf8 29. Kf1 Ke7 30. Ke1 Kd7 31. Kd2 Be4 32.
 Bb5+ Kc7 33. Nc6 Bxg2 34. Nxb4 Na7 35. Be8 f6 36. exf6 gxf6 37. Kc3 e5 38.
 fxe5 fxe5 39. Bf7 Kd6 40. Nd3 Be4 41. Nf2 Bf3 42. b4 Nc8 43. a5 Na7 44. Be8
-Be2
-{
-White won in the following time scramble
-}
-
+Be2 {White won in the following time scramble}
 1-0
 
 [Event "Oxfordshire v Hampshire"]
@@ -5628,7 +5543,6 @@ White won in the following time scramble
 14. Rxd1 Kd7 15. Ne3 Ne7 16. f3 Nf6 17. Nc2 h6 18. Nb4 Rhe8 19. Bd2 Nf5 20.
 g3 Re2 21. Nd3 g5 22. Rac1 Rae8 23. Nc5+ Kc8 24. Nb3 Nd6 25. Rc2 Nc4 26.
 Nc1 Rxd2 27. Rdxd2 Nxd2 28. b3 Nxf3+ 29. Kf2 g4
-
 0-1
 
 [Event "Abingdon School v  Cowley 2"]
@@ -5721,11 +5635,7 @@ Bd4 Qg6 21. b3 Nd6 22. Be5 Ne4 23. Bxe4 dxe4 24. Qd6 Qxd6 25. Bxd6 Bh3 26.
 Kf2 Rad8 27. Rad1 Bg4 28. Rd4 f5 29. Ke3 Re6 30. Be5 Rxd4 31. Kxd4 Rh6 32.
 h4 Re6 33. Kc5 h6 34. b4 axb4 35. cxb4 Bf3 36. a4 Rg6 37. a5 Rxg3 38. a6
 Rg2 39. Ra1 {39. a7 Ra2 40. Ra1 was better}  Rc2+ 40. Kd6 e3 41. Bd4 Rd2 42. Kc5 e2 43. a7 Rc2+ 44. Kd6 c5
-45. a8=Q+ Bxa8 46. Rxa8+ Kf7
-{
-Score not recorded from here,  but lost shortly after.
-}
-
+45. a8=Q+ Bxa8 46. Rxa8+ Kf7 {Score not recorded from here,  but lost shortly after.}
 0-1
 
 [Event "Cumnor 2 v Cowley 2"]
@@ -6042,10 +5952,7 @@ Bg5 h6 9. Bh4 Bg7 10. h3 {?? 18. Bxe7! was better}  Ngf6 11. a3 e5 12. b4 Qc7 13
 Nb6 15. Nd1 Be6 16. Ne3 Rd8 17. Qe2 g5 18. Bg3 Nh5 19. Rad1 Nf4 20. Bxf4
 exf4 21. Nc4 {? Nf5 was better} Nxc4 22. Bxc4 O-O 23. Bxe6 fxe6 24. Qc4 Qf7 25. Nd4 Bxd4 26.
 Rxd4 e5 27. Qxf7+ Kxf7 28. Rdd1 Ke7 29. f3 Rxd1 30. Rxd1 Rd8 31. Rxd8 Kxd8
-32. Kf2 Kd7
-{
-=
-}
+32. Kf2 Kd7 {=}
 1/2-1/2
 
 [Event "Cowley 3 v Cowley 2"]
@@ -6342,4 +6249,3 @@ Qb5 39. Qf2 Qd3 {?? Checkmate is unavoidable} 40. Qh4+
 Be3 Rfc8 21. Kf2 Bb2 22. Bd2 {?? 22. Qb4+ Bxc3 23. Nxc3 Qxc3 24. Rd8!} Rd8 23. Qb4 Qb5 {? Be3 was better} 24. Qxb5 Bxb5 25. Rb1 Bc6 26.
 Rxb2 Bxe4 27. Be3 Bd5 28. a3 Rac8 29. Bd4
 1/2-1/2
-
