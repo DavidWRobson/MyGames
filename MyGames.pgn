@@ -1,3 +1,22 @@
+[Event "Cowley 2 v Oxford City 3"]
+[Site "Rosehill"]
+[Date "2004.03.15"]
+[Round "-"]
+[White "David Godfrey"]
+[Black "David Robson"]
+[WhiteECF "138"]
+[BlackECF "128"]
+[Opening "French"]
+[Variation "Winawer"]
+[Result "1-0"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Nc6 7. f4 Nh6 8.
+Nf3 O-O 9. Bd3 f6 10. O-O Bd7 11. Be3 c4 12. Be2 Nf5 13. Bf2 Qa5 14. Qd2
+Be8 15. g4 Nfe7 16. Qe3 Bg6 17. exf6 Rxf6 18. Bh4 Rf7 19. Ng5 Rff8 20. Nxe6
+Rfe8 21. f5 Bf7 22. Bg3 Rac8 23. Rf2 Nd8 24. Raf1 Nec6 25. Qf3 Nxe6 26.
+fxe6 Bg6 27. Bd6 Qd8 28. Qxd5 Ne7 29. Qe5 Rc6 30. Rf7
+1-0
+
 [Event "Wantage 2 vs Cowley 2"]
 [Site "Wantage"]
 [Date "2004.11.09"]
@@ -5240,6 +5259,7 @@ Rc3 {=}
 [White "David  Robson"]
 [Black "Nathan Manley"]
 [Opening "Vienna"]
+[Variation "Vienna Gambit"]
 [WhiteECF "1830"]
 [BlackECF "1903"]
 [Result "0-1"]
@@ -5553,6 +5573,7 @@ Nc1 Rxd2 27. Rdxd2 Nxd2 28. b3 Nxf3+ 29. Kf2 g4
 [WhiteECF "1837"]
 [BlackECF "1548"]
 [Opening "Vienna"]
+[Variation "Vienna Gambit"]
 [Result "0-1"]
 
 1. e4 e5 2. Nc3 Nc6 3. f4 Bc5 4. Nf3 d6 5. Bb5 Bg4 6. h3 Bxf3 7. Qxf3 Nf6
@@ -5598,7 +5619,7 @@ Kf8 33. Re6
 e4 e6 9. exd5 exd5 10. Nb3 b6 11. c3 h6 12. Qc2 Bf5 13. Qd1 Qd7 14. Nh4 Bg4
 15. Nf3 Rae8 16. Rxe8 Rxe8 17. Bd2 Qf5 18. d4 Ne4 19. Be3 g5 20. Rc1 c4 21.
 Nbd2 Nxd2 22. Bxd2 Re6 23. Be3 Rf6 24. Nh4 gxh4
-1-0
+0-1
 
 [Event "Cumnor 1 v Cowley 1"]
 [Site "Cumnor"]
@@ -5775,7 +5796,7 @@ Ke7 27. Nxa8 Qc6 28. Qxc6 Bxc6 29. Nc7 Bxe4 30. f3 Bb7 31. Nxa5
 
 1. e4 c6 2. d3 d5 3. Nf3 Bg4 4. Be2 e6 5. Ne5 Bxe2 6. Qxe2 dxe4 7. Qxe4 Nf6
 8. Qe2 Bd6 9. Ng4 Nbd7 10. Bg5 Qb6 11. Bxf6 Nxf6 12. Nxf6+ gxf6 13. c3
-O-O-O 14. b4 Rdg8 15. O-O Rg5 16. d4 Qc7 17. g3 h5 18. Nd2 f5 19. Nf3 Rg7
+O-O-O 14. b4 Rdg8 {... Bxb4 cd and Qd4 is best} 15. O-O Rg5 16. d4 Qc7 17. g3 h5 18. Nd2 f5 19. Nf3 Rg7
 20. a4 h4 21. Ne5 hxg3 22. fxg3 f6 23. Nc4 Bxg3 24. Qxe6+ Kb8 25. Rf3 Bxh2+
 26. Kf2 Bg3+ 27. Kg1 Be1+ 28. Kf1 Rh1+ 29. Ke2 Re7 30. Qxe7 Qxe7+ 31. Re3
 Qf7 32. Nd6 Qh5+ 33. Kd3 Bf2 34. Rxh1 Qxh1 35. Re7 Qf3+ 36. Kc4 Qd5+
