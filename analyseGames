@@ -94,8 +94,10 @@ for line in sys.stdin:
 
 if numOppRating > 0:
    print ( "\nFor games between %s and %s. " % (strMinDate, strMaxDate), end = '' )
-   print( "%d games: %d wins: %d draws: %d defeats: %d%%" % \
-        (wins + draws + defeats, wins, draws, defeats,round((200*wins+100*draws)/(2*(wins+draws+defeats)))) )
+   gamesplayed = wins+draws+defeats
+   print( "%d games: %d wins (%d%%): %d draws (%d%%): %d defeats (%d%%): Points %d%%" % \
+        (gamesplayed, wins,round(100*wins/gamesplayed),draws,round(100*draws/gamesplayed),
+         defeats,round(100*defeats/gamesplayed),round((200*wins+100*draws)/(2*gamesplayed))) )
    print( "Average Ratings: Mine = %4d Opponents = %4d: Rating change = %3.1f: My Performance Rating = %4d" % \
          (sumMyRating/numMyRating,sumOppRating/numOppRating,sumRatingChange, totPerformanceRating/numPerformanceRating) )
 
