@@ -5885,10 +5885,10 @@ Kb8 20. g3 Qc6 21. Re3 Re8 22. d5 Qd7 23. Nd4 Ne5 24. Rxe5
 [BlackECF "1804"]
 [Result "0-1"]
 
-1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nc6 5. c3 Qc7 6. Ne2 Bg4 7. O-O Nf6
-8. Qe1 e6 9. f3 Bh5 10. Qh4 Bd6 {Bg6 is better, or possibly Rb8} 11. Bg5 Bg6 12. Bxg6 fxg6 13. Bxf6 gxf6 14.
-Qxf6 Kd7 15. Qh4 Raf8 16. Nd2 Ne7 17. Ng3 g5 18. Qh3 h5 19. Rae1 Rf6 20.
-Ne2 Rfh6 21. g3 Nf5 22. Nc1 g4 23. Qg2 h4 24. fxg4 hxg3 25. gxf5 Rxh2 26.
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nc6 5. c3 Qc7 6. Ne2 Bg4 7. O-O Nf6 8. Qe1 e6 9. f3 Bh5 
+10. Qh4 Bd6 {Rg8 is better, or possibly Bg6} 11. Bg5 Bg6 12. Bxg6 fxg6 13. Bxf6 gxf6 14.
+Qxf6 Kd7 15. Qh4 Raf8 16. Nd2 Ne7 17. Ng3 {f4 is best} g5 {h5 is better} 18. Qh3 h5 19. Rae1 Rf6 20.
+Ne2 Rfh6 21. g3 {f4 is best} Nf5 22. Nc1 g4 23. Qg2 h4 24. fxg4 hxg3 25. gxf5 Rxh2 26.
 fxe6+ Kc6 27. Qf3 Qh7 28. Qg4 Rxd2
 0-1
 
@@ -6381,4 +6381,49 @@ Bxd4 23. Bxd4 Rxd4 24. Rc1 g6 25. Ra7 Rd3 26. Rcc7 Kg7 27. b5 Rd6 28. a4
 Rb6 29. Rab7 Rxb7 30. Rxb7 Ra8 31. b6 Rxa4 32. Ra7 Rb4 33. b7 h5 34. h4 Kf6
 { score confused around here }
 1/2-1/2
+
+[Event "Cowley 3 v Cowley 2"]
+[Site "Rose Hill Methodist Church"]
+[Date "2025.10.16"]
+[Round "-"]
+[White "Geoff Rasell"]
+[Black "David Robson"]
+[WhiteECF "1750"]
+[BlackECF "1780"]
+[Opening "Slav"]
+[Variation "Irregular"]
+[Result "1/2-1/2"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. b3 Bf5 5. Nc3 e6 6. a3 Nbd7 7. e3 a5 8. Bb2
+Be7 9. Be2 O-O 10. Nh4 Bg6 {Ne4 is better} 11. Nxg6 hxg6 12. O-O Re8 13. c5 {f4 is better} e5 14. b4 exd4
+15. Qxd4 Nf8 16. Bf3 Ne6 17. Qd2 Ng5 18. Rad1 {Be2 is better} Nxf3+ 19. gxf3 Qc7 20. Qd4
+Rad8 { Nh5 is better.  I played Rd8 in haste as I was falling a little behind on time}
+21. Ne2 Bf8 22. Ng3 Qe7 23. Kg2 axb4 24. axb4 Nd7 25. Ra1 Ra8 26. Rxa8
+Rxa8 27. Ra1 Rxa1 28. Bxa1 Qf6 29. Bc3 Qxd4 30. Bxd4 Nb8 31. Kf1 Na6 32.
+Bc3 Be7 33. Ne2 Bf6 34. Nd4 {Be2 is better} Kf8 {it is better to swap off the Knight and leave the bad Bishop}
+35. Ke2 Ke7 {Again, take the knight!} 36. Kd2 {Kd3 is better} Bh4 {Again, take the knight!} 37. Ke2 {=} 37... Bf6
+38. Kd3 {=} Nc7 39. f4 Bxd4 {finally!} 40. Bxd4 f6 41. f3 Ke6 {=} 42. e4 Ke7 43. h4 Ke6
+{=} 44. Be3 Na6 45. Bd2 Nc7 46. Kd4 Nb5+ 47. Kd3 {=}
+
+1/2-1/2
+
+[Event "Oxford City 3 vs Cowley 3"]
+[Site "Oxford Bridge Centre"]
+[Date "2025.11.22"]
+[Round "-"]
+[White "Tony Weir"]
+[Black "David Robson"]
+[WhiteECF "1759"]
+[BlackECF "1780"]
+[Opening "Caro Kann"]
+[Variation "Exchange"]
+[Result "0-1"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nc6 5. c3 Qc7 6. Ne2 Bg4 7. O-O e6 8.
+Qe1 Nf6 9. f3 Bh5 10. Qh4 Bg6 { Last year, I played Bd6 against Tony.  I had prepared Rg8 but instead I had played Bg6 }
+11. Bxg6 fxg6 12. Nf4 Kf7 13. Re1 Re8 14. Nd3
+Bd6 15. f4 Rhf8 16. Nd2 Kg8 17. Nf3 Ne4 18. Ng5 Nxg5 19. Qxg5 Qf7 20. Qg4
+Qf6 21. Bd2 Nxd4 {?} 22. cxd4 Qxd4+ 23. Nf2 {?? Re3 is best} Qxd2 24. Rxe6 Bc5 25. Rf1 Qxb2 26.
+Rxe8 Rxe8 27. Qd7 {??} Qxf2+
+0-1
 
