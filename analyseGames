@@ -111,7 +111,7 @@ for opening in whiteResults.keys():
     sumPerfCount += numPerf
     sumPerf += totPerf
 if sumCount > 0:
-    print("\nWhite Results           %3d%%    %4.1f out of %2d. Perf. Rating = %d\n" % \
+    print("\nWhite Results           %3d%%    %4.1f out of %2d Perf. Rating = %d\n" % \
           (int(100*sumScore/sumCount), sumScore, sumCount, sumPerf/sumPerfCount))
 for opening in whiteResults.keys():
     count, score, numPerf, totPerf  = whiteResults[opening]
@@ -127,7 +127,7 @@ for opening in blackResults.keys():
     sumPerfCount += numPerf
     sumPerf += totPerf
 if sumCount > 0:
-    print("\nBlack Results           %3d%%    %4.1f out of %2d. Perf. Rating = %d\n" % \
+    print("\nBlack Results           %3d%%    %4.1f out of %2d Perf. Rating = %d\n" % \
           (int(100*sumScore/sumCount), sumScore, sumCount, sumPerf/sumPerfCount))
 for opening in blackResults.keys():
     count, score, numPerf, totPerf  = blackResults[opening]
