@@ -2723,7 +2723,7 @@ gxh7 Nxh7 27. Ng6+ Bxg6 28. Bxg6 Rf8 29. Rxf8
 [Event "Cowley 1 v Cowley 2"]
 [Site "Rose Hill Methodist Church, Rose Hill, Oxford"]
 [Date "2014.10.16"]
-[White "Andrew Chapman"]
+[White "Andrew N Chapman"]
 [Black "David Robson"]
 [Opening "Grunfeld"]
 [Variation "Exchange"]
@@ -4683,6 +4683,7 @@ Nc6 45. b4 Ng3
 [TimeControl "5400+15"]
 [ECO "B03"]
 [Opening "Alekhine"]
+[Variation "Exchange"]
 [Termination "Normal"]
 
 1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. exd6 exd6 5. c4 Nb6 6. Nc3 Nc6 7. Be3 Be7 8. Bd3 Bf6 9. Nge2 Bg4 10. f3 Bd7 11. O-O O-O 12. Re1 Re8 13. Qd2 Nc8 14. Nd5 Nb6 15. Nxf6+ gxf6 16. Bf2 Ne7 17. Ng3 Ng6 18. Qh6 Rxe1+ 19. Rxe1 Qf8 20. Qh5 Re8 21. Ne4 Rxe4 22. Bxe4 Nxc4 23. b3 Na5 24. Qxa5 1-0
@@ -5111,6 +5112,7 @@ Be3 Rd3 22. Be2 Rdd8 23. Rf3 Na5 24. Rff1 Nc4 25. Bxc4 bxc4 26. Rad1 Qb6
 [WhiteECF "1814"]
 [BlackECF "1934"]
 [Opening "Alekhine"]
+[Variation "Exchange"]
 [Result "0-1"]
 
 1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. exd6 cxd6 6. Nc3 g6 7. Be3 Bg7 8.
@@ -6535,4 +6537,26 @@ Rhd8 20. Rxd7 Rxd7 21. Rd1 Rxd1 22. Bxd1 a5 23. Kd3 c5 24. Ke3 Kd7 25. f4
 f6 26. f5 Bf7 27. h4 Kd6 28. Kf4 g6 29. Bc2 b6 30. Bd1 h6 31. fxg6 Bxg6 32.
 h5 Bh7 { = }
 1/2-1/2
+
+[Event "Cowley 2 vs Cowley 3"]
+[Site "Rosehill Methodist Church"]
+[Date "2026.01.19"]
+[Round "-"]
+[White "David Robson"]
+[Black "Andrew N Chapman"]
+[WhiteECF "1798"]
+[BlackECF "1785"]
+[Opening "Vienna"]
+[Variation "Oxford"]
+[Result "0-1"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. fxe5 Nxe4 5. d3 Nxc3 6. bxc3 d4 7. Nf3 Nc6
+8. Be2 Bc5 9. c4 O-O 10. O-O Re8 11. Bf4 Qe7 12. Rf2 {? Qe1 is better} Be6 {?} 13. Rb1 Rad8 {?} 14.
+Bg5 f6 15. exf6 gxf6 16. Bh4 Bg4 17. Qd2 {h3 is better} Qe3 18. Bd1 {Rxb7 is better} Bb4 19. Qe2 {?? Rxb4 is better} Bxf3 20.
+gxf3 Qh6 21. Rg2+ Kf7 22. Qf2 Re1+ 23. Qxe1 Bxe1 24. Bxe1 b6 25. Bg3 Qe3+
+26. Kf1 Ne5 27. f4 Nf3 28. Bxf3 Qxf3+ 29. Kg1 Re8 30. Rf1 Qe3+ 31. Rgf2 f5
+32. Kg2 h5 33. Rf3 Qe2+ 34. R3f2 Qg4 35. h4 Rg8 36. Rf3 Qxh4 37. Rh1 Qg4
+38. Kf2 Re8 39. Rh4 Qg6 40. Rh1 Re3 41. Bh4 Rxf3+ 42. Kxf3 Qc6+
+1-0
+
 
