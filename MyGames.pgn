@@ -289,6 +289,7 @@ Nb3 Qe5 15. Ng3 h5 16. f4 Qe7 17. Rf3 h4 18. Ne2 {score confused around here}
 [WhiteECF "119"]
 [BlackECF "88"]
 [Opening "Vienna"]
+[Variation "Vienna Gambit"]
 [Result "1-0"]
 
 1. e4 e5 2. Nc3 Nc6 3. f4 d6 4. Nf3 Bg4 5. Bb5 Ne7 6. O-O g6 7. Bc4 h6 8.
@@ -651,6 +652,7 @@ Nd7+ Ke8 39. Nxb6 c4 40. Nd5 Ne4 41. f3 Nd2 42. Nc3 {Score confused}
 [WhiteECF "119"]
 [BlackECF "113"]
 [Opening "Vienna"]
+[Variation "Vienna Gambit"]
 [Result "1-0"]
 
 1. e4 e5 2. Nc3 Nf6 3. f4 exf4 4. e5 Ng8 5. Nf3 Nc6 6. d4 d5 7. Bxf4 Bb4 8.
@@ -780,6 +782,7 @@ Bc7 Bxf2+ 27. Kxf2 Rf8+ 28. Bf3
 [WhiteECF "119"]
 [BlackECF "UNG"]
 [Opening "Vienna"]
+[Variation "Vienna Gambit"]
 [Result "1-0"]
 
 1. e4 e5 2. Nc3 Nf6 3. f4 d6 4. Nf3 Nc6 5. Bb5 Qe7 6. d3 Bd7 7. f5 a6 8.
@@ -1160,6 +1163,7 @@ Score confused here.  Game drawn on the 36th move.
 [WhiteECF "129"]
 [BlackECF "119"]
 [Opening "Vienna"]
+[Variation "Anderssen Defence"]
 [Result "0-1"]
 
 1. e4 e5 2. Nc3 Bc5 3. f4 exf4 4. Nf3 Be7 5. Bc4 Bh4+ 6. Kf1 d6 7. d4 Be6
@@ -1194,6 +1198,7 @@ Rxd7 Rxb2 27. R7d2 Qg3+ 28. Kf1 Qxh3+ 29. Ke1 Qh1+ 30. Qf1 Qxe4+
 [WhiteECF "129"]
 [BlackECF "119"]
 [Opening "Vienna"]
+[Variation "Vienna Gambit"]
 [Result "0-1"]
 
 1. e4 e5 2. Nc3 Nf6 3. f4 d6 4. Nf3 Bg4 5. Bc4 c6 6. fxe5 dxe5 7. Bxf7+
@@ -1657,7 +1662,7 @@ cxd6 33. Qe3
 [White "David Robson"]
 [Black "Marcin Krzysztofik"]
 [Opening "Vienna"]
-[Variation "Gambit"]
+[Variation "Vienna Gambit"]
 [WhiteECF "156"]
 [BlackECF "130"]
 [Result "1-0"]
@@ -2062,6 +2067,7 @@ Qxh6 Nxd4 21. Bh5 Nf5 22. Rxe7 Nxh6 23. Re8+ Kg7 24. Bf3 Rb8 25. Bd5 Bd7
 [WhiteECF "148"]
 [BlackECF "152"]
 [Opening "Vienna"]
+[Variation "Anderssen Defence"]
 [Result "1/2-1/2"]
 
 1. e4 e5 2. Nc3 Bc5 3. f4 d6 4. Nf3 Nc6 5. Bb5 Bd7 6. d3 Nge7 7. Na4 Bb6 8.
@@ -2174,6 +2180,7 @@ Qf4 Rad8 33. Bf8 Rxf8 34. Rxf8 Nc7 35. Rf7
 [WhiteECF "143"]
 [BlackECF "138"]
 [Opening "Vienna"]
+[Variation "Omaha Gambit"]
 [Result "1-0"]
 
 1. e4 e5 2. Nc3 d6 3. f4 exf4 4. Nf3 Bg4 5. d4 Bxf3 6. Qxf3 Qh4+ 7. Kd1 {?? 7. g3!} Nd7
@@ -2244,6 +2251,7 @@ Nxb5 Qb6 27. Bc4 Rad8 28. Qc1 Bd3 29. Bxd3 Rxd3 30. Qc4 exf2+ 31. Rxf2 Rd1+
 [WhiteECF "141"]
 [BlackECF "162"]
 [Opening "Vienna"]
+[Variation "Anderssen Defence"]
 [Result "0-1"]
 
 1. e4 e5 2. Nc3 Bc5 3. f4 exf4 4. Nf3 Be7 5. Bc4 Bh4+ 6. Kf1 d6 7. d4 Be6
@@ -2813,6 +2821,7 @@ Rc6+ Kg7 49. Rc7+ Kh6 50. Ke5 Rxh4 51. Rc8 Kg7
 [White "David Robson"]
 [Black "Mark McLeod"]
 [Opening "Vienna"]
+[Variation "Anderssen Defence"]
 [WhiteECF "149"]
 [BlackECF "96"]
 [Result "1-0"]
@@ -2916,6 +2925,7 @@ Score is confused
 [White "David Robson"]
 [Black "Ian Brooke"]
 [Opening "Vienna"]
+[Variation "Vienna Gambit"]
 [WhiteECF "149"]
 [BlackECF "118"]
 [Result "1-0"]
@@ -3222,6 +3232,7 @@ Score confused around here
 [WhiteECF "143"]
 [BlackECF "139"]
 [Opening "Vienna"]
+[Variation "Vienna Gambit"]
 [Result "1-0"]
 
 1. e4 e5 2. Nc3 Nc6 3. f4 exf4 4. Nf3 d6 5. d4 Bg4 6. Bxf4 Nf6 7. Be2 Be7
@@ -3260,6 +3271,7 @@ Kd5 39. Ke2 c4 40. bxc4+ Kxc4 41. Kd2 Bxd3 42. cxd3+ Kb3
 [WhiteECF "143"]
 [BlackECF "141"]
 [Opening "Vienna"]
+[Variation "Omaha Gambit"]
 [Result "1/2-1/2"]
 
 1. e4 e5 2. Nc3 d6 3. f4 Nd7 4. Nf3 Be7 5. Bc4 Ngf6 6. d3 O-O 7. O-O c6 8.
@@ -3600,6 +3612,7 @@ Nf8 15. Bf3 Ne6 16. Rfe1 b5 17. Qa3 Nxf4 18. exf4 e6 19. g3 Bf8 20. Qa2 b4
 [ECO "C25"]
 [TimeControl "0"]
 [Opening "Vienna"]
+[Variation "Vienna Gambit"]
 
 1. e4 e5 2. Nc3 Nc6 3. f4 exf4 4. Nf3 Be7 5. Bc4 Bh4+ 6. Kf1 Be7 7. d4 g5 8. 
 h4 g4 9. Ng5 Bxg5 10. hxg5 Qxg5 11. Nd5 Qd8 12. Qxg4 d6 13. Qg7 Be6 14. Qxh8 
@@ -3722,6 +3735,7 @@ Nxb7 Nd3+ 27. Kf1 Nf4 28. Re1 Nd3 29. Re2
 [ECO "C25"]
 [TimeControl "0"]
 [Opening "Vienna"]
+[Variation "Vienna Gambit"]
 
 1. e4 e5 2. Nc3 Nc6 3. f4 Bb4 4. Nf3 d6 5. Bb5 Bg4 6. h3 Bxf3 7. Qxf3 Nf6 8. 
 d3 O-O 9. Bxc6 bxc6 10. fxe5 dxe5 11. O-O Qd6 12. Ne2 Bc5+ 13. Kh1 Qe6 14. 
@@ -3891,6 +3905,7 @@ Kh7 46. Rd6 Re1 47. e6 Re2 (47. ... Kg7 48. Nf2 Kf6 49. Ng4+ Ke7 50. Rc6 Rxe6
 [White "David Robson"]
 [Black "Graham Cluley"]
 [Opening "Vienna"]
+[Variation "Pierce Gambit"]
 [WhiteECF "161"]
 [BlackECF "112"]
 [ECO "C25"]
@@ -4039,6 +4054,7 @@ Bd7 21. Nb3 e5 22. g3 Qg5 23. h4
 [ECO "C26"]
 [TimeControl "5400+90"]
 [Opening "Vienna"]
+[Variation "Vienna Gambit"]
 
 1. e4 e5 2. Nc3 Nf6 3. f4 d6 4. Nf3 Bg4 5. h3 Bxf3 6. Qxf3 Nbd7 7. Bc4 Be7 8. 
 d3 exf4 9. Bxf4 Ne5 10. Bxe5 dxe5 11. Qg3 Nxe4 {12. Qxg7 Bh4+ 13. Kd1 Nxc3+ 
@@ -4795,6 +4811,7 @@ g3+ Kg5 1/2-1/2
 [BlackECF "1503"]
 [Result "1-0"]
 [Opening "Vienna"]
+[Variation "Vienna Gambit"]
 
 1. e4 e5 2. Nc3 Nf6 3. f4 d6 4. Nf3 exf4 5. d4 Nc6 6. Bxf4 Bg4 7. Be2 Be7 8. O-O O-O 9. Be3 a6 10. a3 b5 11. b4 d5 12. e5 Ne4 13. Qe1 Rc8 14. Rd1 Nb8 15. Nxe4 dxe4 16. Nd2 Bxe2 17. Qxe2 Qd5 18. Bf2 Qa2 19. Nb1 Qd5 20. Nc3 Qe6 21. Qxe4 f5 22. Qd5 Qxd5 23. Nxd5 Bg5 24. Be3 Bxe3+ 25. Nxe3 g6 26. Nd5 Kf7 27. Rfe1 Ke6 28. Nf4+ Ke7 29. d5 Rfe8 30. Rd3 c5 31. d6+ Kd8 32. e6 Rh8 33. d7
 1-0
@@ -5174,6 +5191,7 @@ Bf6 12. Nxd6+ Kf8 13. Nxb7+ Qe7 14. Nc5 Bc6 15. d3 Bg7 16. Bd2
 [White "David Robson"]
 [Black "Damien Dunn"]
 [Opening "Vienna"]
+[Variation "Vienna Gambit"]
 [WhiteECF "1814"]
 [BlackECF "1573"]
 [Result "1-0"]
