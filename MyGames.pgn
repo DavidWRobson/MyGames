@@ -6673,10 +6673,49 @@ f5 Rh8 33. fxe6+ Nxe6 34. Bg6+ Kf6 35. Rf3+
 [SubVariation "Anti-Alapin Gambit"]
 [Result "0-1"]
 
-1. e4 c5 2. c3 d5 3. exd5 Nf6 4. d4 {Mayne should have considered Bb5+} cxd4 5. cxd4 Nxd5 6. Bc4 g6 7. Nc3 Nb6
+1. e4 c5 2. c3 d5 3. exd5 Nf6 4. d4 {Maybe should have considered Bb5+} cxd4 5. cxd4 Nxd5 6. Bc4 g6 7. Nc3 Nb6
 8. Bb3 Bg7 9. Be3 O-O 10. Nge2 Nc6 11. O-O Na5 12. Bc2 Nac4 13. Rb1 Nxe3
 14. fxe3 Bg4 15. Bb3 Rc8 16. Qd3 Bd7 17. Rf2 e6 18. Rd1 Qg5 19. e4 Bc6 20.
 Nf4 e5 21. Nh3 Qh5 22. Rdf1 exd4 23. Rxf7 Rxf7 24. Rxf7 Kh8 25. Ne2 {?? Rxg7 is winning} Bb5 26.
 Qg3 Qxe2
 0-1
+
+[Event "Wantage 1 vs Cowley 1"]
+[Site "Wantage"]
+[Date "2026.10.13"]
+[Round "-"]
+[White "David Robson"]
+[Black "John Carter"]
+[WhiteECF "1764"]
+[BlackECF "1763"] 
+[Opening "Vienna"]
+[Variation "Vienna Gambit"]
+[Result "1/2-1/2"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. fxe5 Nxe4 5. d3 Nxc3 6. bxc3 d4 7. Nf3 Nc6
+8. Be2 Be7 9. O-O O-O 10. Qe1 f6 11. exf6 Bxf6 12. c4 Be6 13. Rb1 b6 14.
+Bf4 Qd7 15. Qg3 Rae8 16. Rf2 Ne7 17. Rff1 Nf5 18. Qf2 c5 19. Rfe1 Bf7 20.
+Nd2 Ne3 21. Ne4 Bg6 22. Bxe3 dxe3 23. Nxf6+ Rxf6 24. Qg3 Qd4 25. Rf1 Ref8
+26. Rxf6 Rxf6 27. Re1 Bh5 28. h3 Bxe2 29. Rxe2 Qb2 30. Qxe3 Qxa2
+1/2-1/2
+
+[Event "Cowley 1 vs Oxford City 1"]
+[Site "Rosehill Methodist Church"]
+[Date "2026.10.22"]
+[Round "-"]
+[White "David Robson"]
+[Black "Rhydian Windsor"]
+[WhiteECF "1763"]
+[BlackECF "1740"]
+[Opening "Vienna"]
+[Variation "Vienna Gambit"]
+[Result "1-0"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 Nc6 {??} 4. fxe5 Nxe5 5. d4 Ng6 6. e5 Ng8 7. Bc4 {?} Be7 {? 7. Nxe5 8 de Qh5+ is much better}
+8. Qf3 Nf6 9. exf6 Bxf6 10. Be3 c6 11. Ne4 d5 12. Nxf6+ gxf6 13. Bd3 Be6
+14. Ne2 Qe7 15. O-O O-O-O 16. Qxf6 Qd7 17. Nf4 Rhg8 18. Nxg6 hxg6 19. Bf4
+b5 20. a4 Kb7 21. axb5 cxb5 22. Ra5 a6 23. Rfa1 Ra8 24. Qe5 Rgd8 25. b3 Qc6
+26. Re1 Rd7 27. Bxg6 Qc3 28. Raa1 fxg6 29. Qxe6 Qxd4+ 30. Be3 Qg7 {??} 31. Qb6+
+Kc8 32. Qc6+
+1-0
 
