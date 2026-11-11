@@ -6686,8 +6686,8 @@ Qg3 Qxe2
 [Round "-"]
 [White "David Robson"]
 [Black "John Carter"]
-[WhiteECF "1764"]
-[BlackECF "1763"] 
+[WhiteECF "1763"]
+[BlackECF "1764"] 
 [Opening "Vienna"]
 [Variation "Vienna Gambit"]
 [Result "1/2-1/2"]
@@ -6717,5 +6717,109 @@ Nd2 Ne3 21. Ne4 Bg6 22. Bxe3 dxe3 23. Nxf6+ Rxf6 24. Qg3 Qd4 25. Rf1 Ref8
 b5 20. a4 Kb7 21. axb5 cxb5 22. Ra5 a6 23. Rfa1 Ra8 24. Qe5 Rgd8 25. b3 Qc6
 26. Re1 Rd7 27. Bxg6 Qc3 28. Raa1 fxg6 29. Qxe6 Qxd4+ 30. Be3 Qg7 {??} 31. Qb6+
 Kc8 32. Qc6+
+1-0
+
+[Event "Witney Tournament"]
+[Site "Cokethorpe School"]
+[Date "2026.10.31"]
+[Round "1"]
+[White "David Robson"]
+[Black "Ethan Hu"]
+[WhiteECF "1763"]
+[BlackECF "1225"]
+[Opening "Sicilian"]
+[Variation "Alapin"]
+[SubVariation "Barmen"]
+[Result "1-0"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 cxd4 5. cxd4 Nc6 6. Nf3 e6 7. Nc3 Bb4
+8. Bd3 Bd7 9. O-O Qa5 10. Ne4 O-O-O 11. Bf4 Qb6 12. Qc2 Ne7 13. a3 Nd5 14.
+Bd6 f5 15. Bc5 { ab was better} Qc7 16. Nd6+ Kb8 17. axb4 b6 18. Nb5 Qc8 19. Bd6+ Kb7 20.
+Qa4 Na5 21. bxa5 a6 22. axb6 Bxb5 23. Bxb5 Kxb6 24. Bxa6
+1-0
+
+[Event "Witney Tournament"]
+[Site "Cokethorpe School"]
+[Date "2026.10.31"]
+[Round "2"]
+[White "Gary Jackson"]
+[Black "David Robson"]
+[WhiteECF "1937"]
+[BlackECF "1763"]
+[Opening "Caro Kann"]
+[Variation "Capablanca"]
+[Result "0-1"]
+
+1.e4 c6 2.d4 d5 3.Nd2 dxe4 4.Nxe4 Bf5 5.Ng5 e6 {GMs prefer Bg6} 6.N1f3 Nd7 {? h6 had to be played here} 7.Bc4 {? Nh4 is better} Be7 {? h6 is better here} 8.O-O Ngf6 {Blunder, h6 is best} 9.Nh4 {? Bxf7 can be played} Nd5 {?? Bg4 is best} 10.Nxf5 exf5 11.Re1 {?? Qh5 is much better} N7f6 {? 0-0 is better} 12.Qe2 b5 {? 0-0 is better} 13.Bb3 O-O 14.Nf3 Re8 15.Ne5 Qc7 16.Qf3 g6 17.Bg5 Rad8 18.Rac1 Kg7 19.c4 Ne4 {?? bc was better} 20.cxd5 {? Bxe7 was better} Bxg5 21.Rxc6 Qb7 {Qe7 was better} 22.Re2 Nd2 {?? a5 was better} 23.Qc3 Nxb3 24.axb3 {?? Qxb3 was better} Re7 {?? Rxd5 was better} 25.d6 Re6 26.Rc7 Qa6 27.Rxf7+ Kg8 28.Rc7 Rdxd6 29.f4 {?} Bxf4 {?? It is now mate in 15!!.  Bd8 was better} 30.Qf3 {??} Bg5 31.Nf7 {??} Rxe2 32.Qxe2 Re6 33.Ne5 Qd6 34.Rc8+ Kg7 35.Qf2 {??} Rxe5 36.Rc3 Re4 37.Rd3 Qe6 38.Qg3 {??} Re1+ 39.Kf2 Qe2#
+
+0-1
+
+[Event "Witney Tournament"]
+[Site "Cokethorpe School"]
+[Date "2026.10.31"]
+[Round "3"]
+[White "Muratcan Bingul"]
+[Black "David Robson"]
+[WhiteECF "1913"]
+[BlackECF "1763"]
+[Opening "Slav"]
+[Variation "Chebanenko"]
+[Result "1-0"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 a6 5.cxd5 cxd5 6.Bf4 Nc6 7.e3 Bf5 8.Bd3 Bg6 9.O-O e6 10.a3 Bd6 11.Bxd6 Qxd6 12.Rc1 O-O 13.Bxg6 hxg6 14.b4 b5 15.Nd2 Nd7 16.Nb3 Nb6 17.Nc5 Nc4 18.Ra1 Rfb8 19.Qe2 a5 20.a4 bxa4 21.b5 Na7 22.Rfb1 a3 23.e4 Rb6 24.e5 Qd8 25.Rb3 Nc6 26.bxc6 Rxb3 27.Nxb3 Rb8 28.Qc2 Qb6 29.Na4 Qxc6 30.Nbc5 Qb5 31.h3 Kf8 32.Qc1 Ke7 33.Kh2 Ke8 34.Qf4 Kf8 35.Nxe6+
+
+1-0
+
+[Event "Witney Tournament"]
+[Site "Cokethorpe School"]
+[Date "2026.10.31"]
+[Round "4"]
+[White "David Robson"]
+[Black "Calon Watson"]
+[WhiteECF "1772"]
+[BlackECF "1935"]
+[Opening "Sicilian"]
+[Variation "Alapin"]
+[Result "1/2-1/2"]
+
+1.e4 c5 2.c3 d6 3.d4 cxd4 4.cxd4 Nf6 5.Nc3 g6 6.Nf3 Bg7 7.Be2 a6 8.a4 O-O 9.O-O b6 10.h3 Bb7 11.d5 Nbd7 12.Nd4 Rc8 13.f4 Rxc3 14.bxc3 Nxe4 15.Bb2 Bxd5 16.Bxa6 Qa8 17.Be2 Rc8 18.Rf3 e5 19.Nb5 exf4 20.Rxf4 Bh6 21.Rxe4 Bxe4 22.Nxd6 Be3+ 23.Kh2 Bf4+ 24.Kg1 Be3+ 25.Kh2 Bf4+ 26.g3 Bxd6 27.Qxd6 Qc6 28.Rd1
+
+1/2-1/2
+
+[Event "Witney Tournament"]
+[Site "Cokethorpe School"]
+[Date "2026.10.31"]
+[Round "5"]
+[White "Mark V Abbott"]
+[Black "David Robson"]
+[WhiteECF "1979"]
+[BlackECF "1772"]
+[Opening "Caro Kann"]
+[Variation "Accelerated Panov"]
+[Result "0-1"]
+
+1.c4 c6 2.e4 d5 3.cxd5 cxd5 4.exd5 Nf6 5.Nc3 a6 6.d4 b5 7.Be2 Bb7 8.Bf3 Nxd5 9.Qb3 e6 10.Nge2 Qd7 11.Nxd5 Bxd5 12.Bxd5 Qxd5 13.Qxd5 exd5 14.O-O Nc6 15.Be3 Bd6 16.Rac1 Kd7 17.Nc3 Ne7 18.g4 Rac8 19.Bg5 f6 20.Bh4 Rc4 21.Rcd1 Rhc8 22.f4 Bb4 23.Be1 Bxc3 24.bxc3 Ra4 25.Rf2 Nc6 26.Rb1 Na5 27.Kg2 Nb7 28.Rb3 Nd6 29.Kf3 Ne4 30.Rfb2 Rac4 31.Ra3 R8c6 32.Rbb3 Kc7 33.h4 Kb6 34.Ke3 Re6 35.Kd3 Nd6 36.Rb2 Rxe1
+
+0-1
+
+[Event "Abingdon School vs Cowley 2"]
+[Site "Abingdon School"]
+[Date "2026.11.11"]
+[Round "-"]
+[White "David Robson"]
+[Black "Owen Ngai"]
+[WhiteECF "1772"]
+[BlackECF "1802"]
+[Opening "Caro Kann"]
+[Variation "Two Knights"]
+[Result "1-0"]
+
+1. e4 c6 2. Nf3 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Qe2 Nxe4 6. Qxe4 Nd7 7. Bc4
+Nf6 8. Ne5 e6 9. Qe2 Bc5 10. c3 O-O 11. d4 Bb6 {? Need to stay on the a3-f8 diagonal} 12. Bg5 h6 13. Bh4 g5 14.
+Bg3 c5 15. dxc5 Bxc5 16. h4 g4 17. Nxg4 Nxg4 18. Qxg4+ Kh7 19. Qh5 e5 20.
+O-O f6 21. Bf7 { ?? Bf4!} Rg8 { ?? Qd3 is better } 22. Bxg8+ Qxg8 23. Qf3 Be6 24. Kh1 Rf8 25. Qxb7+ Rf7 26.
+Qc6 Bxf2 27. Bxf2 Rg7 28. Rg1 Bd5 29. Qxf6 Qc8 30. Kh2 Qg4 31. g3 { ?? Qxe5 is best} Be6 { ?? Rf7 was level} 32.
+Rg2 Qh3+ 33. Kg1 Bd5 34. Rh2 Rxg3+ 35. Bxg3 Qxg3+ 36. Kf1
+
 1-0
 
