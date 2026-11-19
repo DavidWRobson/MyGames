@@ -1,3 +1,46 @@
+[Event "Cowley 1 vs Oxford University 2"]
+[Site "Rosehill Methodist Church"]
+[Date "2026.11.12"]
+[Round "-"]
+[White "Ted Paul"]
+[Black "David Robson"]
+[WhiteECF "1828"]
+[BlackECF "1772"]
+[Opening "Caro Kann"]
+[Variation "Exchange"]
+[Result "1/2-1/2"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nc6 5. c3 Qc7 6. Qf3 Nf6 { ? 7... Nxd4 Qxd5 e5 } 7. Bf4 Qb6
+8. b4 a6 9. a4 g6 10. Bg5 Bg7 11. Bxf6 Bxf6 12. Qxd5 { ?? } Be6 13. Qc5 Qd8 14.
+Nf3 Rc8 15. Be4 Nxd4 16. Qa7 Nxf3+ 17. Bxf3 Bd5 { ?? Rxc3 !! } 18. Qe3 O-O 19. O-O Bxf3
+20. Qxf3 Qc7 21. Ra2 Qc6 { ? Rfd8 is better} 22. Qe3 Rc7 { ? again Rfd8 is better} 23. Rc1 Rfc8 { ? again Rfd8 is better} 24. c4 Qd5 25. Nd2 Qf5
+26. Rac2 { ? g3 is better} Bg5 27. Qe2 Qd7 { ?? Better to put the rook on this square} 28. Ra1 Qd4 29. Nb3 Qd6 30. Nc5 Qb6 31. Qe1 a5 32.
+Ne4 Bh6 33. bxa5 Qe6 34. c5 f5 { = }
+35. Ng3 Qxe1+ 36. Rxe1 Rxc5 37. Rxc5 Rxc5 38. Rxe7 Rxa5 39. Rxb7 Rxa4 40.
+h3 Bf4 41. Rb1 Bxg3 42. fxg3
+1/2-1/2
+
+[Event "Abingdon School vs Cowley 2"]
+[Site "Abingdon School"]
+[Date "2026.11.11"]
+[Round "-"]
+[White "David Robson"]
+[Black "Owen Ngai"]
+[WhiteECF "1772"]
+[BlackECF "1802"]
+[Opening "Caro Kann"]
+[Variation "Two Knights"]
+[Result "1-0"]
+
+1. e4 c6 2. Nf3 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Qe2 Nxe4 6. Qxe4 Nd7 7. Bc4
+Nf6 8. Ne5 e6 9. Qe2 Bc5 10. c3 O-O 11. d4 Bb6 {? Need to stay on the a3-f8 diagonal} 12. Bg5 h6 13. Bh4 g5 14.
+Bg3 c5 15. dxc5 Bxc5 16. h4 g4 17. Nxg4 Nxg4 18. Qxg4+ Kh7 19. Qh5 e5 20.
+O-O f6 21. Bf7 { ?? Bf4!} Rg8 { ?? Qd3 is better } 22. Bxg8+ Qxg8 23. Qf3 Be6 24. Kh1 Rf8 25. Qxb7+ Rf7 26.
+Qc6 Bxf2 27. Bxf2 Rg7 28. Rg1 Bd5 29. Qxf6 Qc8 30. Kh2 Qg4 31. g3 { ?? Qxe5 is best} Be6 { ?? Rf7 was level} 32.
+Rg2 Qh3+ 33. Kg1 Bd5 34. Rh2 Rxg3+ 35. Bxg3 Qxg3+ 36. Kf1
+
+1-0
+
 [Event "Witney Tournament"]
 [Site "Cokethorpe School"]
 [Date "2026.10.31"]
