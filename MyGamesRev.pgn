@@ -1,3 +1,22 @@
+[Event "Banbury 1 vs Cowley 1"]
+[Site "Whately Hall Hotel, Banbury"]
+[Date "2026.11.19"]
+[Round "-"]
+[White "David Robson"]
+[Black "Mal Waddell"]
+[Opening "Scandinavian"]
+[WhiteECF "1786"]
+[BlackECF "1835"]
+[Result "1-0"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Bg4 4. f3 Bf5 5. g4 Bg6 6. Bg2 {? c4 is best} Nxd5 7. Ne2 e6 8.
+O-O Nc6 9. c3 Bd6 {? h5!} 10. Nd2 {??} Ne3 11. Qe1 {? Qb3 is better} Nxf1 {? Nc2!} 12. Qxf1 Qh4 13. h3 f5 14. Nc4
+Bg3 {??} 15. Be3 fxg4 16. fxg4 Kd7 17. Qc1 Raf8 18. Bg5 Bf4 19. Bxh4 Bxc1 20.
+Nxc1 h5 {?} 21. Bg3 {? Bxc3+} hxg4 22. Bxc6+ Kc8 23. Ne5 Bc2 24. Bd7+ Kd8 25. Bxe6 Rxh3
+26. Bh2 Re3 27. Nb3 g3 28. Bg4 gxh2+ 29. Kxh2 Be4 30. Rd1 Rh8+ 31. Kg1 Rg3+ {??}
+32. Kf2 Rg2+ 33. Ke3 Bd5 34. c4 Bxc4 35. Bf3 Bxb3 36. Bxg2 Bxd1 37. Nf7+
+Ke8 38. Nxh8 Bc2 39. Bxb7 Kf8 40. Be4 Bb1 {??}
+1-0
 [Event "Cowley 1 vs Oxford University 2"]
 [Site "Rosehill Methodist Church"]
 [Date "2026.11.12"]
@@ -5,7 +24,7 @@
 [White "Ted Paul"]
 [Black "David Robson"]
 [WhiteECF "1828"]
-[BlackECF "1772"]
+[BlackECF "1786"]
 [Opening "Caro Kann"]
 [Variation "Exchange"]
 [Result "1/2-1/2"]
@@ -26,7 +45,7 @@ h3 Bf4 41. Rb1 Bxg3 42. fxg3
 [Round "-"]
 [White "David Robson"]
 [Black "Owen Ngai"]
-[WhiteECF "1772"]
+[WhiteECF "1786"]
 [BlackECF "1802"]
 [Opening "Caro Kann"]
 [Variation "Two Knights"]
@@ -43,12 +62,12 @@ Rg2 Qh3+ 33. Kg1 Bd5 34. Rh2 Rxg3+ 35. Bxg3 Qxg3+ 36. Kf1
 
 [Event "Witney Tournament"]
 [Site "Cokethorpe School"]
-[Date "2026.10.31"]
+[Date "2026.11.01"]
 [Round "5"]
 [White "Mark V Abbott"]
 [Black "David Robson"]
 [WhiteECF "1979"]
-[BlackECF "1772"]
+[BlackECF "1786"]
 [Opening "Caro Kann"]
 [Variation "Accelerated Panov"]
 [Result "0-1"]
@@ -59,11 +78,11 @@ Rg2 Qh3+ 33. Kg1 Bd5 34. Rh2 Rxg3+ 35. Bxg3 Qxg3+ 36. Kf1
 
 [Event "Witney Tournament"]
 [Site "Cokethorpe School"]
-[Date "2026.10.31"]
+[Date "2026.11.01"]
 [Round "4"]
 [White "David Robson"]
 [Black "Calon Watson"]
-[WhiteECF "1772"]
+[WhiteECF "1786"]
 [BlackECF "1935"]
 [Opening "Sicilian"]
 [Variation "Alapin"]
@@ -4167,7 +4186,7 @@ Qxg4+ 32. Kf1 Qh3+ 33. Ke1 Qxe3 34. Qxa7 Nc3 35. Kf1 Qxe2+ 36. Kg1 Qe3+
 1. e4 c5 2. Nf3 Nc6 3. c3 g6 4. d4 cxd4 5. cxd4 Bg7 6. Nc3 a6 7. Be3 e6 8.
 Qd2 Nge7 9. Bh6 O-O 10. h4 d5 11. Bxg7 Kxg7 12. h5 Rh8 13. e5 h6 14. Bd3
 Nf5 15. Bxf5 exf5 16. hxg6 fxg6 17. O-O-O Be6 18. Kb1 b5 19. Rc1 Qb6 20.
-Ne2 b4 21. Nf4 Rhe8 22. Qc2 Na5 23. Qc7+ Qxc7 24. Rxc7+ Kg8 25. Nxg6 Rec8
+Ne2 b4 21. Nf4 Rhe8 22. Qc2 {?? Nxe6 followed by Qxh6+ !} Na5 23. Qc7+ Qxc7 24. Rxc7+ Kg8 25. Nxg6 Rec8
 26. Rhc1 Nc4 27. Rxc8+ Rxc8 28. Nf4 Bd7 29. Nxd5
 1-0
 
